@@ -1,0 +1,201 @@
+gender,entity_label,entity_text,frequency
+Men,PLAYER,isak,333
+Men,PLAYER,arteta,266
+Men,PLAYER,gyokeres,243
+Men,PLAYER,salah,230
+Men,PLAYER,frank,211
+Men,PLAYER,enzo maresca,183
+Men,PLAYER,alexander isak,166
+Men,PLAYER,mikel arteta,155
+Men,PLAYER,ruben amorim,148
+Men,PLAYER,viktor gyokeres,138
+Men,PLAYER,alonso,138
+Men,PLAYER,arne slot,133
+Men,PLAYER,tottenham hotspur,131
+Men,PLAYER,howe,123
+Men,PLAYER,eddie howe,116
+Men,PLAYER,thomas frank,113
+Men,PLAYER,guardiola,113
+Men,PLAYER,florian wirtz,104
+Men,PLAYER,bryan mbeumo,103
+Men,PLAYER,benjamin sesko,103
+Men,CLUB,liverpool,1947
+Men,CLUB,chelsea,1858
+Men,CLUB,newcastle,1048
+Men,CLUB,arsenal,912
+Men,CLUB,manchester united,780
+Men,CLUB,barcelona,581
+Men,CLUB,real madrid,574
+Men,CLUB,tottenham,549
+Men,CLUB,manchester city,525
+Men,CLUB,psg,468
+Men,CLUB,spurs,333
+Men,CLUB,everton,325
+Men,CLUB,aston villa,318
+Men,CLUB,brentford,309
+Men,CLUB,man utd,288
+Men,CLUB,brighton,286
+Men,CLUB,reds,244
+Men,CLUB,crystal palace,232
+Men,CLUB,bayern munich,192
+Men,CLUB,napoli,184
+Men,COMPETITION,champions league,1960
+Men,COMPETITION,premier league,1640
+Men,COMPETITION,world cup,383
+Men,COMPETITION,club world cup,217
+Men,COMPETITION,la liga,183
+Men,COMPETITION,carabao cup,183
+Men,COMPETITION,europa league,182
+Men,COMPETITION,uefa champions league,169
+Men,COMPETITION,fa cup,152
+Men,COMPETITION,bundesliga,151
+Men,COMPETITION,serie a,71
+Men,COMPETITION,ligue 1,67
+Men,COMPETITION,conference league,47
+Men,COMPETITION,nations league,33
+Men,COMPETITION,league cup,29
+Men,COMPETITION,super cup,29
+Men,COMPETITION,championship,19
+Men,COMPETITION,european championship,18
+Men,COMPETITION,wsl,18
+Men,COMPETITION,copa del rey,14
+Men,LOCATION,england,735
+Men,LOCATION,europe,445
+Men,LOCATION,spain,394
+Men,LOCATION,madrid,351
+Men,LOCATION,us,337
+Men,LOCATION,newcastle united,328
+Men,LOCATION,uk,291
+Men,LOCATION,metro,291
+Men,LOCATION,france,259
+Men,LOCATION,london,244
+Men,LOCATION,germany,233
+Men,LOCATION,leeds,231
+Men,LOCATION,morocco,182
+Men,LOCATION,stamford bridge,175
+Men,LOCATION,portugal,175
+Men,LOCATION,italy,167
+Men,LOCATION,brazil,151
+Men,LOCATION,nigeria,141
+Men,LOCATION,sunderland,133
+Men,LOCATION,australia,126
+Men,NATIONALITY,european,546
+Men,NATIONALITY,spanish,235
+Men,NATIONALITY,french,219
+Men,NATIONALITY,italian,188
+Men,NATIONALITY,german,162
+Men,NATIONALITY,english,156
+Men,NATIONALITY,brazilian,146
+Men,NATIONALITY,israeli,122
+Men,NATIONALITY,african,116
+Men,NATIONALITY,portuguese,99
+Men,NATIONALITY,british,94
+Men,NATIONALITY,nigerian,91
+Men,NATIONALITY,dutch,81
+Men,NATIONALITY,turkish,78
+Men,NATIONALITY,egyptian,66
+Men,NATIONALITY,palestinian,64
+Men,NATIONALITY,saudi,50
+Men,NATIONALITY,spaniard,49
+Men,NATIONALITY,american,49
+Men,NATIONALITY,indian,49
+Women,PLAYER,francis,225
+Women,PLAYER,epstein,91
+Women,PLAYER,joshua,88
+Women,PLAYER,johnson,75
+Women,PLAYER,karen,71
+Women,PLAYER,kirk,71
+Women,PLAYER,barton,62
+Women,PLAYER,skinner,58
+Women,PLAYER,darian,56
+Women,PLAYER,ward,54
+Women,PLAYER,diana,52
+Women,PLAYER,lisa,51
+Women,PLAYER,keir starmer,49
+Women,PLAYER,matt,49
+Women,PLAYER,sarina wiegman,48
+Women,PLAYER,harry,47
+Women,PLAYER,antony,47
+Women,PLAYER,starmer,43
+Women,PLAYER,kelly,43
+Women,PLAYER,leah williamson,43
+Women,CLUB,chelsea,483
+Women,CLUB,liverpool,386
+Women,CLUB,arsenal,328
+Women,CLUB,barcelona,301
+Women,CLUB,manchester united,190
+Women,CLUB,manchester city,175
+Women,CLUB,everton,151
+Women,CLUB,lionesses,129
+Women,CLUB,psg,123
+Women,CLUB,newcastle,110
+Women,CLUB,matildas,106
+Women,CLUB,blues,97
+Women,CLUB,lyon,84
+Women,CLUB,aston villa,79
+Women,CLUB,real madrid,78
+Women,CLUB,spurs,74
+Women,CLUB,super falcons,66
+Women,CLUB,tottenham,62
+Women,CLUB,juventus,61
+Women,CLUB,reds,61
+Women,COMPETITION,world cup,628
+Women,COMPETITION,champions league,302
+Women,COMPETITION,wsl,276
+Women,COMPETITION,premier league,171
+Women,COMPETITION,nwsl,110
+Women,COMPETITION,club world cup,98
+Women,COMPETITION,women's super league,64
+Women,COMPETITION,fa cup,60
+Women,COMPETITION,euros,57
+Women,COMPETITION,la liga,48
+Women,COMPETITION,nations league,31
+Women,COMPETITION,european championship,30
+Women,COMPETITION,uefa champions league,30
+Women,COMPETITION,europa league,29
+Women,COMPETITION,women's world cup,24
+Women,COMPETITION,women's champions league,24
+Women,COMPETITION,league cup,17
+Women,COMPETITION,ballon d'or,16
+Women,COMPETITION,serie a,14
+Women,COMPETITION,bundesliga,14
+Women,LOCATION,us,982
+Women,LOCATION,england,887
+Women,LOCATION,uk,654
+Women,LOCATION,spain,351
+Women,LOCATION,france,294
+Women,LOCATION,australia,276
+Women,LOCATION,london,271
+Women,LOCATION,united states,247
+Women,LOCATION,india,237
+Women,LOCATION,canada,229
+Women,LOCATION,europe,225
+Women,LOCATION,morocco,208
+Women,LOCATION,nigeria,201
+Women,LOCATION,italy,195
+Women,LOCATION,china,191
+Women,LOCATION,ireland,190
+Women,LOCATION,iran,162
+Women,LOCATION,wales,154
+Women,LOCATION,germany,153
+Women,LOCATION,japan,151
+Women,NATIONALITY,european,254
+Women,NATIONALITY,american,243
+Women,NATIONALITY,israeli,234
+Women,NATIONALITY,british,209
+Women,NATIONALITY,irish,153
+Women,NATIONALITY,palestinian,129
+Women,NATIONALITY,french,117
+Women,NATIONALITY,african,109
+Women,NATIONALITY,spanish,102
+Women,NATIONALITY,australian,100
+Women,NATIONALITY,english,95
+Women,NATIONALITY,italian,82
+Women,NATIONALITY,indian,81
+Women,NATIONALITY,chinese,80
+Women,NATIONALITY,japanese,74
+Women,NATIONALITY,nigerian,65
+Women,NATIONALITY,democrats,61
+Women,NATIONALITY,russian,58
+Women,NATIONALITY,canadian,57
+Women,NATIONALITY,palestinians,56
