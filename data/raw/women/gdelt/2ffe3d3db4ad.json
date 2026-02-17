@@ -1,0 +1,14 @@
+{
+  "article_id": "2ffe3d3db4ad",
+  "url": "https://www.geelongadvertiser.com.au/news/breaking-news?nk=43c076c17f64cf725f39043dcf3c7765-1699669026",
+  "title": "Breaking news | Latest News and News Headlines",
+  "date": "20231111T023000Z",
+  "domain": "geelongadvertiser.com.au",
+  "source_country": "",
+  "language": "English",
+  "gender_category": "women",
+  "source_pipeline": "women_expanded_gdelt_simple",
+  "body_text": "No Cookies\nTo use this website, cookies must be enabled in your browser. To enable cookies, follow the instructions for your browser below.\nFacebook App: Open links in External Browser\nThere is a specific issue with the Facebook in-app browser intermittently making requests to websites without cookies that had previously been set. This appears to be a defect in the browser which should be addressed soon. The simplest approach to avoid this problem is to continue to use the Facebook app but not use the in-app browser.\nThis can be done through the following steps:\n1. Open the settings menu by clicking the hamburger menu in the top right\n2. Choose “App Settings” from the menu\n3. Turn on the option “Links Open Externally” (This will use the device’s default browser)\nEnabling Cookies in Internet Explorer 7, 8 & 9\n1. Open the Internet Browser\n2. Click Tools > Internet Options > Privacy > Advanced\n3. Check Override automatic cookie handling\n4. For First-party Cookies and Third-party Cookies click Accept\n5. Click OK and OK\nEnabling Cookies in Firefox\n1. Open the Firefox browser\n2. Click Tools > Options > Privacy > Use custom settings for history\n3. Check Accept cookies from sites\n4. Check Accept third party cookies\n5. Select Keep until: they expire\n6. Click OK\nEnabling Cookies in Google Chrome\n1. Open the Google Chrome browser\n2. Click Tools > Options > Privacy Options > Under the Hood > Content Settings\n3. Check Allow local data to be set\n4. Uncheck Block third-party cookies from being set\n5. Uncheck Clear cookies\n6. Close all\nEnabling Cookies in Mobile Safari (iPhone, iPad)\n1. Go to the Home screen by pressing the Home button or by unlocking your phone/iPad\n2. Select the Settings icon.\n3. Select Safari from the settings menu.\n4. Select ‘accept cookies’ from the safari menu.\n5. Select ‘from visited’ from the accept cookies menu.\n6. Press the home button to return the the iPhone home screen.\n7. Select the Safari icon to return to Safari.\n8. Before the cookie settings change will take effect, Safari must restart. To restart Safari press and hold the Home button (for around five seconds) until the iPhone/iPad display goes blank and the home screen appears.\n9. Select the Safari icon to return to Safari.",
+  "word_count": 385,
+  "scraped_at": "2026-02-14T12:17:00.989710"
+}

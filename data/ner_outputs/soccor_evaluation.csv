@@ -1,0 +1,4 @@
+model,model_key,benchmark,entity_type,precision,recall,f1,true_positives,false_negatives,false_positives
+en_core_web_sm,sm,SocCor,PLAYER,0.7661498708010336,0.5531716417910447,0.6424702058504875,593,479,181
+en_core_web_lg,lg,SocCor,PLAYER,0.8188105117565698,0.5522388059701493,0.6596100278551532,592,480,131
+en_core_web_trf,trf,SocCor,PLAYER,0.8470776621297038,0.9869402985074627,0.9116760017233951,1058,14,191

@@ -1,9 +1,17 @@
 __pycache__/
-*.pkl
-*.csv
 .DS_Store
-logs/
-data/
 venv/
 .env
 .ipynb_checkpoints/
+
+# Ignore large data files (>100MB)
+*.pkl
+data/processed/women_articles.csv
+data/ner_outputs/sm/men_entities.csv
+data/ner_outputs/sm/women_entities.csv
+data/ner_outputs/lg/men_entities.csv
+data/ner_outputs/lg/women_entities.csv
+
+# Allow other data and logs
+!data/
+!logs/

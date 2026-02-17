@@ -101,7 +101,42 @@ FOOTBALL_CLUBS = {
     # Nicknames that spaCy may tag as PERSON
     "blues", "reds", "gunners", "magpies", "hammers", "foxes",
     "toffees", "villans", "saints", "hornets", "cherries",
-    "matildas", "lionesses",
+    "matildas", "lionesses", "uswnt", "canwnt", "super falcons",
+    "banyana banyana", "fernanda", "football ferns", "copper queens",
+    "atlas lionesses", "reggae girlz", "murtazas", "steel roses",
+    "nadeshiko", "taegeuk ladies", "girls in green",
+
+    # Expanded Women's Clubs (NWSL)
+    "gotham", "gotham fc", "nj/ny gotham fc",
+    "racing louisville", "louisville",
+    "portland thorns", "thorns",
+    "ol reign", "reign", "seattle reign",
+    "angel city", "angel city fc",
+    "san diego wave", "wave", "wave fc",
+    "washington spirit", "spirit",
+    "north carolina courage", "courage", "nc courage",
+    "orlando pride", "pride",
+    "houston dash", "dash",
+    "kansas city current", "current", "kc current",
+    "chicago red stars", "red stars",
+    "utah royals", "royals",
+    "bay fc",
+
+    # Expanded European Women's Clubs
+    "wolfsburg", "vfl wolfsburg",
+    "bayern munich", "fc bayern",
+    "eintracht frankfurt", "frankfurt",
+    "hoffenheim", "tsg hoffenheim",
+    "paris fc", "fleury", "montpellier", "dijon", "le havre", "guingamp",
+    "reims", "bordeaux", "saint-etienne",
+    "levante", "levante las planas", "madrid cff", "granadilla tenerife", "valencia",
+    "real sociedad", "sevilla", "athletic club", "sporting huelva", "betis",
+    "roma", "juventus", "fiorentina", "inter", "milan", "sassuolo", "sampdoria",
+    "rosengard", "hacken", "linkoping", "hammarby",
+    "twente", "ajax", "fortuna sittard", "psv",
+    "benfica", "sporting", "braga",
+    "st polten", "slavia prague", "sparta prague",
+    "zurich", "servette",
 }
 
 FOOTBALL_MEDIA = {
@@ -109,7 +144,10 @@ FOOTBALL_MEDIA = {
     "instagram", "youtube", "espn", "itv", "channel 4", "channel 5",
     "prime video", "nbc sports", "peacock", "bbc", "sky",
     "bt sport", "dazn", "paramount+", "cbs sports", "fox sports",
-    "talksport", "the athletic", "optus sport",
+    "talksport", "the athletic", "optus sport", "telegraph",
+    "guardian", "daily mail", "mirror", "sun", "times", "independent",
+    "nytimes", "washington post", "usa today", "ap", "reuters",
+    "cnn", "goal", "onefootball", "fotmob", "sofascore",
 }
 
 NON_FOOTBALL_NOISE = {
@@ -117,14 +155,71 @@ NON_FOOTBALL_NOISE = {
     "ncaa", "super bowl", "congress", "senate", "white house",
     "republican", "democrat", "putin", "ukraine", "gaza", "israel",
     "hamas", "nasa", "spacex", "tesla", "apple", "google", "amazon",
-    "facebook", "meta", "microsoft", "twitter",
+    "facebook", "meta", "microsoft", "twitter", "netflix", "disney",
+    "marvel", "star wars", "taylor swift", "beyonce", "grammy", "oscar",
+    "bafta", "emmy", "goldman sachs", "jpmorgan", "stock market",
+    "wall street", "fed", "inflation", "recession", "gdp",
 }
 
 FOOTBALL_ORGANISATIONS = {
     "fifa", "uefa", "the fa", "fa", "conmebol", "caf", "afc",
     "concacaf", "ofc", "cas", "dfb", "rfef", "figc", "fff", "lfp",
-    "efl", "pgmol", "var",
+    "efl", "pgmol", "var", "nwsl", "wsl", "premier league", "mls",
+    "pfa", "fpro", "eca", "ifab",
 }
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# Article Filter
+# ═══════════════════════════════════════════════════════════════════════════════
+
+KEYWORDS_FOOTBALL = {
+    "football", "soccer", "league", "cup", "match", "game", "player",
+    "team", "club", "manager", "coach", "goal", "assist", "score",
+    "win", "loss", "draw", "stadium", "pitch", "referee", "var",
+    "offside", "penalty", "corner", "free kick", "throw in",
+    "goalkeeper", "defender", "midfielder", "striker", "forward",
+    "winger", "captain", "squad", "roster", "lineup", "transfer",
+    "loan", "signing", "contract", "injury", "suspension", "table",
+    "standings", "points", "relegation", "promotion", "playoff",
+    "final", "semi-final", "quarter-final", "champion", "title",
+    "trophy", "medal", "tournament", "qualifier", "group stage",
+    "knockout", "round of 16", "fixture", "result", "highlight",
+    "replay", "extra time", "shootout", "aggregate", "away goal",
+    "clean sheet", "hat-trick", "brace", "own goal", "red card",
+    "yellow card", "booking", "foul", "handball", "diving",
+    "simulation", "time wasting", "added time", "injury time",
+    "stoppage time", "half time", "full time", "kick off",
+    "first half", "second half", "season", "pre-season",
+    "friendly", "international break", "world cup", "euro",
+    "copa america", "asian cup", "afcon", "gold cup",
+    "champions league", "europa league", "conference league",
+    "libertadores", "sudamericana", "recopa", "super cup",
+    "club world cup", "olympics", "ballon d'or", "uefa", "fifa",
+}
+
+def is_football_article(text: str, threshold: int = 3) -> bool:
+    """
+    Check if an article is likely about football.
+    Returns True if it contains at least `threshold` unique football keywords.
+    """
+    if not isinstance(text, str):
+        return False
+    
+    text_lower = text.lower()
+    
+    # Negative filter: if it mentions 'touchdown', 'quarterback', 'inning', 'homerun' -> likely not football
+    # (unless it's a comparison article, but safe to skip for purity)
+    if any(w in text_lower for w in ["touchdown", "quarterback", "inning", "homerun", "slam dunk"]):
+        return False
+
+    count = 0
+    for kw in KEYWORDS_FOOTBALL:
+        if kw in text_lower:
+            count += 1
+            if count >= threshold:
+                return True
+    return False
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -212,11 +307,30 @@ def process_articles(
 
     logger.info(f"[{gender.upper()}] Running NER with {model_name} on {len(texts)} articles...")
     start_time = time.time()
+    skipped_articles = 0
+    processed_count = 0
 
     for i in tqdm(range(0, len(texts), batch_size), desc=f"  {gender} ({model_name})"):
         batch_texts = texts[i : i + batch_size]
         batch_ids = article_ids[i : i + batch_size]
         batch_titles = titles[i : i + batch_size]
+        
+        # Filter articles - keep only football-relevant ones
+        valid_indices = []
+        for idx, text in enumerate(batch_texts):
+            if is_football_article(text):
+                valid_indices.append(idx)
+            else:
+                skipped_articles += 1
+        
+        if not valid_indices:
+            continue
+
+        # Reduce batch to valid articles only
+        batch_texts = [batch_texts[j] for j in valid_indices]
+        batch_ids = [batch_ids[j] for j in valid_indices]
+        batch_titles = [batch_titles[j] for j in valid_indices]
+        processed_count += len(valid_indices)
 
         # Truncate very long texts to avoid memory issues (keep first 10K chars)
         batch_texts = [t[:10000] if len(t) > 10000 else t for t in batch_texts]
@@ -263,8 +377,9 @@ def process_articles(
 
     elapsed = time.time() - start_time
     logger.info(
-        f"  {gender} ({model_name}): {len(all_entities)} entities extracted "
-        f"in {elapsed:.1f}s ({len(texts)/elapsed:.1f} articles/sec)"
+        f"  {gender} ({model_name}): {len(all_entities)} entities extracted from {processed_count} articles "
+        f"({skipped_articles} skipped as non-football) "
+        f"in {elapsed:.1f}s ({processed_count/elapsed:.1f} articles/sec)"
     )
 
     # Convert to DataFrames

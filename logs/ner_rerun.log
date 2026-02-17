@@ -1,0 +1,8 @@
+2026-02-17 10:48:41,468 [INFO] Loaded 9743 men's + 9540 women's articles
+2026-02-17 10:48:41,476 [INFO] 
+============================================================
+2026-02-17 10:48:41,476 [INFO] Loading model: en_core_web_lg
+2026-02-17 10:48:41,476 [INFO] ============================================================
+2026-02-17 10:48:43,189 [INFO] [MEN] Running NER with en_core_web_lg on 9743 articles...
+  men (en_core_web_lg):   0%|          | 0/98 [00:00<?, ?it/s]  men (en_core_web_lg):   1%|          | 1/98 [00:15<25:13, 15.61s/it]  men (en_core_web_lg):   2%|▏         | 2/98 [00:30<24:37, 15.39s/it]  men (en_core_web_lg):   3%|▎         | 3/98 [00:48<25:59, 16.41s/it]  men (en_core_web_lg):   4%|▍         | 4/98 [01:05<25:49, 16.49s/it]  men (en_core_web_lg):   5%|▌         | 5/98 [01:16<22:57, 14.81s/it]  men (en_core_web_lg):   6%|▌         | 6/98 [01:35<24:36, 16.05s/it]  men (en_core_web_lg):   7%|▋         | 7/98 [01:52<24:50, 16.38s/it]  men (en_core_web_lg):   8%|▊         | 8/98 [02:09<24:43, 16.49s/it]  men (en_core_web_lg):   9%|▉         | 9/98 [02:28<25:47, 17.39s/it]  men (en_core_web_lg):  10%|█         | 10/98 [02:48<26:47, 18.27s/it]  men (en_core_web_lg):  11%|█         | 11/98 [03:08<27:04, 18.67s/it]  men (en_core_web_lg):  12%|█▏        | 12/98 [03:22<24:57, 17.42s/it]  men (en_core_web_lg):  13%|█▎        | 13/98 [03:40<24:46, 17.49s/it]  men (en_core_web_lg):  14%|█▍        | 14/98 [03:57<24:04, 17.19s/it]  men (en_core_web_lg):  15%|█▌        | 15/98 [04:14<24:00, 17.36s/it]/opt/anaconda3/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

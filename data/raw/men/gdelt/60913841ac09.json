@@ -1,0 +1,15 @@
+{
+  "article_id": "60913841ac09",
+  "url": "https://www.uefa.com/uefaeuropaleague/draws/2024/2001763/",
+  "title": "UEFA Europa League knockout round play - off draw | UEFA Europa League 2023 / 24",
+  "date": "20231218T110000Z",
+  "domain": "uefa.com",
+  "source_country": "Spain",
+  "language": "English",
+  "gender_category": "men",
+  "source_pipeline": "gdelt",
+  "body_text": "Skip to main content\nKnockout round play-off draw\nNyon -\nMonday 18 December 2023, 12:00\n- your local time\n{\"@context\":\"https://schema.org/\",\"@type\":\"SportsEvent\",\"@id\":\"https://www.uefa.com/uefaeuropaleague/draws/2024/2001763/#6b905293-3fdb-4bdd-b4c7-245be3422c31\",\"url\":\"https://www.uefa.com/uefaeuropaleague/draws/2024/2001763/#6b905293-3fdb-4bdd-b4c7-245be3422c31\",\"eventAttendanceMode\":\"https://schema.org/MixedEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventMovedOnline\",\"name\":\"UEFA Europa League - Knockout round play-off draw\",\"description\":\"UEFA Europa League - Knockout round play-off draw\",\"startDate\":\"2023-12-18T11:00:00\\u002B00:00\",\"endDate\":\"2023-12-18T13:00:00\\u002B00:00\",\"image\":\"https://img.uefa.com/imgml/uefacom/uel/social/og-draw.jpg\",\"location\":[{\"@type\":\"VirtualLocation\",\"url\":\"https://www.uefa.com/uefaeuropaleague/draws/2024/2001763/#6b905293-3fdb-4bdd-b4c7-245be3422c31\"},{\"@type\":\"Place\",\"name\":\"Nyon\",\"address\":\"Nyon\"}],\"organizer\":{\"@type\":\"Organization\",\"url\":\"https://www.uefa.com\",\"name\":\"UEFA\"}}",
+  "word_count": 34,
+  "scraped_at": "2026-02-14T02:10:33.597944",
+  "_text_extracted": true
+}
