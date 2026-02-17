@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+trafilatura
+pandas
+tqdm
+python-dotenv
+lxml
+feedparser
+opendatasets
