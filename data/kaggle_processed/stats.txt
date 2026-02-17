@@ -1,0 +1,469 @@
+Total articles: 11949
+Women articles: 563
+Other articles: 11386
+Test women: 563
+Test other: 1000
+
+Per-source breakdown:
+  Goal.com                        women=  400  other= 7083
+  all-football-app                women=   16  other=  763
+  unknown                         women=   12  other=   78
+  skysports                       women=   32  other=  184
+  ManUtd.com                      women=    0  other=    4
+  RedCafe                         women=    0  other=   16
+  The Athletic                    women=    1  other=   44
+  Tribuna.com                     women=    1  other=  199
+  Bournemouth                     women=    0  other=    1
+  x.com                           women=    0  other=    2
+  SPORTbible                      women=    0  other=   17
+  Mundo Deportivo                 women=    0  other=   20
+  Liverpool Echo                  women=    0  other=   11
+  Gambling Zone                   women=    0  other=    1
+  Opta                            women=    0  other=    4
+  Tribuna                         women=    2  other=   59
+  Brighton                        women=    0  other=    1
+  The Sun                         women=    0  other=    8
+  BBC via Give Me Sport           women=    0  other=    1
+  Daily Star                      women=    0  other=    8
+  Fabrizio Romano                 women=    0  other=   40
+  Metro                           women=    0  other=    3
+  X                               women=    0  other=   25
+  Euro Sport                      women=    0  other=    1
+  Arsenal                         women=    0  other=    2
+  Sam Lee                         women=    0  other=    1
+  talkSPORT (via Daily Mail)      women=    0  other=    1
+  Vibe with Five @ YouTube        women=    0  other=    2
+  Football London                 women=    0  other=   10
+  Nizaar Kinsella @ Twitter       women=    0  other=    2
+  Sport                           women=    0  other=   11
+  Chelsea FC @ Youtube            women=    0  other=    1
+  Diario Sport                    women=    0  other=   15
+  Lluis Flaquer                   women=    0  other=    2
+  Vibe with Five                  women=    0  other=    1
+  Give Me Sport                   women=    0  other=    2
+  BBC                             women=    0  other=   17
+  Iconic_Mourinho                 women=    0  other=    1
+  Arsenal Official                women=    0  other=    2
+  CAT Radio via Managing Barca    women=    0  other=    1
+  Twitter                         women=    0  other=   29
+  ESPN FC                         women=    0  other=    1
+  Mirror                          women=    1  other=    9
+  Diario AS                       women=    0  other=   21
+  The Telegraph                   women=    0  other=   11
+  Forbes                          women=    0  other=    1
+  Daily Mail                      women=    1  other=   47
+  elchiringuitotv                 women=    0  other=    4
+  AS.com                          women=    0  other=    7
+  Marca                           women=    1  other=   17
+  Toni Juanmarti                  women=    0  other=    1
+  HITC                            women=    0  other=    1
+  Daily Mirror                    women=    0  other=    4
+  beIN SPORTS                     women=    0  other=    3
+  Sir shargi  @ Twitter           women=    0  other=    1
+  BBC Sport                       women=    0  other=    4
+  Harry’s Gym Chat                women=    0  other=    1
+  The Metro                       women=    0  other=    5
+  Football Insider                women=    0  other=    6
+  Barca Universal                 women=    0  other=    1
+  RMC Sport                       women=    0  other=    2
+  talkSPORT                       women=    0  other=    7
+  Manchester Evening News         women=    0  other=    5
+  FOOTGRAM                        women=    0  other=    5
+  AS                              women=    0  other=   12
+  Mancity.com                     women=    0  other=   11
+  Guillermo Rai @ Twitter         women=    0  other=    1
+  Nottingham Forest               women=    0  other=    1
+  Footmercato                     women=    0  other=    1
+  Opta Stats @ X                  women=    0  other=    1
+  Instagram                       women=    0  other=   13
+  Absolute Chelsea @ Twitter      women=    0  other=    2
+  CBS Sports Golazo               women=    0  other=    1
+  ESPN                            women=    0  other=    7
+  Sol                             women=    0  other=    1
+  HaytersTV                       women=    0  other=    1
+  Rio Ferdinand Presents FIVE     women=    0  other=    2
+  EduardoHagn                     women=    0  other=    1
+  Carlos Monfort                  women=    0  other=    1
+  Liverpool FC                    women=    0  other=   11
+  CBF Futebol                     women=    0  other=    1
+  El Desmarque                    women=    0  other=    1
+  DaveOckop                       women=    0  other=    1
+  FOOTGRAM | BACKSTAGE FOOTBALL   women=    0  other=    3
+  tribuna.com                     women=    0  other=    1
+  Atletico Madrid                 women=    0  other=    2
+  Arsenal FC                      women=    0  other=   12
+  Fabrizio Romano @ twitter       women=    0  other=    1
+  Reddit                          women=    0  other=   26
+  Sky Sports                      women=    0  other=   28
+  BBC Sports                      women=    0  other=    6
+  Sky Germany                     women=    0  other=    1
+  now_arsenaI @ Twitter           women=    0  other=    1
+  The National                    women=    0  other=    1
+  AFP                             women=    0  other=    1
+  Movistar                        women=    0  other=    1
+  HITC.com                        women=    0  other=    2
+  /r/Gunners                      women=    0  other=    9
+  berger_pj                       women=    0  other=    1
+  Sky Sports @ X                  women=    0  other=    1
+  GiveMeSport                     women=    0  other=    4
+  Telegraph                       women=    0  other=    9
+  DAZN Football                   women=    0  other=    1
+  i                               women=    0  other=    2
+  Relevo                          women=    1  other=   10
+  Sports News Africa              women=    0  other=    1
+  Caughtoffside.com               women=    0  other=    1
+  FCBarcelona @Twitter            women=    0  other=    1
+  Vdyk @ Twitter                  women=    0  other=    1
+  MEN                             women=    0  other=   15
+  Memorabilia1899                 women=    0  other=    2
+  cadenaser                       women=    0  other=    1
+  Foot Mercato                    women=    0  other=    3
+  Ben_Mattinson_                  women=    0  other=    1
+  footballbenchmark               women=    0  other=    1
+  Chelsea FC                      women=    0  other=    2
+  Corriere dello Sport            women=    0  other=    1
+  GOAL                            women=    0  other=    2
+  Betfair                         women=    0  other=    1
+  CaughtOffside                   women=    0  other=    8
+  City HQ                         women=    0  other=    1
+  Evening Standard                women=    0  other=   14
+  Footy Tone                      women=    0  other=    1
+  Fabrizio Romano via Caught Offside  women=    0  other=    4
+  the BBC                         women=    0  other=    1
+  Globo                           women=    0  other=    1
+  TNT Sports                      women=    0  other=    7
+  Fabrizio Romano @ Twitter       women=    0  other=    2
+  FIVE                            women=    0  other=    4
+  Einfach mal Luppen              women=    0  other=    1
+  L'Equipe                        women=    0  other=    8
+  FC Barcelona Femeni             women=    1  other=    0
+  Independent                     women=    0  other=    4
+  Football 365                    women=    0  other=    1
+  Asroma.com                      women=    0  other=    1
+  mattkandela                     women=    0  other=    1
+  Placar                          women=    0  other=    1
+  Ivan Toney @ X                  women=    0  other=    1
+  CIES Football Observatory       women=    0  other=    1
+  Newcastle United                women=    0  other=    2
+  Statman Dave @ X                women=    0  other=    2
+  Mancity                         women=    0  other=    1
+  TNT via AFCStuff                women=    0  other=    1
+  Fabrizio Romano via Give Me Sport  women=    0  other=    3
+  theathletic.com                 women=    0  other=    1
+  Sky Sports (via BBC Sport)      women=    0  other=    1
+  Standard Sport                  women=    0  other=    1
+  FIFPRO                          women=    0  other=    1
+  The Standard                    women=    0  other=    1
+  Adrian Sanchez via Caught Offside  women=    0  other=    1
+  This Is Anfield                 women=    0  other=    1
+  Javier Parra Pena (via Sports Illustrated)  women=    0  other=    1
+  Clank Media                     women=    0  other=    1
+  HullCity                        women=    0  other=    1
+  BarcaUniversal                  women=    0  other=    2
+  Planet Sport                    women=    0  other=    1
+  Premier League                  women=    0  other=    5
+  LaLiga EA Sports                women=    0  other=    1
+  Transfermarkt                   women=    0  other=    9
+  Daily Transfer Briefing podcast  women=    0  other=    1
+  GolagolE3                       women=    0  other=    1
+  LiveScore                       women=    1  other=    0
+  DAZN                            women=    0  other=    2
+  Fichajes via Football365        women=    0  other=    1
+  Five                            women=    0  other=    2
+  Talksport                       women=    0  other=    2
+  Catenaccio e contropiede        women=    0  other=    1
+  as.com                          women=    0  other=    2
+  Football Espana                 women=    0  other=    2
+  football365                     women=    0  other=    1
+  SebC @ Twitter                  women=    0  other=    1
+  Jijantes FC                     women=    0  other=    3
+  Ferran Martinez                 women=    0  other=    1
+  The Metro, The Sun              women=    0  other=    1
+  El Pais                         women=    0  other=    1
+  WhoScored                       women=    0  other=    7
+  Bein Sports                     women=    0  other=    1
+  CBS Sport via MadridXtra        women=    0  other=    1
+  SSC Sport                       women=    0  other=    1
+  AFC                             women=    0  other=    1
+  Marca via RubenMartin           women=    0  other=    1
+  Wingplay @ Twitter              women=    0  other=    1
+  Phil Scarisbrick                women=    0  other=    1
+  Manutd.com                      women=    0  other=    2
+  The Rest is Football            women=    0  other=    2
+  TheOverlap @Youtube             women=    0  other=    1
+  Liverpoolfc                     women=    0  other=    1
+  Dale Johnson                    women=    0  other=    1
+  Charles Watts @Youtube          women=    0  other=    2
+  RMFC TV via Twitter             women=    0  other=    1
+  Ole                             women=    0  other=    2
+  Standard                        women=    0  other=    4
+  Goal                            women=    0  other=    7
+  Brentford                       women=    0  other=    1
+  Fabrizio Romano @ X             women=    0  other=    2
+  Cadena SER                      women=    0  other=    4
+  Barnes                          women=    0  other=    1
+  MoArsenal86 @ Twitter           women=    0  other=    1
+  Liverpool @Youtube              women=    0  other=    1
+  Sky Sports via Football365      women=    0  other=    1
+  Mail                            women=    0  other=    1
+  Rio Ferdinand Presents Five     women=    0  other=    1
+  FC Barcelona                    women=    1  other=    2
+  hirstclass                      women=    0  other=    1
+  Mason Greenwood @ Instagram     women=    0  other=    1
+  Gary Neville podcast            women=    0  other=    1
+  https://www.liverpoolfc.com/news/lfc-injury-update-alexander-arnold-jones-robertson-szoboszlai-tsimikas  women=    0  other=    1
+  The PFA @ YouTube               women=    0  other=    1
+  CBSSportsGolazo @ Twitter       women=    0  other=    1
+  Cope via Diario Sport           women=    0  other=    1
+  Four Four Two                   women=    0  other=    2
+  https://www.telegraph.co.uk/football/2024/01/27/liverpool-face-fight-for-top-targets-replace-jurgen-klopp/  women=    0  other=    1
+  90min                           women=    0  other=    1
+  Daqtoillo097                    women=    0  other=    1
+  FTalentScout                    women=    0  other=    1
+  La Liga                         women=    0  other=    1
+  Fcbayern.com                    women=    0  other=    1
+  Albert Ortega                   women=    0  other=    1
+  Rob Dawson via ESPN             women=    0  other=    1
+  carrusel                        women=    0  other=    1
+  MUST                            women=    0  other=    1
+  Charles Watts                   women=    0  other=    1
+  Ajax                            women=    0  other=    1
+  GIDI                            women=    0  other=    1
+  Ben Jacobs                      women=    0  other=    1
+  Yonhap News                     women=    0  other=    1
+  RAC1                            women=    0  other=    6
+  ArsenalFC.com                   women=    0  other=    6
+  Sky Sports via The Sun          women=    0  other=    1
+  Fernando Polo                   women=    0  other=    1
+  OnzeTv3                         women=    0  other=    1
+  Cope                            women=    0  other=    3
+  Le Parisien                     women=    0  other=    1
+  FabrizioRomano                  women=    0  other=    2
+  Footballer's Football podcast   women=    0  other=    1
+  FCB World                       women=    0  other=    1
+  Fcbinside.de                    women=    0  other=    1
+  CFC Pics                        women=    0  other=    1
+  The Athletic Football Podcast   women=    0  other=    1
+  MEGAPARI                        women=    0  other=    2
+  SkySportsPL                     women=    0  other=    1
+  Tuttomercato Web                women=    0  other=    1
+  AS Roma Official                women=    0  other=    1
+  Gol                             women=    0  other=    2
+  Sky Sports via BBC              women=    0  other=    1
+  Crystal Palace                  women=    0  other=    2
+  Florian Plettenberg             women=    0  other=    1
+  Mike Keegan via Daily Mail      women=    0  other=    1
+  Record via Twitter              women=    0  other=    1
+  PSG Talk                        women=    0  other=    1
+  Juventus                        women=    0  other=    1
+  Redcafe                         women=    0  other=    2
+  Liverpool Echo | Tribuna        women=    0  other=    1
+  Gerard Romero                   women=    0  other=    2
+  CFC Pys @ Twitter               women=    0  other=    1
+  Man United                      women=    0  other=    2
+  El Mundo                        women=    0  other=    1
+  El Chiringuito                  women=    0  other=    1
+  TVP Sport, Teamtalk             women=    0  other=    1
+  welbeasts                       women=    0  other=    1
+  Jose Mourinho                   women=    0  other=    1
+  Rio Ferdinad Presents FIVE      women=    0  other=    1
+  Tribuna.com | Mundo Deportivo   women=    0  other=    1
+  Arsenal @ X                     women=    0  other=    1
+  The Times                       women=    0  other=    1
+  Real Madrid CF                  women=    0  other=    4
+  BEin Sports                     women=    0  other=    1
+  Tribuna.com/en/                 women=    0  other=    1
+  CBS Sports                      women=    0  other=    1
+  The Guardian                    women=    0  other=    6
+  CatRadio                        women=    0  other=    1
+  Sky Sports via GOAL             women=    0  other=    1
+  Belfast Telegraph               women=    0  other=    1
+  LFC @Twitter                    women=    0  other=    1
+  Man City                        women=    0  other=    2
+  GQ                              women=    0  other=    1
+  Out Of Context Football         women=    0  other=    1
+  ellarguero                      women=    0  other=    1
+  AFP via DaveOckop               women=    0  other=    1
+  Guardian                        women=    0  other=    1
+  ManYooDan                       women=    0  other=    1
+  LFC @ Twitter                   women=    0  other=    2
+  FIFA                            women=    0  other=    2
+  marca.com                       women=    0  other=    1
+  mundodeportivo                  women=    0  other=    3
+  TNT via AFC Stuff               women=    0  other=    2
+  France 24                       women=    0  other=    1
+  Sky Deutschland via Liverpool Echo  women=    0  other=    1
+  ThisIsAnfield                   women=    0  other=    1
+  Twitter, Reddit                 women=    0  other=    1
+  Ferran Correas                  women=    0  other=    1
+  Arsenal.com                     women=    0  other=    4
+  Daily Briefing                  women=    0  other=    1
+  Record                          women=    0  other=    1
+  Pulse Sports                    women=    0  other=    1
+  grizibae                        women=    0  other=    1
+  the Daily Mail                  women=    0  other=    1
+  Ethan Nwaneri                   women=    0  other=    1
+  BeIN Sports                     women=    0  other=    1
+  MUTV                            women=    0  other=    1
+  The Independent                 women=    0  other=    2
+  Sport Bild                      women=    0  other=    1
+  Man United Official             women=    0  other=    1
+  Yahoo                           women=    0  other=    2
+  BelleSilva @Twitter             women=    0  other=    1
+  Teamtalk                        women=    0  other=    1
+  Football Transfers              women=    0  other=    1
+  As.com                          women=    0  other=    1
+  CentreGoals                     women=    0  other=    1
+  Win Sports via Metro            women=    0  other=    1
+  Ben Jacobs @ Substack           women=    0  other=    2
+  adricontreras4                  women=    0  other=    1
+  LaLiga                          women=    0  other=    1
+  MD                              women=    0  other=    1
+  Bild                            women=    0  other=    2
+  Al Ettifaq, Ajax                women=    0  other=    1
+  MarceloM12                      women=    0  other=    1
+  The BSMT                        women=    0  other=    1
+  gastonedul                      women=    0  other=    1
+  charles_watts                   women=    0  other=    1
+  Sky Italia                      women=    0  other=    1
+  Radio Marca                     women=    0  other=    1
+  Shaun                           women=    0  other=    1
+  Toni Juarnmarti                 women=    0  other=    1
+  Paul Scholes @ Instagram        women=    0  other=    1
+  sport                           women=    0  other=    1
+  Managing Madrid                 women=    0  other=    1
+  Pro:Direct Soccer               women=    0  other=    1
+  Spurs Official                  women=    0  other=    1
+  Transfermarkt via Reddit        women=    0  other=    1
+  PremierLeague                   women=    0  other=    1
+  Capology                        women=    0  other=    1
+  Mundo Deportivo via Barca Universal  women=    0  other=    1
+  Envoye Special                  women=    0  other=    1
+  Fabrizio Romano @ YouTube       women=    0  other=    1
+  ChelseaFC                       women=    0  other=    2
+  Liverpoolfc.com                 women=    0  other=    1
+  Belle Silva @ Twitter           women=    0  other=    1
+  MLS                             women=    0  other=    1
+  DaveOCKOP                       women=    0  other=    1
+  Man United FC                   women=    0  other=    2
+  TNT Sports via BBC              women=    0  other=    1
+  RedCentrall                     women=    0  other=    1
+  James                           women=    0  other=    1
+  UEFA                            women=    0  other=    1
+  Santi Aouna                     women=    0  other=    1
+  It's All Kicking Off podcast    women=    0  other=    1
+  GIVEMESPORT                     women=    0  other=    1
+  SSC                             women=    0  other=    2
+  MovistarFutbol                  women=    0  other=    1
+  Eintracht                       women=    0  other=    1
+  Liam Twomey                     women=    0  other=    1
+  nonewthing @ Twitter            women=    0  other=    1
+  SZ                              women=    0  other=    1
+  TNT                             women=    0  other=    1
+  realmadrid                      women=    0  other=    1
+  BILD                            women=    0  other=    1
+  Football Italia                 women=    0  other=    1
+  DAZN via Lluis Flaquer          women=    0  other=    4
+  nealmaupay                      women=    0  other=    1
+  Nizaar Kinsella                 women=    0  other=    1
+  AntoGriezmann                   women=    0  other=    1
+  azernews                        women=    0  other=    1
+  TheAthleticFC                   women=    0  other=    1
+  RamyCol @ Twitter               women=    0  other=    1
+  The Bridge                      women=    0  other=    1
+  Mohamed Salah @ X               women=    0  other=    1
+  The Sun via Mirror              women=    0  other=    1
+  esport3                         women=    0  other=    1
+  ChrisWheelerDM                  women=    0  other=    1
+  FCBarcelona                     women=    0  other=    2
+  AS ROMA                         women=    1  other=    0
+  Neal                            women=    0  other=    1
+  The Players' Tribune            women=    0  other=    1
+  TV3 via Xavi Espinosa           women=    0  other=    1
+  Liverpool ECHO                  women=    0  other=    1
+  The Rest Is Football            women=    0  other=    1
+  Martin Minan                    women=    0  other=    1
+  https://twitter.com/FabrizioRomano/status/1751707994734088491?s=20  women=    0  other=    1
+  SkySportsNews                   women=    0  other=    1
+  Tifo Football                   women=    0  other=    1
+  FourFourTwo                     women=    0  other=    1
+  AranchaMOBILE                   women=    0  other=    1
+  Jose Felix Diaz                 women=    0  other=    1
+  eldebate                        women=    0  other=    1
+  90min_Football                  women=    0  other=    1
+  It's All kicking Off            women=    0  other=    1
+  Onefootball                     women=    0  other=    1
+  OptaJoe                         women=    0  other=    1
+  Youtube                         women=    0  other=    1
+  Fabrizio Romano, Matteo Moretto  women=    0  other=    1
+  Deloitte                        women=    0  other=    1
+  Simon Phillips                  women=    0  other=    3
+  BBC Radio via MEN               women=    0  other=    1
+  Aston Villa                     women=    0  other=    1
+  ManUtd                          women=    0  other=    1
+  We Are Liverpool                women=    0  other=    1
+  kwadwosheldon                   women=    0  other=    1
+  Just Arsenal                    women=    0  other=    1
+  Sethanie Taing                  women=    0  other=    1
+  Di Marzio                       women=    0  other=    1
+  transfermarkt                   women=    0  other=    1
+  Madrid Universal                women=    0  other=    1
+  TNT Sport via Eurosport         women=    0  other=    1
+  Fifa.com                        women=    0  other=    1
+  Chelseafc.com                   women=    0  other=    1
+  La Liga TV                      women=    0  other=    1
+  JijantesFC                      women=    0  other=    1
+  Connor Humm                     women=    0  other=    1
+  Brighton & Hove Albion          women=    0  other=    1
+  Jijantes                        women=    0  other=    1
+  Times of India                  women=    0  other=    1
+  Index                           women=    0  other=    1
+  Real Madrid                     women=    0  other=    2
+  Anel Ahmedhodzic                women=    0  other=    1
+  El Chiringuito TV via SPORT     women=    0  other=    1
+  Realmadrid.com                  women=    0  other=    1
+  jeorgebird                      women=    0  other=    1
+  Tribuna.com/                    women=    0  other=    1
+  Troll Football                  women=    0  other=    1
+  ESPNDeportes                    women=    0  other=    1
+  patronlardunyasi.com            women=    0  other=    1
+  COPE                            women=    0  other=    1
+  Football Report                 women=    0  other=    1
+  Fentuo Tahiru Fentuo            women=    0  other=    1
+  Emirates FA Cup @ Twitter       women=    0  other=    1
+  VI.nl                           women=    0  other=    1
+  Gazzetta dello Sport            women=    0  other=    1
+  West Ham                        women=    0  other=    1
+  TNT Sports (via TBR Football)   women=    0  other=    1
+  NBC Sports                      women=    0  other=    1
+  Onze TV3                        women=    0  other=    1
+  Sacha Tavolieri @ X             women=    0  other=    1
+  Movistar Futbol                 women=    0  other=    1
+  Liverpoolfc @Youtube            women=    0  other=    1
+  Sky Sports via Mirror           women=    0  other=    1
+  ESPN Sports Center              women=    0  other=    1
+  LaLiga TV                       women=    0  other=    1
+  Colo Colo                       women=    0  other=    1
+  Marca.com                       women=    0  other=    2
+  TyCSports                       women=    0  other=    1
+  WhoScored @ Twitter             women=    0  other=    1
+  Men in Blazers via Liverpool Echo  women=    0  other=    1
+  TMW                             women=    0  other=    1
+  Ferdinand Presents FIVE         women=    0  other=    1
+  Stick to Football               women=    0  other=    1
+  Samuel Adams                    women=    0  other=    1
+  Le Parisien via The Athletic    women=    0  other=    1
+  Piers Morgan @ X                women=    0  other=    1
+  DSports                         women=    0  other=    1
+  AFCStuff @ Twitter              women=    0  other=    1
+  Alexandra Jonson                women=    0  other=    1
+  reddit                          women=    0  other=    1
+  Daily  Mail                     women=    0  other=    1
+  Shamoon Hafez @ X               women=    0  other=    1
+  Sky Sports via DaveOCKOP        women=    0  other=    1
+  La Vanguardia                   women=    0  other=    1
+  Rio Ferdinand @ X               women=    0  other=    1
+  RobDawsonESPN                   women=    0  other=    1
+  Sevilla @ X                     women=    0  other=    1
+  VipArsenal                      women=    0  other=    1
+  the-analyst                     women=   91  other= 1841

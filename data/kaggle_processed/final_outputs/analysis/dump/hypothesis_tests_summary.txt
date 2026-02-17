@@ -1,0 +1,63 @@
+Hypothesis Test Summary (with BH-FDR)
+========================================================================
+
+H1
+  - Mann-Whitney U (PLAYER mentions per article): stat=6254965.000, p=0.000000, q=0.000000, effect=-0.182 Cohen's d
+    note: 95% CI mean diff Other-Women: [-3.044, -1.629]
+
+H2
+  - Mann-Whitney U (competition-purity of club pairs): stat=18576819.000, p=0.000000, q=0.000000, effect=0.428 Cohen's d
+    note: 95% CI mean diff Other-Women: [0.084, 0.100]
+
+H3
+  - Spearman correlation manager-vs-negative (Other (Men's)): stat=0.245, p=0.000000, q=0.000000, effect=0.245 Spearman rho
+  - Spearman correlation manager-vs-negative (Women's): stat=0.257, p=0.000000, q=0.000000, effect=0.257 Spearman rho
+  - Proportion z-test (manager-negative rate Other vs Women): stat=-0.381, p=0.703378, q=0.703378, effect=0.015 Cohen's h
+
+H4
+  - Mann-Whitney U PLAYER×CLUB cooc transfer vs non-transfer (Other (Men's)): stat=11184185.500, p=0.000000, q=0.000000, effect=0.303 Cohen's d
+    note: 95% CI mean diff transfer-non: [24.149, 32.272]
+  - Mann-Whitney U MONEY mentions transfer vs non-transfer (Other (Men's)): stat=11070213.000, p=0.000000, q=0.000000, effect=0.481 Cohen's d
+    note: 95% CI mean diff transfer-non: [0.758, 0.914]
+  - Mann-Whitney U PLAYER×CLUB cooc transfer vs non-transfer (Women's): stat=516746.000, p=0.000000, q=0.000000, effect=0.320 Cohen's d
+    note: 95% CI mean diff transfer-non: [23.498, 41.069]
+  - Mann-Whitney U MONEY mentions transfer vs non-transfer (Women's): stat=511388.500, p=0.000000, q=0.000000, effect=0.446 Cohen's d
+    note: 95% CI mean diff transfer-non: [0.878, 1.341]
+
+H5
+  - Mann-Whitney U (injury-term hits per article): stat=7066222.500, p=0.000000, q=0.000000, effect=-0.151 Cohen's d
+    note: 95% CI mean diff Other-Women: [-0.958, -0.424]
+
+H9
+  - Mann-Whitney U (distinct PLAYERs per article): stat=6774170.500, p=0.000000, q=0.000000, effect=-0.164 Cohen's d
+    note: 95% CI mean diff Other-Women: [-2.032, -1.038]
+  - Mann-Whitney U (distinct CLUBs per article): stat=8030586.500, p=0.000112, q=0.000136, effect=0.048 Cohen's d
+  - Mann-Whitney U (player-to-club ratio per article): stat=7088491.500, p=0.000007, q=0.000009, effect=-0.177 Cohen's d
+
+H10
+  - Chi-square (name format distribution): stat=474.800, p=0.000000, q=0.000000, effect=0.060 Cramér's V
+
+H11
+  - Chi-square (Youth/Age vs Experience descriptor distribution): stat=64.014, p=0.000000, q=0.000000, effect=0.105 Cramér's V
+  - Mann-Whitney U (per-article youth-rate): stat=6984324.000, p=0.042624, q=0.044561, effect=-0.023 Cohen's d
+    note: 95% CI mean diff Other-Women: [-0.024, 0.008]
+
+H12
+  - Chi-square (mentality vs physicality descriptor distribution): stat=11.739, p=0.000612, q=0.000704, effect=0.046 Cramér's V
+
+H13
+  - Proportion z-test (relational framing rate): stat=14.180, p=0.000000, q=0.000000, effect=0.092 Cohen's h
+
+H14
+  - Proportion z-test (growth term rate near COMPETITION/CLUB): stat=14.503, p=0.000000, q=0.000000, effect=0.108 Cohen's h
+
+H15
+  - Mann-Whitney U PLAYER share win-vs-nonwin (Other (Men's)): stat=8129574.000, p=0.001749, q=0.001915, effect=0.073 Cohen's d
+    note: 95% CI mean diff win-nonwin: [-0.015, -0.004]
+  - Mann-Whitney U PLAYER share win-vs-nonwin (Women's): stat=444540.500, p=0.000000, q=0.000000, effect=0.318 Cohen's d
+    note: 95% CI mean diff win-nonwin: [0.024, 0.046]
+  - Mann-Whitney U (overall PLAYER share Other vs Women): stat=9510016.500, p=0.000000, q=0.000000, effect=0.449 Cohen's d
+
+D1
+  - Mann-Whitney U (entity entropy per article): stat=5627822.000, p=0.000000, q=0.000000, effect=-0.437 Cohen's d
+    note: 95% CI mean diff Other-Women: [-0.161, -0.130]

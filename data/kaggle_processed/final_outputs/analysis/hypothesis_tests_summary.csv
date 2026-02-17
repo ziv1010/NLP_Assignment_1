@@ -1,0 +1,34 @@
+hypothesis,test_name,statistic,p_value,effect_size,effect_type,note,q_value_bh,significant_0_05,significant_fdr_0_05
+H1,Mann-Whitney U (PLAYER mentions per article),6254965.0,1.1069506376327417e-15,-0.18233971097296728,Cohen's d,"95% CI mean diff Men-Women: [-3.044, -1.629]",2.148786531875322e-15,True,True
+H2,Mann-Whitney U (competition-purity of club pairs),18576819.0,2.7422141939861565e-177,0.4278662829929012,Cohen's d,"95% CI mean diff Men-Women: [0.084, 0.100]",2.262326710038579e-176,True,True
+H3,Spearman correlation manager-vs-negative (Men),0.24502178603077773,2.41067803877213e-113,0.24502178603077773,Spearman rho,,1.3258729213246715e-112,True,True
+H3,Spearman correlation manager-vs-negative (Women's),0.256629460611216,5.140554408211084e-29,0.256629460611216,Spearman rho,,1.304909965161275e-28,True,True
+H3,Proportion z-test (manager-negative rate Men vs Women),-0.380765112377613,0.7033775489083727,0.014939207983070357,Cohen's h,,0.7033775489083727,False,False
+H4,Mann-Whitney U PLAYER×CLUB cooc transfer vs non-transfer (Men),11184185.5,1.9326597509293696e-130,0.303330139892755,Cohen's d,"95% CI mean diff transfer-non: [24.149, 32.272]",1.275555435613384e-129,True,True
+H4,Mann-Whitney U MONEY mentions transfer vs non-transfer (Men),11070213.0,2.757532321620128e-207,0.4805554114005151,Cohen's d,"95% CI mean diff transfer-non: [0.758, 0.914]",3.033285553782141e-206,True,True
+H4,Mann-Whitney U PLAYER×CLUB cooc transfer vs non-transfer (Women's),516746.0,5.028780787252627e-17,0.3196987851437707,Cohen's d,"95% CI mean diff transfer-non: [23.498, 41.069]",1.0371860373708543e-16,True,True
+H4,Mann-Whitney U MONEY mentions transfer vs non-transfer (Women's),511388.5,2.1948270391731906e-24,0.44588606525019847,Cohen's d,"95% CI mean diff transfer-non: [0.878, 1.341]",5.173520878051092e-24,True,True
+H5,Mann-Whitney U (injury-term hits per article),7066222.5,3.2667391779875695e-08,-0.15094280122985795,Cohen's d,"95% CI mean diff Men-Women: [-0.958, -0.424]",4.900108766981354e-08,True,True
+H9,Mann-Whitney U (distinct PLAYERs per article),6774170.5,3.1650246681140644e-13,-0.16414830896214508,Cohen's d,"95% CI mean diff Men-Women: [-2.032, -1.038]",5.497148107777059e-13,True,True
+H9,Mann-Whitney U (distinct CLUBs per article),8030586.5,0.00011204401492336238,0.04783057965357781,Cohen's d,,0.00015406052051962328,True,True
+H9,Mann-Whitney U (player-to-club ratio per article),7088491.5,6.7725111375305366e-06,-0.17730580608709207,Cohen's d,,9.717081197326422e-06,True,True
+H10,Chi-square (name format distribution),474.8004585011698,7.913897734627902e-104,0.059899716599537536,Cramér's V,,3.7308375034674395e-103,True,True
+H11,Chi-square (Youth/Age vs Experience descriptor distribution),64.01406019534905,1.235344249235483e-15,0.1048130063209534,Cramér's V,,2.264797790265052e-15,True,True
+H11,Mann-Whitney U (per-article youth-rate),6984324.0,0.04262355677319107,-0.02320992903257386,Cohen's d,"95% CI mean diff Men-Women: [-0.024, 0.008]",0.04688591245051017,True,True
+H12,Chi-square (mentality vs physicality descriptor distribution),11.739044418546698,0.0006120243944636128,0.04642774115188201,Cramér's V,,0.000807872200691969,True,True
+H13,Proportion z-test (relational framing rate),14.179642237201547,0.0,0.09212939537259346,Cohen's h,,0.0,True,True
+H14,Proportion z-test (growth term rate near COMPETITION/CLUB),14.502866936258256,0.0,0.10846651625456322,Cohen's h,,0.0,True,True
+H15,Mann-Whitney U PLAYER share win-vs-nonwin (Men),8129574.0,0.0017485492056163751,0.07284760385712696,Cohen's d,"95% CI mean diff win-nonwin: [-0.015, -0.004]",0.002060790135190728,True,True
+H15,Mann-Whitney U PLAYER share win-vs-nonwin (Women's),444540.5,2.802539492133014e-12,0.31808147702017686,Cohen's d,"95% CI mean diff win-nonwin: [0.024, 0.046]",4.624190162019473e-12,True,True
+H15,Mann-Whitney U (overall PLAYER share Men vs Women),9510016.5,3.774405608698186e-64,0.44916381527252397,Cohen's d,,1.1323216826094559e-63,True,True
+H16,Kruskal-Wallis player_share across sources (Men),398.2669582076284,3.2096035454022413e-80,0.05285362636899232,Epsilon^2,,1.1768546333141552e-79,True,True
+H16,Kruskal-Wallis club_share across sources (Men),169.9209142242548,6.409196997480052e-32,0.021849411299966707,Epsilon^2,,1.7625291743070142e-31,True,True
+H16,Kruskal-Wallis relational_rate across sources (Men),27.53716927946109,0.001139320205914522,0.0025169272612981792,Epsilon^2,,0.0014460602613530472,True,True
+H16,Kruskal-Wallis star_rate across sources (Men),61.642533050144586,6.460899457496774e-10,0.0071476623286007585,Epsilon^2,,1.0152842004637788e-09,True,True
+H16,Kruskal-Wallis meta_rate across sources (Men),484.4749418522005,1.2108706054015851e-98,0.06455871579799057,Epsilon^2,,4.994841247281539e-98,True,True
+H16,Kruskal-Wallis player_share across sources (Women's),28.432601594218415,0.0015385305473295894,0.0218137296972999,Epsilon^2,,0.0018804262245139425,True,True
+H16,Kruskal-Wallis club_share across sources (Women's),125.75434018221893,3.4246415287394913e-22,0.13698738483102832,Epsilon^2,,7.53421136322688e-22,True,True
+H16,Kruskal-Wallis relational_rate across sources (Women's),20.955958846605828,0.02140276935088413,0.012965631771131157,Epsilon^2,,0.02435487546824746,True,True
+H16,Kruskal-Wallis star_rate across sources (Women's),11.702151822364621,0.30548483946995864,0.0020143808548693746,Epsilon^2,,0.31503124070339483,False,False
+H16,Kruskal-Wallis meta_rate across sources (Women's),14.420708933229543,0.15465198775175826,0.005231608205005376,Epsilon^2,,0.16462953534864588,False,False
+D1,Mann-Whitney U (entity entropy per article),5627822.0,7.588688923839671e-68,-0.43737094076480676,Cohen's d,"95% CI mean diff Men-Women: [-0.161, -0.130]",2.5042673448670915e-67,True,True

@@ -1,0 +1,226 @@
+Loading data...
+  Other entities: 440397, Women entities: 142787
+  Other articles: 11386, Women articles: 2879
+
+======================================================================
+SUMMARY: Entity Distribution Comparison
+======================================================================
+
+======================================================================
+H1: PLAYER prominence — heavy-tail distribution
+======================================================================
+
+  Other (Men's):
+    Unique players: 17408
+    Total mentions: 105148
+    Top-10 share:   7.3%
+    Top-50 share:   18.3%
+    Top-10 players: ronaldo, messi, klopp, arteta, guardiola, salah, cristiano ronaldo, erik, lionel messi, jurgen klopp
+
+  Women's:
+    Unique players: 8637
+    Total mentions: 27144
+    Top-10 share:   5.7%
+    Top-50 share:   15.6%
+    Top-10 players: hayes, emma hayes, russo, alessia russo, sam kerr, beth mead, leah williamson, sarina wiegman, jonas eidevall, skinner
+
+======================================================================
+H2: CLUB co-occurrence clustering by competition
+======================================================================
+
+  Other (Men's) top-10 club pairs:
+    liverpool ↔ manchester city: 677
+    chelsea ↔ liverpool: 602
+    liverpool ↔ reds: 591
+    barca ↔ barcelona: 577
+    liverpool ↔ manchester united: 561
+    blues ↔ chelsea: 533
+    chelsea ↔ manchester city: 486
+    chelsea ↔ manchester united: 484
+    barcelona ↔ real madrid: 476
+    manchester city ↔ manchester united: 431
+
+  Women's top-10 club pairs:
+    chelsea ↔ manchester city: 267
+    arsenal ↔ chelsea: 260
+    chelsea ↔ manchester united: 223
+    arsenal ↔ manchester city: 182
+    manchester city ↔ manchester united: 170
+    chelsea ↔ liverpool: 161
+    barcelona ↔ chelsea: 155
+    arsenal ↔ manchester united: 142
+    blues ↔ chelsea: 128
+    liverpool ↔ manchester united: 127
+
+  Top competition-club associations (Other):
+    premier league → liverpool: 1097
+    premier league → manchester united: 977
+    premier league → chelsea: 924
+    premier league → manchester city: 884
+    premier league → arsenal: 665
+    champions league → liverpool: 651
+    champions league → real madrid: 649
+    champions league → manchester united: 543
+    champions league → manchester city: 531
+    champions league → chelsea: 517
+    premier league → tottenham: 508
+    champions league → barcelona: 433
+    premier league → everton: 425
+    premier league → reds: 393
+    la liga → barcelona: 393
+
+======================================================================
+H3: Manager/Coach mentions & negative event terms
+======================================================================
+
+  Other (Men's):
+    Articles with manager/coach context: 3103 (37.5%)
+    Articles with manager + negative terms: 502 (6.1%)
+
+  Women's:
+    Articles with manager/coach context: 821 (44.7%)
+    Articles with manager + negative terms: 121 (6.6%)
+
+======================================================================
+H4: Transfer signals — PLAYER↔CLUB co-occurrence & MONEY mentions
+======================================================================
+
+  Other (Men's):
+    Transfer articles: 5293, Non-transfer: 2978
+    PLAYER×CLUB co-occurrence — transfer: 60.4, non-transfer: 35.0
+    MONEY mentions/article — transfer: 0.88, non-transfer: 0.13
+
+  Women's:
+    Transfer articles: 1290, Non-transfer: 547
+    PLAYER×CLUB co-occurrence — transfer: 70.5, non-transfer: 41.7
+    MONEY mentions/article — transfer: 1.20, non-transfer: 0.27
+
+======================================================================
+H5: Injury & fatigue narrative
+======================================================================
+
+  Other (Men's) — top injury/fatigue terms:
+    miss: 5298
+    injury: 4032
+    fit: 3711
+    missed: 1972
+    knock: 1670
+    doubt: 1541
+    injured: 746
+    fitness: 587
+    blow: 563
+    knee: 561
+    sideline: 464
+    ruled out: 452
+    acl: 449
+    ankle: 416
+    hamstring: 398
+
+  Women's — top injury/fatigue terms:
+    miss: 1669
+    injury: 1274
+    fit: 1017
+    acl: 651
+    knock: 527
+    missed: 437
+    doubt: 265
+    knee: 217
+    injured: 194
+    operation: 172
+    blow: 170
+    sideline: 166
+    tired: 141
+    ruled out: 129
+    tear: 118
+
+======================================================================
+H9: Individual vs Team emphasis (PLAYER count vs CLUB count per article)
+======================================================================
+
+  Other (Men's):
+    Avg distinct PLAYERs per article: 9.2
+    Avg distinct CLUBs per article:   3.8
+    PLAYER share of total entities:   23.9%
+    CLUB share of total entities:     12.8%
+    Player-to-Club ratio:             2.43
+
+  Women's:
+    Avg distinct PLAYERs per article: 10.8
+    Avg distinct CLUBs per article:   3.6
+    PLAYER share of total entities:   19.0%
+    CLUB share of total entities:     9.5%
+    Player-to-Club ratio:             2.96
+
+  Mann-Whitney U test (distinct PLAYERs): U=6774170, p=0.0000
+
+======================================================================
+H10: Name formality — first-name vs surname-only references
+======================================================================
+
+  Other (Men's):
+    single_name: 46.0%
+    full_name: 50.1%
+    multi_name: 3.9%
+
+  Women's:
+    single_name: 38.7%
+    full_name: 56.8%
+    multi_name: 4.5%
+
+======================================================================
+H11: Role framing — youth vs experience descriptors near PLAYER
+======================================================================
+
+  Other (Men's):
+    Youth/age terms near PLAYER: 16426 (15.6%)
+    Experience/legacy near PLAYER: 2312 (2.2%)
+
+  Women's:
+    Youth/age terms near PLAYER: 4729 (17.4%)
+    Experience/legacy near PLAYER: 675 (2.5%)
+
+======================================================================
+H12: Attribute mix — mentality/effort vs physicality/tactical
+======================================================================
+
+  Other (Men's):
+    Mentality/effort near PLAYER: 2117 (2.0%)
+    Physicality/tactical near PLAYER: 5065 (4.8%)
+
+  Women's:
+    Mentality/effort near PLAYER: 823 (3.0%)
+    Physicality/tactical near PLAYER: 1344 (5.0%)
+
+======================================================================
+H13: Relational vs Star framing near PLAYER
+======================================================================
+
+  Other (Men's):
+    Relational framing: 7875 (7.5%)
+    Star/hero framing:  6972 (6.6%)
+
+  Women's:
+    Relational framing: 2743 (10.1%)
+    Star/hero framing:  1957 (7.2%)
+
+======================================================================
+H14: Meta-discourse — growth/visibility near COMPETITION/CLUB
+======================================================================
+
+  Other (Men's):
+    COMP/CLUB mentions with growth terms: 2784 (3.8%)
+
+  Women's:
+    COMP/CLUB mentions with growth terms: 1271 (6.5%)
+
+======================================================================
+H15: Credit assignment — PLAYER share vs CLUB share per article
+======================================================================
+  Other (Men's) — Win articles: PLAYER share=24.0%, CLUB share=13.8%
+  Other (Men's) — Non-win articles: PLAYER share=25.3%, CLUB share=14.0%
+  Women's — Win articles: PLAYER share=19.0%, CLUB share=10.2%
+  Women's — Non-win articles: PLAYER share=15.6%, CLUB share=8.6%
+
+======================================================================
+ALL HYPOTHESES ANALYZED. Plots saved to: data/kaggle_processed/final_outputs/analysis
+======================================================================

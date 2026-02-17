@@ -1,0 +1,176 @@
+2026-02-17 16:24:09,762 [INFO] Loaded 1279 player name entries from SocCor Players.csv
+2026-02-17 16:24:09,765 [INFO] Added 219 clubs from SocCor to FOOTBALL_CLUBS gazetteer
+2026-02-17 16:24:09,765 [INFO] Loading data from: data/kaggle_processed/test
+2026-02-17 16:24:09,834 [INFO] Loaded 1000 other + 563 women's articles
+2026-02-17 16:24:09,834 [INFO] Output dir: data/kaggle_processed/test/ner_outputs
+2026-02-17 16:24:09,834 [INFO] 
+============================================================
+2026-02-17 16:24:09,834 [INFO] Loading model: en_core_web_lg
+2026-02-17 16:24:09,834 [INFO] ============================================================
+2026-02-17 16:24:11,448 [INFO] [OTHER] Running NER with en_core_web_lg on 1000 articles...
+2026-02-17 16:25:21,986 [INFO]   other (en_core_web_lg): 37089 entities extracted from 718 articles (282 skipped as non-football) in 70.5s (10.2 articles/sec)
+2026-02-17 16:25:22,252 [INFO]   Saved to data/kaggle_processed/test/ner_outputs/lg/
+2026-02-17 16:25:22,253 [INFO]   Entity label distribution:
+2026-02-17 16:25:22,256 [INFO]     PLAYER: 9017
+2026-02-17 16:25:22,257 [INFO]     NUMERIC: 5584
+2026-02-17 16:25:22,257 [INFO]     DATE: 5289
+2026-02-17 16:25:22,257 [INFO]     CLUB: 4790
+2026-02-17 16:25:22,257 [INFO]     LOCATION: 4038
+2026-02-17 16:25:22,257 [INFO]     ORG_OTHER: 3523
+2026-02-17 16:25:22,257 [INFO]     COMPETITION: 1544
+2026-02-17 16:25:22,257 [INFO]     NATIONALITY: 1096
+2026-02-17 16:25:22,257 [INFO]     TIME: 577
+2026-02-17 16:25:22,257 [INFO]     MISC: 571
+2026-02-17 16:25:22,257 [INFO]     MONEY: 447
+2026-02-17 16:25:22,257 [INFO]     EVENT_OTHER: 236
+2026-02-17 16:25:22,257 [INFO]     GOVERNING_BODY: 217
+2026-02-17 16:25:22,257 [INFO]     MEDIA: 160
+2026-02-17 16:25:22,257 [INFO]   Top 15 entities:
+2026-02-17 16:25:22,257 [INFO]     first (NUMERIC): 578
+2026-02-17 16:25:22,257 [INFO]     premier league (COMPETITION): 567
+2026-02-17 16:25:22,257 [INFO]     liverpool (CLUB): 460
+2026-02-17 16:25:22,257 [INFO]     chelsea (CLUB): 455
+2026-02-17 16:25:22,257 [INFO]     two (NUMERIC): 407
+2026-02-17 16:25:22,257 [INFO]     one (NUMERIC): 389
+2026-02-17 16:25:22,257 [INFO]     three (NUMERIC): 308
+2026-02-17 16:25:22,258 [INFO]     champions league (COMPETITION): 299
+2026-02-17 16:25:22,258 [INFO]     barcelona (CLUB): 276
+2026-02-17 16:25:22,258 [INFO]     second (NUMERIC): 271
+2026-02-17 16:25:22,258 [INFO]     this season (DATE): 250
+2026-02-17 16:25:22,258 [INFO]     four (NUMERIC): 244
+2026-02-17 16:25:22,258 [INFO]     manchester united (CLUB): 225
+2026-02-17 16:25:22,258 [INFO]     arsenal (CLUB): 211
+2026-02-17 16:25:22,258 [INFO]     five (NUMERIC): 197
+2026-02-17 16:25:22,280 [INFO] [WOMEN] Running NER with en_core_web_lg on 563 articles...
+2026-02-17 16:26:12,443 [INFO]   women (en_core_web_lg): 24464 entities extracted from 369 articles (194 skipped as non-football) in 50.2s (7.4 articles/sec)
+2026-02-17 16:26:12,592 [INFO]   Saved to data/kaggle_processed/test/ner_outputs/lg/
+2026-02-17 16:26:12,592 [INFO]   Entity label distribution:
+2026-02-17 16:26:12,593 [INFO]     PLAYER: 4540
+2026-02-17 16:26:12,593 [INFO]     LOCATION: 4077
+2026-02-17 16:26:12,593 [INFO]     DATE: 3569
+2026-02-17 16:26:12,593 [INFO]     NUMERIC: 3533
+2026-02-17 16:26:12,593 [INFO]     ORG_OTHER: 2959
+2026-02-17 16:26:12,593 [INFO]     CLUB: 2227
+2026-02-17 16:26:12,593 [INFO]     COMPETITION: 904
+2026-02-17 16:26:12,593 [INFO]     NATIONALITY: 697
+2026-02-17 16:26:12,594 [INFO]     TIME: 468
+2026-02-17 16:26:12,594 [INFO]     MISC: 452
+2026-02-17 16:26:12,594 [INFO]     GOVERNING_BODY: 289
+2026-02-17 16:26:12,594 [INFO]     EVENT_OTHER: 288
+2026-02-17 16:26:12,594 [INFO]     MONEY: 285
+2026-02-17 16:26:12,594 [INFO]     MEDIA: 176
+2026-02-17 16:26:12,594 [INFO]   Top 15 entities:
+2026-02-17 16:26:12,594 [INFO]     first (NUMERIC): 475
+2026-02-17 16:26:12,594 [INFO]     england (LOCATION): 463
+2026-02-17 16:26:12,594 [INFO]     chelsea (CLUB): 358
+2026-02-17 16:26:12,594 [INFO]     two (NUMERIC): 309
+2026-02-17 16:26:12,594 [INFO]     one (NUMERIC): 263
+2026-02-17 16:26:12,594 [INFO]     three (NUMERIC): 231
+2026-02-17 16:26:12,594 [INFO]     germany (LOCATION): 216
+2026-02-17 16:26:12,594 [INFO]     spain (LOCATION): 180
+2026-02-17 16:26:12,594 [INFO]     world cup (COMPETITION): 178
+2026-02-17 16:26:12,594 [INFO]     barcelona (CLUB): 160
+2026-02-17 16:26:12,594 [INFO]     second (NUMERIC): 159
+2026-02-17 16:26:12,594 [INFO]     fifa (GOVERNING_BODY): 145
+2026-02-17 16:26:12,594 [INFO]     wsl (COMPETITION): 143
+2026-02-17 16:26:12,594 [INFO]     four (NUMERIC): 135
+2026-02-17 16:26:12,594 [INFO]     uswnt (CLUB): 131
+2026-02-17 16:26:12,599 [INFO] 
+--- en_core_web_lg Summary ---
+2026-02-17 16:26:12,599 [INFO]   Other:  37089 entities, 9652 unique
+2026-02-17 16:26:12,599 [INFO]   Women: 24464 entities, 7050 unique
+2026-02-17 16:26:12,603 [INFO] 
+=== NER EXTRACTION COMPLETE ===
+2026-02-17 18:00:16,143 [INFO] Loaded 1279 player name entries from SocCor Players.csv
+2026-02-17 18:00:16,147 [INFO] Added 219 clubs from SocCor to FOOTBALL_CLUBS gazetteer
+2026-02-17 18:00:16,147 [INFO] Loading data from: data/kaggle_processed/final_outputs
+2026-02-17 18:00:16,608 [INFO] Loaded 11386 other + 2879 women's articles
+2026-02-17 18:00:16,608 [INFO] Output dir: data/ner_outputs
+2026-02-17 18:00:16,608 [INFO] 
+============================================================
+2026-02-17 18:00:16,608 [INFO] Loading model: en_core_web_lg
+2026-02-17 18:00:16,608 [INFO] ============================================================
+2026-02-17 18:00:18,140 [INFO] [OTHER] Running NER with en_core_web_lg on 11386 articles...
+2026-02-17 18:00:54,945 [INFO] Loaded 1279 player name entries from SocCor Players.csv
+2026-02-17 18:00:54,948 [INFO] Added 219 clubs from SocCor to FOOTBALL_CLUBS gazetteer
+2026-02-17 18:00:54,948 [INFO] Loading data from: data/kaggle_processed/final_outputs
+2026-02-17 18:00:55,412 [INFO] Loaded 11386 other + 2879 women's articles
+2026-02-17 18:00:55,412 [INFO] Output dir: data/kaggle_processed/final_outputs/ner_outputs
+2026-02-17 18:00:55,412 [INFO] 
+============================================================
+2026-02-17 18:00:55,412 [INFO] Loading model: en_core_web_lg
+2026-02-17 18:00:55,412 [INFO] ============================================================
+2026-02-17 18:00:56,981 [INFO] [OTHER] Running NER with en_core_web_lg on 11386 articles...
+2026-02-17 18:11:57,589 [INFO]   other (en_core_web_lg): 440397 entities extracted from 8273 articles (3113 skipped as non-football) in 660.6s (12.5 articles/sec)
+2026-02-17 18:12:01,267 [INFO]   Saved to data/kaggle_processed/final_outputs/ner_outputs/lg/
+2026-02-17 18:12:01,267 [INFO]   Entity label distribution:
+2026-02-17 18:12:01,301 [INFO]     PLAYER: 105181
+2026-02-17 18:12:01,301 [INFO]     NUMERIC: 66332
+2026-02-17 18:12:01,301 [INFO]     DATE: 64353
+2026-02-17 18:12:01,301 [INFO]     CLUB: 56413
+2026-02-17 18:12:01,301 [INFO]     LOCATION: 48550
+2026-02-17 18:12:01,301 [INFO]     ORG_OTHER: 42970
+2026-02-17 18:12:01,301 [INFO]     COMPETITION: 17515
+2026-02-17 18:12:01,302 [INFO]     NATIONALITY: 13583
+2026-02-17 18:12:01,302 [INFO]     MISC: 6709
+2026-02-17 18:12:01,302 [INFO]     TIME: 6631
+2026-02-17 18:12:01,302 [INFO]     MONEY: 5015
+2026-02-17 18:12:01,302 [INFO]     EVENT_OTHER: 2743
+2026-02-17 18:12:01,302 [INFO]     GOVERNING_BODY: 2490
+2026-02-17 18:12:01,302 [INFO]     MEDIA: 1912
+2026-02-17 18:12:01,302 [INFO]   Top 15 entities:
+2026-02-17 18:12:01,302 [INFO]     first (NUMERIC): 7177
+2026-02-17 18:12:01,302 [INFO]     premier league (COMPETITION): 6213
+2026-02-17 18:12:01,302 [INFO]     liverpool (CLUB): 5185
+2026-02-17 18:12:01,302 [INFO]     two (NUMERIC): 4950
+2026-02-17 18:12:01,302 [INFO]     chelsea (CLUB): 4749
+2026-02-17 18:12:01,303 [INFO]     one (NUMERIC): 4112
+2026-02-17 18:12:01,303 [INFO]     three (NUMERIC): 3814
+2026-02-17 18:12:01,303 [INFO]     champions league (COMPETITION): 3270
+2026-02-17 18:12:01,303 [INFO]     second (NUMERIC): 3051
+2026-02-17 18:12:01,303 [INFO]     barcelona (CLUB): 2987
+2026-02-17 18:12:01,303 [INFO]     four (NUMERIC): 2782
+2026-02-17 18:12:01,303 [INFO]     this season (DATE): 2672
+2026-02-17 18:12:01,303 [INFO]     manchester united (CLUB): 2619
+2026-02-17 18:12:01,303 [INFO]     united (ORG_OTHER): 2489
+2026-02-17 18:12:01,303 [INFO]     world cup (COMPETITION): 2375
+2026-02-17 18:12:01,769 [INFO] [WOMEN] Running NER with en_core_web_lg on 2879 articles...
+2026-02-17 18:16:33,687 [INFO]   women (en_core_web_lg): 142787 entities extracted from 1837 articles (1042 skipped as non-football) in 271.9s (6.8 articles/sec)
+2026-02-17 18:16:34,897 [INFO]   Saved to data/kaggle_processed/final_outputs/ner_outputs/lg/
+2026-02-17 18:16:34,897 [INFO]   Entity label distribution:
+2026-02-17 18:16:34,905 [INFO]     PLAYER: 27150
+2026-02-17 18:16:34,905 [INFO]     DATE: 22282
+2026-02-17 18:16:34,905 [INFO]     LOCATION: 20328
+2026-02-17 18:16:34,905 [INFO]     ORG_OTHER: 19424
+2026-02-17 18:16:34,905 [INFO]     NUMERIC: 18326
+2026-02-17 18:16:34,905 [INFO]     CLUB: 13613
+2026-02-17 18:16:34,905 [INFO]     COMPETITION: 6001
+2026-02-17 18:16:34,905 [INFO]     NATIONALITY: 3883
+2026-02-17 18:16:34,905 [INFO]     TIME: 2715
+2026-02-17 18:16:34,905 [INFO]     GOVERNING_BODY: 2482
+2026-02-17 18:16:34,905 [INFO]     MISC: 2353
+2026-02-17 18:16:34,905 [INFO]     MONEY: 1697
+2026-02-17 18:16:34,905 [INFO]     EVENT_OTHER: 1459
+2026-02-17 18:16:34,905 [INFO]     MEDIA: 1074
+2026-02-17 18:16:34,905 [INFO]   Top 15 entities:
+2026-02-17 18:16:34,905 [INFO]     first (NUMERIC): 2638
+2026-02-17 18:16:34,905 [INFO]     chelsea (CLUB): 2144
+2026-02-17 18:16:34,905 [INFO]     england (LOCATION): 1777
+2026-02-17 18:16:34,905 [INFO]     two (NUMERIC): 1678
+2026-02-17 18:16:34,905 [INFO]     fifa (GOVERNING_BODY): 1463
+2026-02-17 18:16:34,905 [INFO]     one (NUMERIC): 1331
+2026-02-17 18:16:34,905 [INFO]     world cup (COMPETITION): 1205
+2026-02-17 18:16:34,905 [INFO]     wsl (COMPETITION): 1155
+2026-02-17 18:16:34,906 [INFO]     three (NUMERIC): 1063
+2026-02-17 18:16:34,906 [INFO]     second (NUMERIC): 1014
+2026-02-17 18:16:34,906 [INFO]     arsenal (CLUB): 985
+2026-02-17 18:16:34,906 [INFO]     barcelona (CLUB): 839
+2026-02-17 18:16:34,906 [INFO]     champions league (COMPETITION): 810
+2026-02-17 18:16:34,906 [INFO]     four (NUMERIC): 745
+2026-02-17 18:16:34,906 [INFO]     liverpool (CLUB): 740
+2026-02-17 18:16:34,947 [INFO] 
+--- en_core_web_lg Summary ---
+2026-02-17 18:16:34,948 [INFO]   Other:  440397 entities, 51557 unique
+2026-02-17 18:16:34,948 [INFO]   Women: 142787 entities, 29173 unique
+2026-02-17 18:16:34,975 [INFO] 
+=== NER EXTRACTION COMPLETE ===

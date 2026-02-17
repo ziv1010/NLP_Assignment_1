@@ -4,14 +4,26 @@ venv/
 .env
 .ipynb_checkpoints/
 
-# Ignore large data files (>100MB)
+# Large data files (>100MB for GitHub)
 *.pkl
+data/processed/men_articles.csv
 data/processed/women_articles.csv
 data/ner_outputs/sm/men_entities.csv
 data/ner_outputs/sm/women_entities.csv
 data/ner_outputs/lg/men_entities.csv
 data/ner_outputs/lg/women_entities.csv
+data/kaggle_processed/final_outputs/ner_outputs/lg/other_entities.csv
+data/dump/
 
-# Allow other data and logs
+# LaTeX build artifacts
+latex/*.aux
+latex/*.log
+latex/*.out
+latex/*.toc
+latex/*.synctex.gz
+latex/*.fls
+latex/*.fdb_latexmk
+
+# Allow data and logs directories
 !data/
 !logs/

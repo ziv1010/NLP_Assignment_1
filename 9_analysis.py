@@ -30,9 +30,9 @@ import seaborn as sns
 
 from config import PROCESSED_DIR, logger
 
-NER_OUTPUT = Path("data/ner_outputs")
-PLOTS_DIR = Path("data/plots")
-PLOTS_DIR.mkdir(parents=True, exist_ok=True)
+NER_OUTPUT_DEFAULT = Path("data/ner_outputs")
+PLOTS_DIR_DEFAULT = Path("data/plots")
+PROCESSED_DIR_DEFAULT = PROCESSED_DIR
 
 # Set plot style
 sns.set_theme(style="whitegrid", font_scale=1.1)
@@ -44,15 +44,20 @@ plt.rcParams["figure.dpi"] = 150
 # Data loading
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def load_ner_data(model_key: str = "lg"):
+def load_ner_data(data_dir: Path, ner_dir: Path, model_key: str = "lg"):
     """Load NER entity outputs for both genders."""
-    model_dir = NER_OUTPUT / model_key
+    model_dir = ner_dir / model_key
+    
+    logger.info(f"Loading NER data from {model_dir}")
     men_ents = pd.read_pickle(model_dir / "men_entities.pkl")
     women_ents = pd.read_pickle(model_dir / "women_entities.pkl")
     men_freq = pd.read_pickle(model_dir / "men_entity_freq.pkl")
     women_freq = pd.read_pickle(model_dir / "women_entity_freq.pkl")
-    men_articles = pd.read_csv(PROCESSED_DIR / "men_articles.csv")
-    women_articles = pd.read_csv(PROCESSED_DIR / "women_articles.csv")
+    
+    logger.info(f"Loading articles from {data_dir}")
+    men_articles = pd.read_csv(data_dir / "men_articles.csv")
+    women_articles = pd.read_csv(data_dir / "women_articles.csv")
+    
     return men_ents, women_ents, men_freq, women_freq, men_articles, women_articles
 
 
@@ -60,7 +65,7 @@ def load_ner_data(model_key: str = "lg"):
 # H1: Player Prominence — Heavy-tail distribution
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h1_player_prominence(men_ents, women_ents):
+def h1_player_prominence(men_ents, women_ents, plots_dir):
     """Test if player mentions follow heavy-tail distribution."""
     logger.info("\n=== H1: Player Prominence (Heavy-tail Distribution) ===")
 
@@ -95,16 +100,16 @@ def h1_player_prominence(men_ents, women_ents):
                        ha="left", va="bottom")
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h1_player_prominence.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h1_player_prominence.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h1_player_prominence.png")
+    logger.info(f"  Saved: {plots_dir}/h1_player_prominence.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # H2: Club Co-occurrence Networks
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h2_club_cooccurrence(men_ents, women_ents):
+def h2_club_cooccurrence(men_ents, women_ents, plots_dir):
     """Build club co-occurrence networks per article."""
     logger.info("\n=== H2: Club Co-occurrence Networks ===")
 
@@ -146,16 +151,16 @@ def h2_club_cooccurrence(men_ents, women_ents):
         ax.tick_params(axis="y", rotation=0)
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h2_club_cooccurrence.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h2_club_cooccurrence.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h2_club_cooccurrence.png")
+    logger.info(f"  Saved: {plots_dir}/h2_club_cooccurrence.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # H9: Individual vs Team Emphasis (Men vs Women)
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h9_individual_vs_team(men_ents, women_ents, men_articles, women_articles):
+def h9_individual_vs_team(men_ents, women_ents, men_articles, women_articles, plots_dir):
     """Compare distinct PLAYER and CLUB entities per article."""
     logger.info("\n=== H9: Individual vs Team Emphasis ===")
 
@@ -209,16 +214,16 @@ def h9_individual_vs_team(men_ents, women_ents, men_articles, women_articles):
     axes[1].legend()
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h9_individual_vs_team.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h9_individual_vs_team.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h9_individual_vs_team.png")
+    logger.info(f"  Saved: {plots_dir}/h9_individual_vs_team.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # H10: Name Formality (first name vs surname)
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h10_name_formality(men_ents, women_ents):
+def h10_name_formality(men_ents, women_ents, plots_dir):
     """Analyze whether women's articles use first names more often."""
     logger.info("\n=== H10: Name Formality Analysis ===")
 
@@ -260,16 +265,16 @@ def h10_name_formality(men_ents, women_ents):
     ax.legend()
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h10_name_formality.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h10_name_formality.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h10_name_formality.png")
+    logger.info(f"  Saved: {plots_dir}/h10_name_formality.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # H11-H12: Descriptor Context Analysis
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h11_h12_descriptor_context(men_ents, women_ents):
+def h11_h12_descriptor_context(men_ents, women_ents, plots_dir):
     """Analyze descriptors near PLAYER mentions (±8 tokens context window)."""
     logger.info("\n=== H11-H12: Descriptor Context Analysis ===")
 
@@ -331,16 +336,16 @@ def h11_h12_descriptor_context(men_ents, women_ents):
                    ha="center", va="bottom", fontsize=9)
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h11_h12_descriptors.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h11_h12_descriptors.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h11_h12_descriptors.png")
+    logger.info(f"  Saved: {plots_dir}/h11_h12_descriptors.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # H14: Meta-discourse (league growth/visibility)
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h14_meta_discourse(men_ents, women_ents):
+def h14_meta_discourse(men_ents, women_ents, plots_dir):
     """Check if women's coverage has more meta-discourse about league growth."""
     logger.info("\n=== H14: Meta-discourse Analysis ===")
 
@@ -377,16 +382,16 @@ def h14_meta_discourse(men_ents, women_ents):
         ax.annotate(f"{pct:.2f}%", xy=(bar.get_x() + bar.get_width()/2, bar.get_height()),
                    ha="center", va="bottom", fontsize=11, fontweight="bold")
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h14_meta_discourse.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h14_meta_discourse.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h14_meta_discourse.png")
+    logger.info(f"  Saved: {plots_dir}/h14_meta_discourse.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # H15: Credit Assignment
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def h15_credit_assignment(men_ents, women_ents):
+def h15_credit_assignment(men_ents, women_ents, plots_dir):
     """Analyze if men's reports attribute success to individuals more than women's."""
     logger.info("\n=== H15: Credit Assignment Patterns ===")
 
@@ -422,16 +427,16 @@ def h15_credit_assignment(men_ents, women_ents):
     ax.legend()
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "h15_credit_assignment.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "h15_credit_assignment.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/h15_credit_assignment.png")
+    logger.info(f"  Saved: {plots_dir}/h15_credit_assignment.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # Entity Summary Tables
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def entity_summary_tables(men_ents, women_ents, men_freq, women_freq):
+def entity_summary_tables(men_ents, women_ents, men_freq, women_freq, plots_dir):
     """Generate summary tables of top entities for each category."""
     logger.info("\n=== Entity Summary Tables ===")
 
@@ -450,9 +455,12 @@ def entity_summary_tables(men_ents, women_ents, men_freq, women_freq):
                        ", ".join(f"{r['entity_text']}({r['frequency']})" for _, r in top.head(5).iterrows()))
 
     summary_df = pd.DataFrame(summary_data)
-    summary_df.to_csv(NER_OUTPUT / "entity_summary.csv", index=False)
-    summary_df.to_pickle(NER_OUTPUT / "entity_summary.pkl")
-    logger.info(f"  Saved: {NER_OUTPUT}/entity_summary.csv")
+    # Note: Saving this is trickier if we want it in plots_dir or ner_dir. 
+    # But usually this goes to NER output. However, the function takes plots_dir. 
+    # Let's save it to plots_dir for simplicity as 'analysis_summary.csv'
+    summary_df.to_csv(plots_dir / "entity_summary.csv", index=False)
+    # summary_df.to_pickle(NER_OUTPUT / "entity_summary.pkl") # Skip pickle to avoid global ref
+    logger.info(f"  Saved: {plots_dir}/entity_summary.csv")
 
     # Overall comparison
     fig, axes = plt.subplots(1, 2, figsize=(16, 8))
@@ -466,9 +474,297 @@ def entity_summary_tables(men_ents, women_ents, men_freq, women_freq):
         ax.set_xlabel("Total Mentions")
 
     plt.tight_layout()
-    plt.savefig(PLOTS_DIR / "entity_distribution.png", bbox_inches="tight")
+    plt.savefig(plots_dir / "entity_distribution.png", bbox_inches="tight")
     plt.close()
-    logger.info(f"  Saved: {PLOTS_DIR}/entity_distribution.png")
+    logger.info(f"  Saved: {plots_dir}/entity_distribution.png")
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# NER Diagnostics: Coverage + Quality-Oriented Visuals
+# ═══════════════════════════════════════════════════════════════════════════════
+
+def ner_coverage_diagnostics(men_ents, women_ents, men_articles, women_articles, plots_dir):
+    """Visualize article-level NER coverage and save a compact summary table."""
+    logger.info("\n=== NER Coverage Diagnostics ===")
+
+    rows = []
+    for gender, ents, articles in [
+        ("Men", men_ents, men_articles),
+        ("Women", women_ents, women_articles),
+    ]:
+        total_articles = len(articles)
+        with_entities = ents["article_id"].nunique()
+        without_entities = max(total_articles - with_entities, 0)
+        avg_entities_all = len(ents) / total_articles if total_articles > 0 else 0
+        avg_entities_processed = len(ents) / with_entities if with_entities > 0 else 0
+
+        rows.append(
+            {
+                "gender": gender,
+                "total_articles": total_articles,
+                "articles_with_entities": with_entities,
+                "articles_without_entities": without_entities,
+                "coverage_pct": with_entities / total_articles * 100 if total_articles > 0 else 0,
+                "avg_entities_per_article_all": avg_entities_all,
+                "avg_entities_per_article_with_entities": avg_entities_processed,
+            }
+        )
+        logger.info(
+            f"  {gender}: {with_entities}/{total_articles} articles with entities "
+            f"({rows[-1]['coverage_pct']:.1f}%), avg entities/article={avg_entities_all:.1f}"
+        )
+
+    summary_df = pd.DataFrame(rows)
+    summary_df.to_csv(plots_dir / "ner_coverage_summary.csv", index=False)
+    logger.info(f"  Saved: {plots_dir}/ner_coverage_summary.csv")
+
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+
+    x = np.arange(len(summary_df))
+    with_vals = summary_df["articles_with_entities"].values
+    without_vals = summary_df["articles_without_entities"].values
+    labels = summary_df["gender"].tolist()
+
+    axes[0].bar(x, with_vals, label="With entities", color="#2e86de")
+    axes[0].bar(x, without_vals, bottom=with_vals, label="Without entities", color="#d0d7de")
+    axes[0].set_xticks(x)
+    axes[0].set_xticklabels(labels)
+    axes[0].set_ylabel("Article count")
+    axes[0].set_title("NER Coverage by Article")
+    axes[0].legend()
+
+    width = 0.35
+    axes[1].bar(
+        x - width / 2,
+        summary_df["avg_entities_per_article_all"].values,
+        width,
+        label="All articles",
+        color="#16a085",
+    )
+    axes[1].bar(
+        x + width / 2,
+        summary_df["avg_entities_per_article_with_entities"].values,
+        width,
+        label="Articles with entities",
+        color="#f39c12",
+    )
+    axes[1].set_xticks(x)
+    axes[1].set_xticklabels(labels)
+    axes[1].set_ylabel("Average entity mentions")
+    axes[1].set_title("Entity Density by Coverage Mode")
+    axes[1].legend()
+
+    plt.tight_layout()
+    plt.savefig(plots_dir / "ner_coverage_diagnostics.png", bbox_inches="tight")
+    plt.close()
+    logger.info(f"  Saved: {plots_dir}/ner_coverage_diagnostics.png")
+
+
+def ner_entities_per_article_distribution(men_ents, women_ents, men_articles, women_articles, plots_dir):
+    """Show per-article entity density and major-label load."""
+    logger.info("\n=== NER Per-Article Distribution ===")
+
+    def build_counts(ents: pd.DataFrame, articles: pd.DataFrame, gender: str) -> pd.DataFrame:
+        article_ids = articles["article_id"].astype(str).tolist()
+        total = ents.groupby("article_id").size().reindex(article_ids, fill_value=0)
+        players = (
+            ents[ents["entity_label"] == "PLAYER"]
+            .groupby("article_id")
+            .size()
+            .reindex(article_ids, fill_value=0)
+        )
+        clubs = (
+            ents[ents["entity_label"] == "CLUB"]
+            .groupby("article_id")
+            .size()
+            .reindex(article_ids, fill_value=0)
+        )
+        competitions = (
+            ents[ents["entity_label"] == "COMPETITION"]
+            .groupby("article_id")
+            .size()
+            .reindex(article_ids, fill_value=0)
+        )
+        return pd.DataFrame(
+            {
+                "article_id": article_ids,
+                "gender": gender,
+                "total_entities": total.values,
+                "players": players.values,
+                "clubs": clubs.values,
+                "competitions": competitions.values,
+            }
+        )
+
+    men_counts = build_counts(men_ents, men_articles, "Men")
+    women_counts = build_counts(women_ents, women_articles, "Women")
+    counts_df = pd.concat([men_counts, women_counts], ignore_index=True)
+    counts_df.to_csv(plots_dir / "ner_entities_per_article_summary.csv", index=False)
+    logger.info(f"  Saved: {plots_dir}/ner_entities_per_article_summary.csv")
+
+    fig, axes = plt.subplots(1, 2, figsize=(15, 6))
+
+    for gender, color in [("Men", "#2e86de"), ("Women", "#e74c3c")]:
+        vals = counts_df[counts_df["gender"] == gender]["total_entities"]
+        axes[0].hist(vals, bins=35, alpha=0.45, label=gender, color=color, density=True)
+    axes[0].set_xlabel("Entity mentions per article")
+    axes[0].set_ylabel("Density")
+    axes[0].set_title("Distribution of Total Entity Mentions per Article")
+    axes[0].legend()
+
+    melted = counts_df.melt(
+        id_vars=["article_id", "gender"],
+        value_vars=["players", "clubs", "competitions"],
+        var_name="category",
+        value_name="mentions",
+    )
+    sns.boxplot(
+        data=melted,
+        x="category",
+        y="mentions",
+        hue="gender",
+        ax=axes[1],
+        showfliers=False,
+    )
+    axes[1].set_title("Per-Article Mentions by Category")
+    axes[1].set_ylabel("Mentions per article")
+    axes[1].set_xlabel("")
+    axes[1].legend(title="")
+
+    plt.tight_layout()
+    plt.savefig(plots_dir / "ner_entities_per_article_distribution.png", bbox_inches="tight")
+    plt.close()
+    logger.info(f"  Saved: {plots_dir}/ner_entities_per_article_distribution.png")
+
+
+def ner_label_mapping_heatmap(men_ents, women_ents, plots_dir):
+    """Heatmap: how raw spaCy labels map into your football-domain labels."""
+    logger.info("\n=== NER Label Mapping Heatmap ===")
+
+    fig, axes = plt.subplots(1, 2, figsize=(17, 8))
+
+    for ax, (gender, ents) in zip(axes, [("Men", men_ents), ("Women", women_ents)]):
+        top_spacy = ents["spacy_label"].value_counts().head(10).index
+        ctab = pd.crosstab(ents["spacy_label"], ents["entity_label"], normalize="index") * 100
+        ctab = ctab.loc[top_spacy]
+        ctab = ctab[ctab.sum(axis=0).sort_values(ascending=False).index]
+
+        sns.heatmap(
+            ctab,
+            ax=ax,
+            cmap="Blues",
+            annot=True,
+            fmt=".1f",
+            cbar_kws={"shrink": 0.8},
+            linewidths=0.3,
+        )
+        ax.set_title(f"{gender}'s: spaCy label -> domain label (%)")
+        ax.set_xlabel("Mapped entity_label")
+        ax.set_ylabel("spaCy label")
+
+    plt.tight_layout()
+    plt.savefig(plots_dir / "ner_spacy_to_domain_heatmap.png", bbox_inches="tight")
+    plt.close()
+    logger.info(f"  Saved: {plots_dir}/ner_spacy_to_domain_heatmap.png")
+
+
+def ner_span_length_diagnostics(men_ents, women_ents, plots_dir):
+    """Analyze entity span length to surface noisy extractions."""
+    logger.info("\n=== NER Span-Length Diagnostics ===")
+
+    keep_labels = {"PLAYER", "CLUB", "COMPETITION", "LOCATION", "ORG_OTHER"}
+
+    def prep(df: pd.DataFrame, gender: str) -> pd.DataFrame:
+        d = df.copy()
+        d["gender"] = gender
+        d["char_length"] = (d["end_char"] - d["start_char"]).clip(lower=1)
+        d["token_length"] = d["entity_text"].fillna("").astype(str).str.split().str.len().clip(lower=1)
+        d = d[d["entity_label"].isin(keep_labels)]
+        d = d[d["token_length"] <= 12]  # trim extreme outliers for readability
+        return d
+
+    combined = pd.concat([prep(men_ents, "Men"), prep(women_ents, "Women")], ignore_index=True)
+    summary = (
+        combined.groupby(["gender", "entity_label"])
+        .agg(
+            n=("entity_text", "size"),
+            mean_token_length=("token_length", "mean"),
+            median_token_length=("token_length", "median"),
+            p95_token_length=("token_length", lambda x: np.percentile(x, 95)),
+        )
+        .reset_index()
+        .sort_values(["gender", "entity_label"])
+    )
+    summary.to_csv(plots_dir / "ner_span_length_summary.csv", index=False)
+    logger.info(f"  Saved: {plots_dir}/ner_span_length_summary.csv")
+
+    fig, axes = plt.subplots(1, 2, figsize=(16, 6))
+
+    sns.boxplot(
+        data=combined,
+        x="entity_label",
+        y="token_length",
+        hue="gender",
+        ax=axes[0],
+        showfliers=False,
+    )
+    axes[0].set_title("Entity Token-Length by Label")
+    axes[0].set_xlabel("")
+    axes[0].set_ylabel("Token length")
+    axes[0].tick_params(axis="x", rotation=30)
+    axes[0].legend(title="")
+
+    sns.violinplot(
+        data=combined,
+        x="gender",
+        y="char_length",
+        hue="gender",
+        ax=axes[1],
+        cut=0,
+        inner="quartile",
+    )
+    axes[1].set_title("Character Span Length Distribution")
+    axes[1].set_xlabel("")
+    axes[1].set_ylabel("Character span length")
+    if axes[1].legend_:
+        axes[1].legend_.remove()
+
+    plt.tight_layout()
+    plt.savefig(plots_dir / "ner_span_length_diagnostics.png", bbox_inches="tight")
+    plt.close()
+    logger.info(f"  Saved: {plots_dir}/ner_span_length_diagnostics.png")
+
+
+def ner_topk_concentration_curves(men_freq, women_freq, plots_dir):
+    """Cumulative share captured by top-K entities for key categories."""
+    logger.info("\n=== NER Top-K Concentration Curves ===")
+
+    focus_labels = ["PLAYER", "CLUB", "COMPETITION"]
+    max_k = 50
+    fig, axes = plt.subplots(1, 2, figsize=(16, 6), sharey=True)
+
+    for ax, (gender, freq_df) in zip(axes, [("Men", men_freq), ("Women", women_freq)]):
+        for label in focus_labels:
+            subset = freq_df[freq_df["entity_label"] == label].sort_values("frequency", ascending=False)
+            if subset.empty:
+                continue
+            vals = subset["frequency"].values
+            cum = np.cumsum(vals)
+            cum_share = cum / cum[-1] * 100
+            k = min(max_k, len(cum_share))
+            ax.plot(np.arange(1, k + 1), cum_share[:k], label=label)
+
+        ax.set_title(f"{gender}'s: cumulative share by top-K entities")
+        ax.set_xlabel("Top-K entities")
+        ax.set_ylabel("Cumulative mention share (%)")
+        ax.set_ylim(0, 100)
+        ax.grid(alpha=0.3)
+        ax.legend()
+
+    plt.tight_layout()
+    plt.savefig(plots_dir / "ner_topk_concentration_curves.png", bbox_inches="tight")
+    plt.close()
+    logger.info(f"  Saved: {plots_dir}/ner_topk_concentration_curves.png")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -478,27 +774,42 @@ def entity_summary_tables(men_ents, women_ents, men_freq, women_freq):
 def main():
     parser = argparse.ArgumentParser(description="Football NER Analysis")
     parser.add_argument("--model", default="lg", help="Model key: sm, lg, trf")
+    parser.add_argument("--input-dir", default=None, help="Directory containing men_articles.csv / women_articles.csv")
+    parser.add_argument("--ner-dir", default=None, help="Directory containing NER outputs (model subfolders)")
+    parser.add_argument("--output-dir", default=None, help="Directory to save plots/analysis")
     args = parser.parse_args()
 
+    # Resolve paths
+    data_dir = Path(args.input_dir) if args.input_dir else PROCESSED_DIR_DEFAULT
+    ner_dir = Path(args.ner_dir) if args.ner_dir else NER_OUTPUT_DEFAULT
+    plots_dir = Path(args.output_dir) if args.output_dir else PLOTS_DIR_DEFAULT
+    
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
     logger.info(f"Loading NER data for model: {args.model}")
-    men_ents, women_ents, men_freq, women_freq, men_articles, women_articles = load_ner_data(args.model)
+    men_ents, women_ents, men_freq, women_freq, men_articles, women_articles = load_ner_data(data_dir, ner_dir, args.model)
 
     logger.info(f"Men: {len(men_ents)} entities, Women: {len(women_ents)} entities")
 
     # Run all analyses
-    entity_summary_tables(men_ents, women_ents, men_freq, women_freq)
-    h1_player_prominence(men_ents, women_ents)
-    h2_club_cooccurrence(men_ents, women_ents)
-    h9_individual_vs_team(men_ents, women_ents, men_articles, women_articles)
-    h10_name_formality(men_ents, women_ents)
-    h11_h12_descriptor_context(men_ents, women_ents)
-    h14_meta_discourse(men_ents, women_ents)
-    h15_credit_assignment(men_ents, women_ents)
+    entity_summary_tables(men_ents, women_ents, men_freq, women_freq, plots_dir)
+    h1_player_prominence(men_ents, women_ents, plots_dir)
+    h2_club_cooccurrence(men_ents, women_ents, plots_dir)
+    h9_individual_vs_team(men_ents, women_ents, men_articles, women_articles, plots_dir)
+    h10_name_formality(men_ents, women_ents, plots_dir)
+    h11_h12_descriptor_context(men_ents, women_ents, plots_dir)
+    h14_meta_discourse(men_ents, women_ents, plots_dir)
+    h15_credit_assignment(men_ents, women_ents, plots_dir)
+    ner_coverage_diagnostics(men_ents, women_ents, men_articles, women_articles, plots_dir)
+    ner_entities_per_article_distribution(men_ents, women_ents, men_articles, women_articles, plots_dir)
+    ner_label_mapping_heatmap(men_ents, women_ents, plots_dir)
+    ner_span_length_diagnostics(men_ents, women_ents, plots_dir)
+    ner_topk_concentration_curves(men_freq, women_freq, plots_dir)
 
     logger.info(f"\n{'='*60}")
     logger.info("ALL ANALYSES COMPLETE")
-    logger.info(f"Plots saved to: {PLOTS_DIR}/")
-    logger.info(f"Data saved to: {NER_OUTPUT}/")
+    logger.info(f"Plots saved to: {plots_dir}/")
+    logger.info(f"Data saved to: {ner_dir}/")
     logger.info(f"{'='*60}")
 
 

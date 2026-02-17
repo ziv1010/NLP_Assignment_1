@@ -1,0 +1,336 @@
+SocCor NER Error Analysis
+========================================================================
+
+
+========================================================================
+Model: en_core_web_sm
+========================================================================
+  False Negatives (missed players): 3226
+  False Positives (spurious detections): 3389
+
+  TOP-20 MOST FREQUENTLY MISSED PLAYERS:
+    Mbappe (FRA, Centre Forward): missed 262 times
+    Hernandez (FRA, Left Back): missed 132 times
+    Dembele (FRA, Right Winger): missed 119 times
+    Denzel Dumfries (NED, Right Midfield): missed 102 times
+    Kounde (FRA, Centre Back): missed 77 times
+    Rubén Vargas (SUI, Right Winger): missed 63 times
+    Xavi Simons (NED, Attacking Midfield): missed 60 times
+    Ake (NED, Centre Back): missed 56 times
+    Jamal Musiala (GER, Attacking Midfield): missed 55 times
+    Barış Alper Yılmaz (TUR, Right Winger): missed 52 times
+    Antoine Griezmann (FRA, Centre Forward): missed 51 times
+    Rodriguez (SUI, Centre Back): missed 50 times
+    Granit Xhaka (SUI, Defensive Midfield): missed 49 times
+    Cristiano Ronaldo (POR, Centre Forward): missed 48 times
+    Ianis Hagi (ROU, Attacking Midfield): missed 48 times
+    Donyell Malen (NED, Right Winger): missed 45 times
+    Kante (FRA, Defensive Midfield): missed 44 times
+    Ferran Torres (ESP, Left Winger): missed 43 times
+    Memphis Depay (NED, Centre Forward): missed 42 times
+    Bradley Barcola (FRA, Left Winger): missed 42 times
+
+  MISSES BY POSITION:
+    Centre Forward: 630
+    Centre Back: 554
+    Attacking Midfield: 362
+    Right Winger: 357
+    Central Midfield: 272
+    Left Back: 223
+    Defensive Midfield: 194
+    Goalkeeper: 150
+    Left Winger: 133
+    Right Midfield: 113
+    Right Back: 111
+    Left Midfield: 62
+    Coach: 41
+    Second Striker: 24
+
+  MISSES BY COUNTRY (top-15):
+    FRA: 810
+    NED: 391
+    GER: 236
+    SUI: 229
+    ROU: 193
+    ENG: 165
+    ESP: 160
+    POR: 142
+    TUR: 141
+    ITA: 93
+    UKR: 82
+    BEL: 81
+    POL: 71
+    SRB: 69
+    HUN: 68
+
+  MISSES BY DOCUMENT TYPE:
+    Games: 3019
+    Reports: 207
+
+  TOP-20 MOST COMMON FALSE POSITIVES (spurious PERSON entities):
+    "Euros": 96 times
+    "Pepe": 48 times
+    "Mudrik": 35 times
+    "Austria": 28 times
+    "Goal": 25 times
+    "Steve": 24 times
+    "Anthony Taylor": 22 times
+    "Hansko": 16 times
+    "Brasco": 14 times
+    "Alexander - Arnold": 14 times
+    "Manchester United": 14 times
+    "Bape": 13 times
+    "Danny": 13 times
+    "Vlavic": 13 times
+    "England": 13 times
+    "Michael Oliver": 13 times
+    "Shelton": 11 times
+    "Vitinha": 11 times
+    "Breuer": 11 times
+    "Ericsson": 11 times
+
+  SAMPLE MISSED CONTEXTS (first 10):
+    Player: Florian Wirtz | Tag: <WIRTZ_ATTACKING-MIDFIELD_GER>
+    Context: "...Allianz Arena after just 10 minutes as Florian Wirtz waltzed on to the ball to steer in the..."
+
+    Player: Florian Wirtz | Tag: <WIRTZ_ATTACKING-MIDFIELD_GER>
+    Context: "...Allianz Arena after just 10 minutes as Florian Wirtz waltzed on to the ball to steer in the..."
+
+    Player: Jamal Musiala | Tag: <MUSIALA_ATTACKING-MIDFIELD_GER>
+    Context: "...on to the ball to steer in the opener. Jamal Musialaas ferocious strike almost punctured Ang..."
+
+    Player: Fullkrug | Tag: <FULLKRUG_CENTRE-FORWARD_GER>
+    Context: "...mb. There was still time for substitute Fullkrug to hammer high into the net for Germany..."
+
+    Player: Emre Can | Tag: <CAN_ATTACKING-MIDFIELD_GER>
+    Context: "...the suffering Scotland crowd, only for Emre Can to mute those in dark blue as the game..."
+
+    Player: Breel Embolo | Tag: <EMBOLO_CENTRE-FORWARD_SUI>
+    Context: "...ed cross beyond Yann Sommer. Substitute Breel Embolo clinched the three points in stoppage t..."
+
+    Player: Gulacsi | Tag: <GULACSI_GOALKEEPER_HUN>
+    Context: "...e time with a lovely lobbed finish over Gulacsi. Scotland remain bottom of Group A afte..."
+
+    Player: Gulacsi | Tag: <GULACSI_GOALKEEPER_HUN>
+    Context: "...e time with a lovely lobbed finish over Gulacsi. Scotland remain bottom of Group A afte..."
+
+    Player: Gulacsi | Tag: <GULACSI_GOALKEEPER_HUN>
+    Context: "...e time with a lovely lobbed finish over Gulacsi. Scotland remain bottom of Group A afte..."
+
+    Player: Breel Embolo | Tag: <EMBOLO_CENTRE-FORWARD_SUI>
+    Context: "...ed cross beyond Yann Sommer. Substitute Breel Embolo clinched the three points in stoppage t..."
+
+
+========================================================================
+Model: en_core_web_lg
+========================================================================
+  False Negatives (missed players): 1604
+  False Positives (spurious detections): 3832
+
+  TOP-20 MOST FREQUENTLY MISSED PLAYERS:
+    Mbappe (FRA, Centre Forward): missed 209 times
+    Denzel Dumfries (NED, Right Midfield): missed 102 times
+    Memphis Depay (NED, Centre Forward): missed 63 times
+    Lamine Yamal (ESP, Right Winger): missed 57 times
+    Rudiger (GER, Centre Back): missed 47 times
+    Kounde (FRA, Centre Back): missed 42 times
+    Sane (GER, Right Winger): missed 42 times
+    Aymeric Laporte (ESP, Centre Back): missed 40 times
+    Kante (FRA, Defensive Midfield): missed 36 times
+    Leao (POR, Left Winger): missed 35 times
+    Milan Skriniar (SVK, Centre Back): missed 31 times
+    Barış Alper Yılmaz (TUR, Right Winger): missed 28 times
+    Rubén Vargas (SUI, Right Winger): missed 27 times
+    Romelu Lukaku (BEL, Centre Forward): missed 25 times
+    Donyell Malen (NED, Right Winger): missed 24 times
+    Schar (SUI, Centre Back): missed 24 times
+    Muldur (TUR, Right Back): missed 21 times
+    Wober (AUT, Centre Back): missed 20 times
+    Gareth Southgate (ENG, Coach): missed 20 times
+    Andriy Lunin (UKR, Goalkeeper): missed 20 times
+
+  MISSES BY POSITION:
+    Centre Forward: 363
+    Centre Back: 362
+    Right Winger: 232
+    Goalkeeper: 119
+    Right Midfield: 103
+    Defensive Midfield: 85
+    Attacking Midfield: 76
+    Right Back: 66
+    Left Winger: 61
+    Central Midfield: 47
+    Coach: 39
+    Left Back: 35
+    Left Midfield: 9
+    Second Striker: 7
+
+  MISSES BY COUNTRY (top-15):
+    FRA: 331
+    NED: 265
+    GER: 128
+    ESP: 120
+    POR: 100
+    ENG: 94
+    TUR: 73
+    SUI: 69
+    ROU: 69
+    BEL: 54
+    UKR: 51
+    SVK: 32
+    AUT: 30
+    HUN: 27
+    SVN: 26
+
+  MISSES BY DOCUMENT TYPE:
+    Games: 1466
+    Reports: 138
+
+  TOP-20 MOST COMMON FALSE POSITIVES (spurious PERSON entities):
+    "Pepe": 49 times
+    "Mudrik": 46 times
+    "Rodri": 44 times
+    "Goal": 33 times
+    "Steve": 24 times
+    "Anthony Taylor": 22 times
+    "Vitinha": 20 times
+    "Shelton": 20 times
+    "Spora": 16 times
+    "Brasco": 15 times
+    "Martin": 14 times
+    "Luciano": 14 times
+    "Michael Oliver": 13 times
+    "Danny": 12 times
+    "Marlon": 12 times
+    "Gakko": 12 times
+    "Harry Kane": 11 times
+    "Conte": 11 times
+    "Breuer": 11 times
+    "Gary": 10 times
+
+  SAMPLE MISSED CONTEXTS (first 10):
+    Player: Rudiger | Tag: <RUDIGER_CENTRE-BACK_GER>
+    Context: "...into the net for Germany's fourth, with Rudiger's late deflected own goal pulling one b..."
+
+    Player: Rudiger | Tag: <RUDIGER_CENTRE-BACK_GER>
+    Context: "...into the net for Germany's fourth, with Rudiger's late deflected own goal pulling one b..."
+
+    Player: Emre Can | Tag: <CAN_ATTACKING-MIDFIELD_GER>
+    Context: "...the suffering Scotland crowd, only for Emre Can to mute those in dark blue as the game..."
+
+    Player: Álvaro Morata | Tag: <MORATA_CENTRE-FORWARD_ESP>
+    Context: "...mpiastadion Berlin. First-half goals by Álvaro Morata, Fabián Ruiz and Dani Daniel Carvajal e..."
+
+    Player: Lorenzo Pellegrini | Tag: <PELLEGRINI_ATTACKING-MIDFIELD_ITA>
+    Context: "...Bastoni headed home Giovanni Di Lorenzo Lorenzo Pellegrini's inswinging delivery after a clever sh..."
+
+    Player: Vlahovic | Tag: <VLAHOVIC_CENTRE-FORWARD_SRB>
+    Context: "...ckford made an important late save from Vlahovic. Harry Kane came close to adding a seco..."
+
+    Player: Gareth Southgate | Tag: <SOUTHGATE_COACH_ENG>
+    Context: "...magnificent header after 13 minutes as Gareth Southgate's side were rewarded for an impressive..."
+
+    Player: Matjaz Kek | Tag: <KEK_COACH_SVN>
+    Context: "...he smashed an effort against the post. Matjaz Kek's side, who had struggled to contain Ch..."
+
+    Player: Jan Oblak | Tag: <OBLAK_GOALKEEPER_SVN>
+    Context: "...this." After Atletico Madrid goalkeeper Jan Oblak denied Hojlund from close range, preven..."
+
+    Player: Hojlund | Tag: <HOJLUND_CENTRE-FORWARD_DEN>
+    Context: "...and gone for Manchester United striker Hojlund, as well as for Christian Eriksen, whil..."
+
+
+========================================================================
+CROSS-MODEL ANALYSIS: SHARED BLIND SPOTS
+========================================================================
+
+  Players missed by ALL 2 models: 451 instances
+
+  TOP-20 PLAYERS MISSED BY ALL MODELS:
+    Mbappe (FRA): 17 instances
+    Denzel Dumfries (NED): 12 instances
+    Kante (FRA): 12 instances
+    Kounde (FRA): 11 instances
+    Memphis Depay (NED): 11 instances
+    Matthijs de Ligt (NED): 10 instances
+    Rubén Vargas (SUI): 8 instances
+    Dembele (FRA): 8 instances
+    Rudiger (GER): 7 instances
+    Schar (SUI): 7 instances
+    Muldur (TUR): 7 instances
+    Guehi (ENG): 7 instances
+    Donyell Malen (NED): 7 instances
+    Barış Alper Yılmaz (TUR): 7 instances
+    Virgil van Dijk (NED): 7 instances
+    Milan Skriniar (SVK): 6 instances
+    Kyle Walker (ENG): 6 instances
+    Sane (GER): 6 instances
+    Jerdy Schouten (NED): 6 instances
+    Sa (POR): 6 instances
+
+  SHARED MISSES BY POSITION:
+    Centre Back: 121
+    Centre Forward: 59
+    Right Winger: 52
+    Goalkeeper: 45
+    Defensive Midfield: 38
+    Attacking Midfield: 29
+    Right Back: 26
+    Central Midfield: 21
+    Left Winger: 17
+    Left Back: 15
+    Right Midfield: 12
+    Coach: 11
+    Second Striker: 3
+    Left Midfield: 2
+
+  SHARED MISSES BY COUNTRY:
+    NED: 72
+    FRA: 66
+    ENG: 40
+    POR: 31
+    GER: 29
+    ROU: 27
+    TUR: 25
+    SUI: 25
+    UKR: 14
+    ESP: 14
+    HUN: 14
+    BEL: 12
+    SVN: 10
+    AUT: 10
+    DEN: 9
+
+  ERROR PATTERN ANALYSIS:
+    Single-word names missed: 182 / 451 (40.4%)
+    Hyphenated names missed: 3 / 451 (0.7%)
+    Names with apostrophes missed: 0 / 451 (0.0%)
+    Eastern/Central European players missed: 126 / 451 (27.9%)
+
+========================================================================
+CROSS-MODEL ANALYSIS: COMMON FALSE POSITIVES
+========================================================================
+
+  Spurious entities detected by ALL models: 1805
+
+  TOP-20 FALSE POSITIVES SHARED BY ALL MODELS:
+    "Danny": 10 times
+    "Pepe": 8 times
+    "Steve": 8 times
+    "Luis de la Fuente": 7 times
+    "Conte": 6 times
+    "James": 6 times
+    "Vitinha": 6 times
+    "Micky van de Ven": 6 times
+    "Martin": 6 times
+    "Mark": 5 times
+    "Brasco": 5 times
+    "Harry Kane": 5 times
+    "Gareth Southgate": 5 times
+    "Anthony Taylor": 5 times
+    "Michael Oliver": 5 times
+    "Ball": 5 times
+    "Bukayo Saka": 5 times
+    "Alexander - Arnold": 5 times
+    "Danny Murphy": 4 times
+    "Wayne Rooney": 4 times

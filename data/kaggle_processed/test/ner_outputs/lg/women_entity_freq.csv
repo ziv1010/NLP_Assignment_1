@@ -1,0 +1,7051 @@
+entity_text,entity_label,frequency
+first,NUMERIC,475
+england,LOCATION,463
+chelsea,CLUB,358
+two,NUMERIC,309
+one,NUMERIC,263
+three,NUMERIC,231
+germany,LOCATION,216
+spain,LOCATION,180
+world cup,COMPETITION,178
+barcelona,CLUB,160
+second,NUMERIC,159
+fifa,GOVERNING_BODY,145
+wsl,COMPETITION,143
+four,NUMERIC,135
+uswnt,CLUB,131
+us,LOCATION,122
+arsenal,CLUB,116
+european,NATIONALITY,109
+australia,LOCATION,108
+manchester city,CLUB,106
+lyon,CLUB,105
+champions league,COMPETITION,103
+five,NUMERIC,99
+six,NUMERIC,97
+nwsl,COMPETITION,93
+manchester united,CLUB,89
+third,NUMERIC,89
+united states,LOCATION,89
+sunday,DATE,87
+canada,LOCATION,86
+france,LOCATION,82
+liverpool,CLUB,78
+wolfsburg,CLUB,77
+sweden,LOCATION,76
+this season,DATE,76
+sky sports,MEDIA,75
+wembley,LOCATION,75
+23,NUMERIC,74
+2022,DATE,73
+premier league,COMPETITION,72
+europe,LOCATION,70
+uk,LOCATION,67
+summer,DATE,62
+eight,NUMERIC,60
+netherlands,LOCATION,60
+lionesses,CLUB,59
+this summer,DATE,55
+uefa,GOVERNING_BODY,55
+last season,DATE,55
+2019,DATE,54
+italy,LOCATION,54
+mexico,LOCATION,53
+blues,CLUB,53
+2021,DATE,53
+london,LOCATION,52
+10,NUMERIC,51
+everton,CLUB,49
+tottenham,CLUB,49
+today,DATE,49
+chrome,ORG_OTHER,49
+season,DATE,49
+2017,DATE,49
+barca,CLUB,48
+austria,LOCATION,47
+11,NUMERIC,46
+norway,LOCATION,45
+arnold clark cup,COMPETITION,44
+real madrid,CLUB,43
+new zealand,LOCATION,43
+hayes,PLAYER,43
+half,NUMERIC,42
+fourth,NUMERIC,42
+seven,NUMERIC,42
+last year,DATE,41
+paris saint-germain,CLUB,41
+wednesday,DATE,40
+2021-22,DATE,40
+usa,LOCATION,39
+japan,LOCATION,39
+scottish,NATIONALITY,38
+12,NUMERIC,38
+year,DATE,38
+fa cup,COMPETITION,37
+saturday,DATE,37
+united,ORG_OTHER,37
+wiegman,ORG_OTHER,37
+french,NATIONALITY,37
+russia,LOCATION,37
+this year,DATE,36
+camp nou,LOCATION,36
+olympics,EVENT_OTHER,35
+euros,COMPETITION,35
+brazil,LOCATION,35
+women's super league,COMPETITION,34
+american,NATIONALITY,34
+2023,DATE,34
+womens world cup,ORG_OTHER,34
+northern ireland,LOCATION,34
+sam kerr,PLAYER,34
+iceland,LOCATION,34
+gunners,CLUB,33
+china,LOCATION,33
+kirby,PLAYER,33
+psg,CLUB,33
+club,ORG_OTHER,33
+2015,DATE,32
+brighton,CLUB,32
+emma hayes,PLAYER,32
+uwcl,COMPETITION,32
+rangers,CLUB,31
+2020,DATE,31
+mead,PLAYER,31
+fa,GOVERNING_BODY,30
+16,NUMERIC,30
+fifth,NUMERIC,30
+years,DATE,30
+juventus,CLUB,30
+english,NATIONALITY,29
+macario,PLAYER,29
+2023,NUMERIC,29
+thursday,DATE,28
+nine,NUMERIC,28
+leah williamson,PLAYER,28
+lucy bronze,PLAYER,28
+haiti,LOCATION,28
+alexia putellas,PLAYER,28
+kerr,ORG_OTHER,28
+russian,NATIONALITY,27
+celtic,CLUB,27
+sarina wiegman,PLAYER,27
+15,NUMERIC,27
+switzerland,LOCATION,27
+wembley stadium,LOCATION,27
+spanish,NATIONALITY,27
+euro 2022,MISC,27
+nxgn,ORG_OTHER,26
+denmark,LOCATION,26
+andonovski,PLAYER,26
+ea sports,ORG_OTHER,26
+fran kirby,PLAYER,26
+january,DATE,26
+bbc iplayer,ORG_OTHER,26
+portugal,LOCATION,25
+monday,DATE,25
+250000,MONEY,25
+swpl,ORG_OTHER,25
+german,NATIONALITY,25
+washington,LOCATION,25
+scotland,LOCATION,25
+super 6,ORG_OTHER,24
+this week,DATE,24
+womens super league,ORG_OTHER,24
+13,NUMERIC,24
+8pm,TIME,24
+tuesday,DATE,23
+last month,DATE,23
+alex morgan,PLAYER,23
+20,NUMERIC,23
+22,NUMERIC,23
+beth mead,PLAYER,23
+belgium,LOCATION,23
+miedema,PLAYER,23
+marta,PLAYER,23
+3pm saturday,TIME,22
+catarina macario,PLAYER,22
+weekly,DATE,22
+second half,DATE,22
+90,NUMERIC,22
+2018,DATE,21
+abramovich,PLAYER,21
+womens world cup,EVENT_OTHER,21
+bayern munich,CLUB,21
+dutch,NATIONALITY,21
+jamaica,LOCATION,21
+women's world cup,COMPETITION,21
+manchester,LOCATION,21
+man city,CLUB,21
+aston villa,CLUB,21
+friday,DATE,21
+saudi,NATIONALITY,21
+ella toone,PLAYER,20
+english,MISC,20
+megan rapinoe,PLAYER,20
+instagram,MEDIA,20
+qatar,LOCATION,20
+williamson,PLAYER,20
+february,DATE,20
+new york,LOCATION,20
+crystal palace,CLUB,20
+last summer,DATE,19
+stamford bridge,LOCATION,19
+womens champions league,ORG_OTHER,19
+bbc,MEDIA,19
+90 minutes,TIME,19
+vivianne miedema,PLAYER,19
+india,LOCATION,19
+west ham,CLUB,19
+27,NUMERIC,19
+newcastle,CLUB,19
+women's champions league,COMPETITION,19
+saudi arabia,LOCATION,19
+first half,DATE,18
+alessia russo,PLAYER,18
+november,DATE,18
+old trafford,ORG_OTHER,18
+british,NATIONALITY,18
+leicester,CLUB,17
+flores,PLAYER,17
+2016,DATE,17
+tomorrow,DATE,17
+18,NUMERIC,17
+russo,PLAYER,17
+2007,DATE,17
+2022,NUMERIC,17
+matildas,CLUB,17
+spurs,CLUB,17
+nigeria,LOCATION,17
+roman abramovich,PLAYER,16
+acl,ORG_OTHER,16
+bayern,CLUB,16
+21,NUMERIC,16
+24,NUMERIC,16
+2020-21,DATE,16
+birmingham,LOCATION,15
+madrid,LOCATION,15
+next season,DATE,15
+millie bright,PLAYER,15
+weekend,DATE,15
+european championship,COMPETITION,15
+costa rica,LOCATION,15
+finland,LOCATION,15
+14,NUMERIC,15
+17,NUMERIC,15
+19,NUMERIC,15
+1999,DATE,15
+james,PLAYER,15
+united kingdom,LOCATION,15
+clarke,PLAYER,15
+bbc one,ORG_OTHER,15
+rapinoe,PLAYER,14
+jim ratcliffe,PLAYER,14
+blaugrana,ORG_OTHER,14
+chloe kelly,PLAYER,14
+mary earps,PLAYER,14
+bundesliga,COMPETITION,14
+tiktok,ORG_OTHER,14
+neville,PLAYER,14
+tobin heath,PLAYER,14
+april,DATE,14
+26,NUMERIC,14
+wales,LOCATION,14
+chinese,NATIONALITY,14
+australian,NATIONALITY,14
+2012,DATE,14
+moultrie,ORG_OTHER,14
+bcci,ORG_OTHER,14
+2022-23,DATE,13
+22-year-old,DATE,13
+december,DATE,13
+19-year-old,DATE,13
+brazilian,NATIONALITY,13
+sky sports football,ORG_OTHER,13
+whatsapp,ORG_OTHER,13
+spirit,ORG_OTHER,13
+wrexham,LOCATION,13
+angel city,CLUB,13
+mexican,NATIONALITY,13
+evening,TIME,13
+recent years,DATE,13
+lauren james,PLAYER,13
+a year,DATE,13
+march,DATE,13
+olympic,EVENT_OTHER,13
+america,LOCATION,13
+2003,DATE,13
+south korea,LOCATION,13
+vilda,ORG_OTHER,13
+golden boot,PLAYER,13
+thailand,LOCATION,13
+2013,DATE,13
+jonas eidevall,PLAYER,13
+wwc,ORG_OTHER,13
+jennifer hermoso,PLAYER,13
+ratcliffe,PLAYER,13
+heath,ORG_OTHER,13
+roma,CLUB,13
+livemint,PLAYER,13
+common goal,PLAYER,13
+olympic,LOCATION,12
+tonight,TIME,12
+toone,PLAYER,12
+ballon d'or,COMPETITION,12
+itv,MEDIA,12
+todd boehly,PLAYER,12
+boehly,ORG_OTHER,12
+san diego wave,CLUB,12
+afternoon,TIME,12
+june,DATE,12
+vietnam,LOCATION,12
+ellen white,PLAYER,12
+fifa womens world cup,ORG_OTHER,12
+ashworth,PLAYER,12
+glasgow city,LOCATION,12
+turin,LOCATION,12
+25,NUMERIC,12
+morocco,LOCATION,12
+paris,LOCATION,11
+night,TIME,11
+mls,GOVERNING_BODY,11
+motherwell,ORG_OTHER,11
+seventh,NUMERIC,11
+30,NUMERIC,11
+2009,DATE,11
+keira walsh,PLAYER,11
+rachel daly,PLAYER,11
+ada hegerberg,PLAYER,11
+only one,NUMERIC,11
+2025,DATE,11
+women's euro,ORG_OTHER,11
+week,DATE,11
+colombia,LOCATION,11
+july,DATE,11
+vlatko andonovski,PLAYER,11
+cba,ORG_OTHER,11
+september,DATE,11
+ninth,NUMERIC,11
+city,ORG_OTHER,11
+2014,DATE,11
+eidevall,PLAYER,11
+putellas,PLAYER,11
+luis rubiales,PLAYER,11
+end of the season,DATE,11
+horan,PLAYER,11
+czech republic,LOCATION,11
+zambia,LOCATION,11
+mace,PLAYER,11
+aberdeen,LOCATION,10
+scottish women's premier league,ORG_OTHER,10
+gotham fc,CLUB,10
+rodman,PLAYER,10
+asian,NATIONALITY,10
+sixth,NUMERIC,10
+concacaf,GOVERNING_BODY,10
+1991,DATE,10
+this weekend,DATE,10
+goal,MEDIA,10
+next month,DATE,10
+lindsey horan,PLAYER,10
+philippines,LOCATION,10
+2023 world cup,EVENT_OTHER,10
+lionel messi,PLAYER,10
+argentina,LOCATION,10
+only two,NUMERIC,10
+23-year-old,DATE,10
+fmf,ORG_OTHER,10
+bronze,PLAYER,10
+miquel,PLAYER,10
+nike,ORG_OTHER,10
+sweet caroline,PLAYER,10
+brugts,ORG_OTHER,10
+jurgen klopp,PLAYER,9
+pre-season,DATE,9
+barcelona femeni,PLAYER,9
+birmingham city,LOCATION,9
+2011,DATE,9
+kelly,PLAYER,9
+this month,DATE,9
+lauren hemp,PLAYER,9
+lotte wubben-moy,PLAYER,9
+swiss,NATIONALITY,9
+eighth,NUMERIC,9
+next year,DATE,9
+five years,DATE,9
+dfb,GOVERNING_BODY,9
+27-year-old,DATE,9
+munich,LOCATION,9
+only three,NUMERIC,9
+last eight,DATE,9
+2024,DATE,9
+morgan,PLAYER,9
+cuthbert,PLAYER,9
+taipei,LOCATION,9
+leicester city,CLUB,9
+putellas,LOCATION,9
+uzbekistan,LOCATION,9
+first-half,DATE,9
+ten,NUMERIC,9
+thomas tuchel,PLAYER,9
+91,NUMERIC,9
+chelsea women,ORG_OTHER,9
+jan 30,DATE,9
+1995,DATE,9
+reims,ORG_OTHER,9
+5pm,TIME,9
+50,NUMERIC,9
+heath,PLAYER,9
+3 billion,MONEY,9
+oshoala,PLAYER,9
+ineos sport,ORG_OTHER,9
+fifa women's world cup,ORG_OTHER,9
+milestone alert,ORG_OTHER,9
+oliver,PLAYER,9
+month,DATE,8
+18-year-old,DATE,8
+vladimir putin,PLAYER,8
+st johnstone,LOCATION,8
+second-half,DATE,8
+24 hours,TIME,8
+sky sports news,ORG_OTHER,8
+efl,GOVERNING_BODY,8
+91553,NUMERIC,8
+2023-24,DATE,8
+jill scott,PLAYER,8
+jess carter,PLAYER,8
+ellie roebuck,PLAYER,8
+2021-22 season,DATE,8
+us women's soccer show,ORG_OTHER,8
+tokyo,LOCATION,8
+becky sauerbrunn,PLAYER,8
+sophia smith,PLAYER,8
+yesterday,DATE,8
+erin cuthbert,PLAYER,8
+manchester citys,LOCATION,8
+city,LOCATION,8
+ian wright,PLAYER,8
+pune,LOCATION,8
+iran,LOCATION,8
+asian cup,EVENT_OTHER,8
+irish,NATIONALITY,8
+bunny shaw,PLAYER,8
+three years,DATE,8
+kansas city,LOCATION,8
+hoffenheim,CLUB,8
+clasico,LOCATION,8
+shebelieves cup,EVENT_OTHER,8
+spartans,NATIONALITY,8
+this day,DATE,8
+kylian mbappe,PLAYER,8
+ac milan,CLUB,8
+uefa womens champions league,ORG_OTHER,8
+sarina wiegman's,PLAYER,8
+community shield,COMPETITION,8
+raine group,ORG_OTHER,8
+day,DATE,8
+rubiales,PLAYER,8
+32,NUMERIC,8
+last years,DATE,8
+last week,DATE,8
+ajax,CLUB,8
+dulwich hamlet,LOCATION,8
+cricket world cup,EVENT_OTHER,8
+green football weekend,ORG_OTHER,8
+lina magull,PLAYER,7
+february 17,DATE,7
+days,DATE,7
+last night,TIME,7
+earlier this year,DATE,7
+sky sports download,MISC,7
+football association,ORG_OTHER,7
+wednesday night,TIME,7
+ross county,LOCATION,7
+28-year-old,DATE,7
+100,NUMERIC,7
+48,NUMERIC,7
+seven days,DATE,7
+scottish premiership,ORG_OTHER,7
+trinity rodman,ORG_OTHER,7
+1-1,NUMERIC,7
+atletico madrid,CLUB,7
+aitana bonmati,PLAYER,7
+last weekend,DATE,7
+texas,LOCATION,7
+sarina,PLAYER,7
+scott,PLAYER,7
+carli lloyd,PLAYER,7
+35,NUMERIC,7
+alex greenwood,PLAYER,7
+georgia stanway,LOCATION,7
+cristiano ronaldo,PLAYER,7
+olympic games,EVENT_OTHER,7
+january 2021,DATE,7
+26-year-old,DATE,7
+several years,DATE,7
+opta,ORG_OTHER,7
+melchie dumornay,PLAYER,7
+burke,PLAYER,7
+uefa women's champions league,ORG_OTHER,7
+portland thorns,CLUB,7
+alyssa naeher,PLAYER,7
+ashley hatch,PLAYER,7
+dundee,ORG_OTHER,7
+asia,LOCATION,7
+swedish,NATIONALITY,7
+july 31,DATE,7
+caitlin foord,PLAYER,7
+sydney,LOCATION,7
+walsh,PLAYER,7
+mia hamm,PLAYER,7
+beth england,PLAYER,7
+beal,PLAYER,7
+melbourne,LOCATION,7
+ineos,ORG_OTHER,7
+25 per cent,MONEY,7
+mohamed salah,PLAYER,7
+last seasons,DATE,7
+foden,PLAYER,7
+popp,PLAYER,7
+two years,DATE,7
+34,NUMERIC,7
+winter,DATE,7
+2019-20,DATE,7
+middlesbrough,LOCATION,7
+shaw,PLAYER,7
+ward,PLAYER,7
+last season's,DATE,7
+july 6,DATE,7
+miami,LOCATION,7
+clyde,PLAYER,7
+goodwillie,ORG_OTHER,7
+toffees,CLUB,7
+stina blackstenius,PLAYER,7
+blackstenius,PLAYER,7
+christmas,DATE,7
+minutes,TIME,7
+moore,PLAYER,7
+time match tv,ORG_OTHER,7
+ultimate,ORG_OTHER,7
+9999,MONEY,7
+llc,ORG_OTHER,7
+10mn,MONEY,7
+1992,DATE,7
+gst,ORG_OTHER,7
+motogp bharat,PLAYER,7
+250,MONEY,7
+ipl 2023,ORG_OTHER,7
+cloud,ORG_OTHER,7
+wpl explore premium catch,MISC,7
+updates on live mint,MISC,7
+download the mint news app,ORG_OTHER,7
+daily market updates & live business news,ORG_OTHER,7
+damnjanovic,PLAYER,7
+korea,LOCATION,7
+hubly,ORG_OTHER,7
+benzema,PLAYER,7
+katie zelem,PLAYER,6
+old trafford,LOCATION,6
+october,DATE,6
+west london,LOCATION,6
+10 years,DATE,6
+hansjorg wyss,PLAYER,6
+karim benzema,PLAYER,6
+brentford,CLUB,6
+kylian mbappe,ORG_OTHER,6
+st mirren,ORG_OTHER,6
+livingston,LOCATION,6
+scottish premiership &,ORG_OTHER,6
+at least five,NUMERIC,6
+2024/25,NUMERIC,6
+up to 60,NUMERIC,6
+sky sports news -,ORG_OTHER,6
+409,NUMERIC,6
+sky sports digital - follow,MISC,6
+sky sports social - alongside,ORG_OTHER,6
+ireland,LOCATION,6
+cortes,ORG_OTHER,6
+hollywood,LOCATION,6
+august,DATE,6
+hannah hampton,PLAYER,6
+bethany england,LOCATION,6
+hegerberg,ORG_OTHER,6
+david,PLAYER,6
+euro,ORG_OTHER,6
+bramall lane,PLAYER,6
+1984,DATE,6
+jorge vilda,PLAYER,6
+mallory pugh,PLAYER,6
+pugh,ORG_OTHER,6
+emily sonnett,PLAYER,6
+ashley sanchez,PLAYER,6
+group a,ORG_OTHER,6
+chicago,LOCATION,6
+racing louisville,CLUB,6
+rose lavelle,PLAYER,6
+gotham,ORG_OTHER,6
+burnley,CLUB,6
+ji,PLAYER,6
+myanmar,LOCATION,6
+gareth taylor,PLAYER,6
+women's euro 2022,ORG_OTHER,6
+emirates stadium,LOCATION,6
+12pm,TIME,6
+usmnt,ORG_OTHER,6
+world cups,EVENT_OTHER,6
+north carolina,LOCATION,6
+khadija shaw,PLAYER,6
+marie-antoinette katoto,PLAYER,6
+91648,NUMERIC,6
+eto'o,PLAYER,6
+nikita parris,PLAYER,6
+100 per cent,MONEY,6
+uefa women's euro,ORG_OTHER,6
+33-year-old,DATE,6
+one day,DATE,6
+33,NUMERIC,6
+18,DATE,6
+dan ashworth,PLAYER,6
+hamilton accies,PLAYER,6
+seeler,PLAYER,6
+robert lewandowski,PLAYER,6
+delphine cascarino,PLAYER,6
+serie a,COMPETITION,6
+svenja huth,PLAYER,6
+25-year-old,DATE,6
+adidas,ORG_OTHER,6
+california,LOCATION,6
+39,NUMERIC,6
+eurlings,PLAYER,6
+16-year-old,DATE,6
+two years ago,DATE,6
+2019-20 season,DATE,6
+sheffield,LOCATION,6
+mola tv,ORG_OTHER,6
+ivory coast,LOCATION,6
+morning,TIME,6
+mauricio pochettino,PLAYER,6
+grace geyoro,PLAYER,6
+mayra ramirez,PLAYER,6
+20 years,DATE,6
+riverside stadium,LOCATION,6
+butterfield,PLAYER,6
+last year's,DATE,6
+carter,PLAYER,6
+steph catley,PLAYER,6
+prinz,PLAYER,6
+akers,PLAYER,6
+nadim,PLAYER,6
+southampton,LOCATION,6
+portland,LOCATION,6
+6999,MONEY,6
+ea,ORG_OTHER,6
+fut,ORG_OTHER,6
+ultimate edition,MISC,6
+god save,PLAYER,6
+usmanov,ORG_OTHER,6
+ifab,GOVERNING_BODY,6
+indonesia,LOCATION,6
+sunderland,LOCATION,6
+patil stadium,PLAYER,6
+arteta,PLAYER,6
+republic of ireland,LOCATION,6
+bompastor,ORG_OTHER,6
+cho,PLAYER,6
+angeldahl,PLAYER,6
+souness,ORG_OTHER,6
+wnba,ORG_OTHER,6
+ipa,ORG_OTHER,6
+voss-tecklenburg,PLAYER,5
+women's fa cup,ORG_OTHER,5
+uefa womens euro,ORG_OTHER,5
+2020-21 season,DATE,5
+chile,LOCATION,5
+messi,PLAYER,5
+mikel arteta,PLAYER,5
+board,ORG_OTHER,5
+chelsea foundation,ORG_OTHER,5
+100,MISC,5
+eu,ORG_OTHER,5
+portuguese,NATIONALITY,5
+manchester city's,LOCATION,5
+japanese,NATIONALITY,5
+hibs,ORG_OTHER,5
+kilmarnock,LOCATION,5
+wright,PLAYER,5
+whoscoredcom,NUMERIC,5
+lawrence shankland,PLAYER,5
+fleury,PLAYER,5
+may 21,DATE,5
+watford,LOCATION,5
+korean,NATIONALITY,5
+womenâs super league,ORG_OTHER,5
+dazn,MEDIA,5
+last 16,DATE,5
+niamh charles,PLAYER,5
+jordan nobbs,PLAYER,5
+xi,PLAYER,5
+womens euros,ORG_OTHER,5
+ballon,MISC,5
+next summer,DATE,5
+steph houghton,PLAYER,5
+senegal,LOCATION,5
+la roja,PLAYER,5
+1993,DATE,5
+2022 world cup,EVENT_OTHER,5
+three days later,DATE,5
+casey murphy,PLAYER,5
+sofia huerta,PLAYER,5
+kristie mewis,PLAYER,5
+scottish fa,ORG_OTHER,5
+dens park,LOCATION,5
+20th,NUMERIC,5
+nigerian,NATIONALITY,5
+37,NUMERIC,5
+47,NUMERIC,5
+marc skinner,PLAYER,5
+28,NUMERIC,5
+skinner,PLAYER,5
+90000,NUMERIC,5
+man utd,CLUB,5
+hammers,CLUB,5
+asisat oshoala,PLAYER,5
+kerr,PLAYER,5
+jenni hermoso,PLAYER,5
+stadium australia,LOCATION,5
+mariona caldentey,PLAYER,5
+carmona,PLAYER,5
+monday night,TIME,5
+frauen,NATIONALITY,5
+next few years,DATE,5
+cameroon,LOCATION,5
+2022-23 season,DATE,5
+mcdonald,ORG_OTHER,5
+two-year,DATE,5
+millions,NUMERIC,5
+thistle,ORG_OTHER,5
+glasgow,LOCATION,5
+san diego,LOCATION,5
+zurich,LOCATION,5
+youtube,MEDIA,5
+poland,LOCATION,5
+catalan,NATIONALITY,5
+potsdam,LOCATION,5
+55,NUMERIC,5
+ppda,ORG_OTHER,5
+england women's,ORG_OTHER,5
+vfl,ORG_OTHER,5
+alexandra popp,PLAYER,5
+200,NUMERIC,5
+melanie leupolz,PLAYER,5
+leupolz,PLAYER,5
+jan 29,DATE,5
+bt sport,MEDIA,5
+nottingham forest,CLUB,5
+raine,PLAYER,5
+middle east,LOCATION,5
+later this month,DATE,5
+tabea wassmuth,PLAYER,5
+21-year-old,DATE,5
+amandine henry,PLAYER,5
+lena oberdorf,PLAYER,5
+spaniard,NATIONALITY,5
+phil,PLAYER,5
+womens euro,ORG_OTHER,5
+manuela zinsberger,PLAYER,5
+29-year-old,DATE,5
+second half of the season,DATE,5
+davidson,PLAYER,5
+williams,PLAYER,5
+32-year-old,DATE,5
+rfef,GOVERNING_BODY,5
+south africa,LOCATION,5
+2005,DATE,5
+sevilla,CLUB,5
+kingsmeadow,LOCATION,5
+dumornay,ORG_OTHER,5
+earlier this season,DATE,5
+benfica,CLUB,5
+paula,PLAYER,5
+tobin,PLAYER,5
+mary fowler,PLAYER,5
+christine sinclair,PLAYER,5
+birgit prinz,PLAYER,5
+michelle akers,PLAYER,5
+raith rovers,MISC,5
+raith,MISC,5
+foster,PLAYER,5
+rangers fc,CLUB,5
+2bn,MONEY,5
+la liga,COMPETITION,5
+5999,MONEY,5
+playstation 5,MISC,5
+oshoala,LOCATION,5
+national women's soccer league,ORG_OTHER,5
+city football group,ORG_OTHER,5
+end of the,DATE,5
+330 pm,TIME,5
+dd sports tv,ORG_OTHER,5
+youtube tv,ORG_OTHER,5
+nj/ny gotham fc,ORG_OTHER,5
+hasegawa,PLAYER,5
+ocampos,ORG_OTHER,5
+marozsan,ORG_OTHER,5
+indivisa,ORG_OTHER,5
+freestar,PLAYER,5
+ann-katrin berger,PLAYER,4
+martha thomas,PLAYER,4
+ona batlle,PLAYER,4
+12 months,DATE,4
+ronaldo,PLAYER,4
+canadian,NATIONALITY,4
+16,DATE,4
+19 years,DATE,4
+32bn,MONEY,4
+chelsea fc,CLUB,4
+los angeles dodgers,ORG_OTHER,4
+times,MEDIA,4
+uk government,ORG_OTHER,4
+stream sky sports,PLAYER,4
+london city lionesses,LOCATION,4
+var,GOVERNING_BODY,4
+nantes,LOCATION,4
+erling haaland,ORG_OTHER,4
+dundee,LOCATION,4
+stanford,ORG_OTHER,4
+primera division,ORG_OTHER,4
+atletico,CLUB,4
+four days later,DATE,4
+natalie portman,PLAYER,4
+december 2022,DATE,4
+dutchwoman,ORG_OTHER,4
+earlier this week,DATE,4
+africa,LOCATION,4
+italian,NATIONALITY,4
+karen carney,PLAYER,4
+womens world cups,ORG_OTHER,4
+freiburg,CLUB,4
+xhemaili,ORG_OTHER,4
+three years ago,DATE,4
+many years,DATE,4
+klaveness,ORG_OTHER,4
+inter miami,LOCATION,4
+guatemala,LOCATION,4
+lea schuller,PLAYER,4
+june 28,DATE,4
+2023 womens world cup,ORG_OTHER,4
+concacaf w championship,LOCATION,4
+americans,NATIONALITY,4
+annual,DATE,4
+concacaf w championship,EVENT_OTHER,4
+july 18,DATE,4
+aubrey kingsbury,PLAYER,4
+north carolina courage,CLUB,4
+alana cook,PLAYER,4
+emily fox,PLAYER,4
+naomi girma,PLAYER,4
+andi sullivan,PLAYER,4
+midge purce,PLAYER,4
+jill ellis,PLAYER,4
+continental cup,EVENT_OTHER,4
+mumbai,LOCATION,4
+november 2021,DATE,4
+six years,DATE,4
+casey stoney,PLAYER,4
+82,MISC,4
+hedvig lindahl,PLAYER,4
+bbc sport,MEDIA,4
+a few years,DATE,4
+eidevall,ORG_OTHER,4
+victoria pelova,PLAYER,4
+following week,DATE,4
+johan cruyff,PLAYER,4
+olga carmona,PLAYER,4
+european championships,EVENT_OTHER,4
+a womens world cup,ORG_OTHER,4
+angel city fc,ORG_OTHER,4
+lena lattwein,PLAYER,4
+st james' park,ORG_OTHER,4
+north macedonia,LOCATION,4
+fc,LOCATION,4
+bst,ORG_OTHER,4
+12 noon et,TIME,4
+spotify,ORG_OTHER,4
+fc barcelona,CLUB,4
+espn,MEDIA,4
+no9,NUMERIC,4
+shebelieves cup,LOCATION,4
+same day,DATE,4
+73 minutes,TIME,4
+11th,NUMERIC,4
+uwe seeler,PLAYER,4
+hamburg,LOCATION,4
+1966,DATE,4
+kevin de bruyne,PLAYER,4
+antonio conte,PLAYER,4
+sonia bompastor,PLAYER,4
+,PLAYER,4
+4-3,NUMERIC,4
+jill roord,PLAYER,4
+29,NUMERIC,4
+fiorentina,CLUB,4
+inter milan,CLUB,4
+july 9,DATE,4
+66,NUMERIC,4
+fc bayern,ORG_OTHER,4
+south korean,NATIONALITY,4
+smith,PLAYER,4
+three-year,DATE,4
+eden park,LOCATION,4
+quarter-final,DATE,4
+14,DATE,4
+belgian,NATIONALITY,4
+barca femeni,ORG_OTHER,4
+earlier this month,DATE,4
+jordyn huitema,PLAYER,4
+selma bacha,PLAYER,4
+león,PLAYER,4
+20-year-old,DATE,4
+brown,PLAYER,4
+thousands,NUMERIC,4
+germans,NATIONALITY,4
+ramona bachmann,PLAYER,4
+nine months,DATE,4
+four years,DATE,4
+cook,PLAYER,4
+golden boot,MISC,4
+davies,PLAYER,4
+bristol city,CLUB,4
+2021/22,NUMERIC,4
+kadidiatou diani,PLAYER,4
+sara däbritz,PLAYER,4
+u20s,ORG_OTHER,4
+following year,DATE,4
+turkey,LOCATION,4
+two seasons,DATE,4
+30-year-old,DATE,4
+july 10,DATE,4
+frank lampard,PLAYER,4
+dumornay,PLAYER,4
+february 23,DATE,4
+rolfo,PLAYER,4
+greece,LOCATION,4
+13 years,DATE,4
+next season's,DATE,4
+nations league,COMPETITION,4
+groenen,PLAYER,4
+euro 2020,COMPETITION,4
+ekic,PLAYER,4
+louisville,LOCATION,4
+24-year-old,DATE,4
+four years ago,DATE,4
+last five years,DATE,4
+martina voss,PLAYER,4
+fox,PLAYER,4
+fox,ORG_OTHER,4
+patri guijarro,PLAYER,4
+emirates,LOCATION,4
+rfu,ORG_OTHER,4
+cas,GOVERNING_BODY,4
+kyra cooney-cross,PLAYER,4
+67th minute,TIME,4
+alanna kennedy,PLAYER,4
+ghana,LOCATION,4
+at least 10,NUMERIC,4
+kundananji,PLAYER,4
+david goodwillie,PLAYER,4
+raith rovers,ORG_OTHER,4
+feminin,ORG_OTHER,4
+polish,NATIONALITY,4
+arsenal women,ORG_OTHER,4
+reds,CLUB,4
+50th,NUMERIC,4
+ellie carpenter,PLAYER,4
+kadeisha buchanan,PLAYER,4
+chicago cubs,ORG_OTHER,4
+10 per cent,MONEY,4
+girona,CLUB,4
+every day,DATE,4
+france football,ORG_OTHER,4
+henry,PLAYER,4
+playstation 4,MISC,4
+xbox series x/s,EVENT_OTHER,4
+super falcons,CLUB,4
+2002,DATE,4
+los angeles,LOCATION,4
+welsh,NATIONALITY,4
+katie,PLAYER,4
+thierry henry,PLAYER,4
+spfl,ORG_OTHER,4
+usm,ORG_OTHER,4
+megafon,PLAYER,4
+womens european championship,ORG_OTHER,4
+ultimate team,ORG_OTHER,4
+xbox one,ORG_OTHER,4
+north america,LOCATION,4
+huitema,PLAYER,4
+best awards,MISC,4
+afc women's asian cup,ORG_OTHER,4
+blindkilde brown,PLAYER,4
+group c,ORG_OTHER,4
+shiv chhatrapati sports complex,EVENT_OTHER,4
+2022/23 season,DATE,4
+feifel,PLAYER,4
+grawe,PLAYER,4
+philadelphia,LOCATION,4
+major league baseball,ORG_OTHER,4
+zero,NUMERIC,4
+adriana leon,PLAYER,4
+carpenter,PLAYER,4
+heinerman,ORG_OTHER,4
+harris,PLAYER,4
+carly,PLAYER,4
+pos team,ORG_OTHER,4
+bdo,ORG_OTHER,4
+graeme souness,PLAYER,4
+dubai,LOCATION,4
+patino,PLAYER,4
+goalposts league,ORG_OTHER,4
+racecourse,ORG_OTHER,4
+fgr,ORG_OTHER,4
+berger,PLAYER,3
+toone,ORG_OTHER,3
+u23s,ORG_OTHER,3
+final day,DATE,3
+19,DATE,3
+ronaldinho,ORG_OTHER,3
+recent months,DATE,3
+bukayo saka,PLAYER,3
+past 12 months,DATE,3
+roman abramovich's,PLAYER,3
+mark walter,PLAYER,3
+government,ORG_OTHER,3
+clearlake capital,LOCATION,3
+danny finkelstein,PLAYER,3
+barbara charone,PLAYER,3
+tuchel,ORG_OTHER,3
+european union,ORG_OTHER,3
+pierre-emerick aubameyang,PLAYER,3
+carolina morace,PLAYER,3
+huddersfield,LOCATION,3
+sun,MEDIA,3
+four-year,DATE,3
+blackburn,PLAYER,3
+jack butland,PLAYER,3
+ibrox,LOCATION,3
+sky sports scottish premiership on,MISC,3
+17th,NUMERIC,3
+frankie kent,PLAYER,3
+sky sports - this season,ORG_OTHER,3
+washington,ORG_OTHER,3
+39th,NUMERIC,3
+159,NUMERIC,3
+rob mcelhenney,PLAYER,3
+wrexham,ORG_OTHER,3
+eva longoria,PLAYER,3
+87192,NUMERIC,3
+merle frohms,PLAYER,3
+club world cup,COMPETITION,3
+every year,DATE,3
+june 2022,DATE,3
+mail sport,ORG_OTHER,3
+super league,ORG_OTHER,3
+womens world cup group,EVENT_OTHER,3
+adelaide,LOCATION,3
+13,MISC,3
+esme morgan,PLAYER,3
+basel,LOCATION,3
+merk,PLAYER,3
+hegerberg,PLAYER,3
+a few weeks,DATE,3
+may,DATE,3
+phil neville,PLAYER,3
+david beckham,PLAYER,3
+no1,NUMERIC,3
+champions leagues,ORG_OTHER,3
+2013-14,DATE,3
+barcelona femeni,ORG_OTHER,3
+lgbt,NATIONALITY,3
+milan,CLUB,3
+jonna andersson,PLAYER,3
+kosovare asllani,PLAYER,3
+bbceuros,MONEY,3
+covid,PLAYER,3
+concacaf championship,EVENT_OTHER,3
+concacaf w championship,ORG_OTHER,3
+opening day,DATE,3
+july 11,DATE,3
+kelley ohara,PLAYER,3
+portland thorns fc,ORG_OTHER,3
+san diego wave fc,ORG_OTHER,3
+hatch,ORG_OTHER,3
+previous weeks,DATE,3
+michael,PLAYER,3
+last sunday,DATE,3
+georgia stanway,ORG_OTHER,3
+january 20 2022,DATE,3
+balewadi stadium,LOCATION,3
+indian,NATIONALITY,3
+september 2020,DATE,3
+39-year-old,DATE,3
+hall of fame,ORG_OTHER,3
+ikeda,ORG_OTHER,3
+tokyo olympics,EVENT_OTHER,3
+2008,DATE,3
+29,MISC,3
+houghton,PLAYER,3
+153,NUMERIC,3
+stoney,PLAYER,3
+44,NUMERIC,3
+lindahl,PLAYER,3
+recent weeks,DATE,3
+ussf,ORG_OTHER,3
+14000,MONEY,3
+five minutes,TIME,3
+current season,DATE,3
+caroline hansen,PLAYER,3
+fridolina rolfo,PLAYER,3
+sociedad,LOCATION,3
+next week,DATE,3
+earps,ORG_OTHER,3
+alba redondo,LOCATION,3
+salma paralluelo,PLAYER,3
+13 minutes,TIME,3
+40-year-old,DATE,3
+64th,NUMERIC,3
+last decade,DATE,3
+alex scott,PLAYER,3
+euro,MISC,3
+claudia pina,PLAYER,3
+catalans,NATIONALITY,3
+katoto,PLAYER,3
+137,NUMERIC,3
+five years ago,DATE,3
+90185,NUMERIC,3
+demi stokes,PLAYER,3
+sandy maciver,PLAYER,3
+sydney leroux,PLAYER,3
+six months,DATE,3
+wendie renard,PLAYER,3
+13th,NUMERIC,3
+mcdonald,PLAYER,3
+ratcliffe,ORG_OTHER,3
+united,LOCATION,3
+february 2022,DATE,3
+roy hodgson,PLAYER,3
+roy,PLAYER,3
+jane ross,PLAYER,3
+partick thistle,PLAYER,3
+sky sports get,MISC,3
+caitlin hayes,PLAYER,3
+eight minutes,TIME,3
+lanarkshire,LOCATION,3
+montrose,LOCATION,3
+dundee united,ORG_OTHER,3
+lauren davidson,PLAYER,3
+8pm tuesday,TIME,3
+julie ertz,PLAYER,3
+orlando,LOCATION,3
+manuel neuer,PLAYER,3
+2020/21,NUMERIC,3
+june 2023,DATE,3
+juve,PLAYER,3
+melvine malard,PLAYER,3
+last four,DATE,3
+finalissima,COMPETITION,3
+78,NUMERIC,3
+40,NUMERIC,3
+hungarian,NATIONALITY,3
+phil foden,PLAYER,3
+harry kane,PLAYER,3
+saison,PLAYER,3
+wölfinnen,PLAYER,3
+münchnerinnen,PLAYER,3
+fcb,ORG_OTHER,3
+frankfurt,CLUB,3
+eintracht frankfurt,CLUB,3
+ewa pajor,PLAYER,3
+lea schüller,PLAYER,3
+63,NUMERIC,3
+nwslpa,ORG_OTHER,3
+five-year,DATE,3
+continental cup,ORG_OTHER,3
+a day,DATE,3
+sanchez,PLAYER,3
+last minute,TIME,3
+rose bowl,LOCATION,3
+last 18 months,DATE,3
+melbourne city,LOCATION,3
+4pm,TIME,3
+peterborough united,LOCATION,3
+marseille,CLUB,3
+mohamed alkhereiji,PLAYER,3
+april 22,DATE,3
+juventus stadium,LOCATION,3
+quarter,DATE,3
+31,NUMERIC,3
+only four,NUMERIC,3
+more than 20,NUMERIC,3
+25 years,DATE,3
+sadio mane,PLAYER,3
+june 2021,DATE,3
+24th,NUMERIC,3
+chioma,NATIONALITY,3
+ligue 1,COMPETITION,3
+new jersey,LOCATION,3
+chicago red stars,CLUB,3
+dahlkemper,PLAYER,3
+that year,DATE,3
+may 5,DATE,3
+w-league,ORG_OTHER,3
+2017-18,DATE,3
+carla ward,PLAYER,3
+villa,LOCATION,3
+arsene wenger,PLAYER,3
+10th,NUMERIC,3
+african,NATIONALITY,3
+kathrin hendrich,PLAYER,3
+jule brand,PLAYER,3
+hibernian,ORG_OTHER,3
+seven years,DATE,3
+istanbul,LOCATION,3
+3-3,NUMERIC,3
+eindhoven,LOCATION,3
+sam kerr's,PLAYER,3
+only five,NUMERIC,3
+90th minute,TIME,3
+uefa women's,ORG_OTHER,3
+every minute,TIME,3
+july 15,DATE,3
+july 8,DATE,3
+july 12,DATE,3
+july 14,DATE,3
+july 26,DATE,3
+izzy christiansen,PLAYER,3
+conor gallagher,PLAYER,3
+levante,LOCATION,3
+â,NUMERIC,3
+cst,ORG_OTHER,3
+pino,PLAYER,3
+carrow road,LOCATION,3
+womens euro 2022,ORG_OTHER,3
+covic,PLAYER,3
+norwegian,NATIONALITY,3
+hundreds,NUMERIC,3
+two months,DATE,3
+jodie taylor,PLAYER,3
+states,LOCATION,3
+rosette,PLAYER,3
+europa league,COMPETITION,3
+major league soccer,ORG_OTHER,3
+76th,NUMERIC,3
+mundial,PLAYER,3
+women's european championship,ORG_OTHER,3
+danish,NATIONALITY,3
+university of louisville,ORG_OTHER,3
+emma,PLAYER,3
+one percent,MISC,3
+chloe kelly's,PLAYER,3
+jorja,PLAYER,3
+damaris egurrola,PLAYER,3
+hegerberg,LOCATION,3
+opening weekend,DATE,3
+sam,PLAYER,3
+kim little,PLAYER,3
+february 28,DATE,3
+stade de france,LOCATION,3
+khiara keating,PLAYER,3
+clare wheeler,PLAYER,3
+60 minutes,TIME,3
+june 24,DATE,3
+wambach,PLAYER,3
+128,NUMERIC,3
+bettina wiegmann,PLAYER,3
+panama,LOCATION,3
+last seven years,DATE,3
+dulwich,LOCATION,3
+elmore,PLAYER,3
+hickman,PLAYER,3
+griffin,PLAYER,3
+us soccer,ORG_OTHER,3
+ukrainian,NATIONALITY,3
+71,NUMERIC,3
+villa,PLAYER,3
+lisa evans,PLAYER,3
+59,NUMERIC,3
+leeds,LOCATION,3
+84,NUMERIC,3
+january 2020,DATE,3
+bristol city fc,ORG_OTHER,3
+half-century,DATE,3
+dzsenifer marozsan,PLAYER,3
+bompastor,PLAYER,3
+parisians,NATIONALITY,3
+42,NUMERIC,3
+102,NUMERIC,3
+ashley lawrence,PLAYER,3
+march 31,DATE,3
+february 27,DATE,3
+26bn,MONEY,3
+jonathan goldstein,PLAYER,3
+martin broughton,PLAYER,3
+valencia,CLUB,3
+napoli,CLUB,3
+new york red bulls,CLUB,3
+united states women's,ORG_OTHER,3
+september 2022,DATE,3
+8999,MONEY,3
+late last year,DATE,3
+200,MONEY,3
+anfield,ORG_OTHER,3
+sporting de huelva,LOCATION,3
+textor,PLAYER,3
+villa park,LOCATION,3
+5pm bst,TIME,3
+foxes,CLUB,3
+alex,PLAYER,3
+bev priestman,PLAYER,3
+god save the queen,PLAYER,3
+jess park,PLAYER,3
+32,DATE,3
+2007-08,DATE,3
+glazer,PLAYER,3
+march 2023,DATE,3
+great britain,LOCATION,3
+africa cup of nations,EVENT_OTHER,3
+marquinhos,ORG_OTHER,3
+mykolenko,PLAYER,3
+uefa women's euros,ORG_OTHER,3
+three days,DATE,3
+svitkova,ORG_OTHER,3
+roebuck,ORG_OTHER,3
+hanna bennison,PLAYER,3
+inka grings,PLAYER,3
+stoke,LOCATION,3
+sandra smisek,PLAYER,3
+anja mittag,PLAYER,3
+10-1,NUMERIC,3
+ecuador,LOCATION,3
+fabienne humm,PLAYER,3
+decades,DATE,3
+newcastle united,CLUB,3
+2020  2021,DATE,3
+842,NUMERIC,3
+10 minutes,TIME,3
+yota,ORG_OTHER,3
+nycfc,PLAYER,3
+coming weeks,DATE,3
+harry,PLAYER,3
+11 years,DATE,3
+zubizarreta,ORG_OTHER,3
+111,NUMERIC,3
+wolverhampton,CLUB,3
+broughton,PLAYER,3
+her first full season,DATE,3
+stella mccartney,PLAYER,3
+conti cup,EVENT_OTHER,3
+ramirez,PLAYER,3
+rachel williams,PLAYER,3
+lexi lloyd-smith,PLAYER,3
+neil diamond,PLAYER,3
+gareth southgate,PLAYER,3
+tebow,PLAYER,3
+florida,LOCATION,3
+arsenalâs,ORG_OTHER,3
+kim,PLAYER,3
+london city,LOCATION,3
+august 16,DATE,3
+sounak mukhopadhyay sounak mukhopadhyay,PLAYER,3
+sounak mukherjee,PLAYER,3
+international business times,ORG_OTHER,3
+moneycontrol,ORG_OTHER,3
+free press journal,ORG_OTHER,3
+alkhereiji,ORG_OTHER,3
+geyse,PLAYER,3
+julie foudy,PLAYER,3
+olympique lyonnais,ORG_OTHER,3
+singapore,LOCATION,3
+brian sorensen,PLAYER,3
+sorensen,PLAYER,3
+34-year-old,DATE,3
+turkish,NATIONALITY,3
+klopp,PLAYER,3
+coming years,DATE,3
+uaf,ORG_OTHER,3
+alan sugar,PLAYER,3
+8pm date game time,TIME,3
+a single season,DATE,3
+1956,DATE,3
+aluko,PLAYER,3
+chelsea supporters trust,ORG_OTHER,3
+redondo,ORG_OTHER,3
+virgil van dijk,PLAYER,3
+2022 womens champions league,ORG_OTHER,3
+lyon women's champions league,ORG_OTHER,3
+pto,LOCATION,3
+rayo,ORG_OTHER,3
+abu dhabi,LOCATION,3
+eriksson,PLAYER,3
+35-year-old,DATE,3
+gerhardsson,PLAYER,3
+fran,MISC,3
+freddie,ORG_OTHER,3
+maldives,LOCATION,3
+manchester united board,ORG_OTHER,3
+kevin durant,PLAYER,3
+35v,NUMERIC,3
+rich kleiman,PLAYER,3
+last few days,DATE,3
+amex,ORG_OTHER,3
+priestman,PLAYER,3
+4/5,NUMERIC,3
+89,NUMERIC,3
+mcelhenney,PLAYER,3
+wayne,PLAYER,3
+forest green rovers,ORG_OTHER,3
+vanessa gilles,PLAYER,2
+gilles,ORG_OTHER,2
+quinn,PLAYER,2
+nichelle prince,PLAYER,2
+giulia gwinn,PLAYER,2
+vitality womens fa cup,ORG_OTHER,2
+ipswich,LOCATION,2
+zelem,LOCATION,2
+four minutes,TIME,2
+firstly,NUMERIC,2
+marcelo flores,PLAYER,2
+mikel artetas,PLAYER,2
+qatar world cup,EVENT_OTHER,2
+neymar,PLAYER,2
+mexico city,LOCATION,2
+ipswich town,LOCATION,2
+hours,TIME,2
+u18s,MISC,2
+emile smith rowe,PLAYER,2
+past couple of years,DATE,2
+emile,PLAYER,2
+425 billion,MONEY,2
+52bn,MONEY,2
+25bn,MONEY,2
+21bn,NUMERIC,2
+a fortnight ago,DATE,2
+premier league owners,ORG_OTHER,2
+chelsea football club,ORG_OTHER,2
+tuesday night,TIME,2
+boehly,MISC,2
+major league baseball's,ORG_OTHER,2
+national basketball association,ORG_OTHER,2
+la lakers,ORG_OTHER,2
+22bn,MONEY,2
+27bn,MONEY,2
+josé e feliciano,PLAYER,2
+behdad eghbali,PLAYER,2
+dodgers,ORG_OTHER,2
+tory,PLAYER,2
+19bn,MONEY,2
+womens team and kingsmeadow,ORG_OTHER,2
+mason mount,LOCATION,2
+reece james,PLAYER,2
+at least two,NUMERIC,2
+harry maguire,PLAYER,2
+transfer centre live,LOCATION,2
+blackburn rovers,PLAYER,2
+jon dahl tomasson,PLAYER,2
+fc nordsjaelland,ORG_OTHER,2
+ghanaian,NATIONALITY,2
+savio,PLAYER,2
+daily express arsenal,ORG_OTHER,2
+ivan toney,PLAYER,2
+thomas frank,PLAYER,2
+aleksander ceferin,PLAYER,2
+xabi alonso,PLAYER,2
+jim ratcliffe's,PLAYER,2
+hoops,ORG_OTHER,2
+easter road,LOCATION,2
+dons,ORG_OTHER,2
+whoscored,PLAYER,2
+joe wright,PLAYER,2
+819,NUMERIC,2
+scott tanser,PLAYER,2
+823,NUMERIC,2
+hearts,ORG_OTHER,2
+kent,PLAYER,2
+shankland,PLAYER,2
+blair spittal,PLAYER,2
+nwsl challenge cup,MISC,2
+lluis cortes,PLAYER,2
+irene paredes,PLAYER,2
+only 11,NUMERIC,2
+robbie williams,PLAYER,2
+ryan reynolds,PLAYER,2
+welcome,ORG_OTHER,2
+tom brady,PLAYER,2
+julie uhrman,PLAYER,2
+jennifer garner,PLAYER,2
+bournemouth,CLUB,2
+necaxa,ORG_OTHER,2
+will ferrell,PLAYER,2
+lebron james,PLAYER,2
+liverpool fc,CLUB,2
+austin fc,ORG_OTHER,2
+fc,ORG_OTHER,2
+austin,LOCATION,2
+wiegman,PLAYER,2
+65,NUMERIC,2
+spanish,MISC,2
+56,NUMERIC,2
+76,NUMERIC,2
+womenâs,ORG_OTHER,2
+sky,MEDIA,2
+danes,NATIONALITY,2
+17,MISC,2
+shen mengyu,PLAYER,2
+laura coombs,PLAYER,2
+katie robinson,PLAYER,2
+ana-maria crnogorcevic,PLAYER,2
+crnogorcevic,PLAYER,2
+her first season,DATE,2
+xhemaili,NATIONALITY,2
+riola,PLAYER,2
+bauer,PLAYER,2
+josimar,PLAYER,2
+nff,ORG_OTHER,2
+a few months ago,DATE,2
+guardian,MEDIA,2
+2000,DATE,2
+shebelieves cup,ORG_OTHER,2
+march 2020,DATE,2
+spanish super cup,EVENT_OTHER,2
+scandinavian,NATIONALITY,2
+love,MISC,2
+more minutes,TIME,2
+just three,NUMERIC,2
+october 2022,DATE,2
+937,MISC,2
+kethna louis,LOCATION,2
+aniek nouwen,PLAYER,2
+other day,DATE,2
+lisa kolb,PLAYER,2
+jackie groenen,PLAYER,2
+laura wienroither,PLAYER,2
+valentina cernoia,PLAYER,2
+katharina naschenweng,PLAYER,2
+colorado,LOCATION,2
+utah,LOCATION,2
+paris olympics,EVENT_OTHER,2
+34th,NUMERIC,2
+6th,NUMERIC,2
+ea sports fc,ORG_OTHER,2
+meghann burke,PLAYER,2
+nwsl players association,ORG_OTHER,2
+up to six months,DATE,2
+60 per cent,MONEY,2
+just days,DATE,2
+july 4,DATE,2
+next year's,DATE,2
+us womens soccer show,ORG_OTHER,2
+hatch,PLAYER,2
+liam gordon,PLAYER,2
+dr mccormack,PLAYER,2
+sky sports - this season,MISC,2
+sam kerrs,PLAYER,2
+aussie,NATIONALITY,2
+lauren,PLAYER,2
+women's asian cup,ORG_OTHER,2
+august 2021,DATE,2
+may 2021,DATE,2
+bahrain,LOCATION,2
+october 2021,DATE,2
+october 2019,DATE,2
+korea republic,LOCATION,2
+vicky losada,PLAYER,2
+chelsea arsenal,ORG_OTHER,2
+gareth taylors,PLAYER,2
+casey stoneys,PLAYER,2
+75,NUMERIC,2
+94,NUMERIC,2
+nordic,NATIONALITY,2
+etihad stadium,LOCATION,2
+footballco business podcast,ORG_OTHER,2
+kayleigh grieve,PLAYER,2
+manchester uniteds,LOCATION,2
+manchester city academy,ORG_OTHER,2
+2003 world cup,EVENT_OTHER,2
+503,NUMERIC,2
+113 per cent,MONEY,2
+33 per cent,MONEY,2
+sky sports main event,EVENT_OTHER,2
+united states soccer federation,LOCATION,2
+2028,DATE,2
+wnt,ORG_OTHER,2
+2026,DATE,2
+10000,MONEY,2
+late-2019,DATE,2
+jonatan giraldez's,PLAYER,2
+next world cup,DATE,2
+half-hour,TIME,2
+aitana bonmatí,PLAYER,2
+dui,LOCATION,2
+solo,ORG_OTHER,2
+wade,PLAYER,2
+kailen sheridan,PLAYER,2
+julia grosso,PLAYER,2
+el clasico,LOCATION,2
+just 23 years old,DATE,2
+tommy stroot,PLAYER,2
+alex popp,PLAYER,2
+last 10 years,DATE,2
+newcastle women,ORG_OTHER,2
+15 minutes,TIME,2
+22134,NUMERIC,2
+samuel eto'o,PLAYER,2
+fecafoot,ORG_OTHER,2
+july 2023,DATE,2
+skopje,LOCATION,2
+belfast,LOCATION,2
+ebony salmon,PLAYER,2
+luxembourg,LOCATION,2
+no35,ORG_OTHER,2
+kansas,LOCATION,2
+10 months,DATE,2
+renard,PLAYER,2
+griedge mbock,PLAYER,2
+july 7,DATE,2
+sunday july 31,DATE,2
+joan laporta,PLAYER,2
+jeremiah,PLAYER,2
+10 years ago,DATE,2
+seven years old,DATE,2
+end of the day,DATE,2
+52-year-old,DATE,2
+dave brailsford,PLAYER,2
+west brom,LOCATION,2
+dan,PLAYER,2
+u21s,ORG_OTHER,2
+eight years,DATE,2
+20 years old,DATE,2
+shebelieves cup,MISC,2
+minute,TIME,2
+pugh,LOCATION,2
+uefa womens euros,ORG_OTHER,2
+opening minutes,TIME,2
+rachel rowe,PLAYER,2
+petershill park,LOCATION,2
+amy gallacher,PLAYER,2
+celts,NATIONALITY,2
+hibernian,NATIONALITY,2
+a few minutes,TIME,2
+montrose,ORG_OTHER,2
+5th,NUMERIC,2
+whelan,PLAYER,2
+519,NUMERIC,2
+43,NUMERIC,2
+hsv,ORG_OTHER,2
+24 years,DATE,2
+peterborough,LOCATION,2
+cambridge,LOCATION,2
+erik,PLAYER,2
+best men's player,ORG_OTHER,2
+monday january 17 2022,DATE,2
+6pm gmt,TIME,2
+reshmin chowdhury,PLAYER,2
+jermaine jenas,PLAYER,2
+2021,NUMERIC,2
+monday november 22,DATE,2
+neymar,ORG_OTHER,2
+player club country,ORG_OTHER,2
+robert lewandowski bayern,PLAYER,2
+egypt,LOCATION,2
+viviane miedema,PLAYER,2
+sam kerr chelsea,PLAYER,2
+roberto mancini,PLAYER,2
+pep guardiola,PLAYER,2
+guardiola,PLAYER,2
+league cup,COMPETITION,2
+chelsea women's,ORG_OTHER,2
+alisson,LOCATION,2
+christiane endler,PLAYER,2
+world 11,EVENT_OTHER,2
+patrik schick's,PLAYER,2
+late january,DATE,2
+last week's,DATE,2
+2022 shebelieves cup,MISC,2
+33 minutes,TIME,2
+next month's,DATE,2
+south american,NATIONALITY,2
+copa america,COMPETITION,2
+paulo dybala,PLAYER,2
+46,NUMERIC,2
+sarah zadrazil,PLAYER,2
+49,NUMERIC,2
+mount,LOCATION,2
+raheem sterling,ORG_OTHER,2
+56-year,DATE,2
+bramall lane,LOCATION,2
+partien,LOCATION,2
+liga,LOCATION,2
+chancen,PLAYER,2
+münchen,LOCATION,2
+maria luisa grohs,PLAYER,2
+bundesliga-saison,ORG_OTHER,2
+ligabestwert,PLAYER,2
+schüsse,PLAYER,2
+schnitt,PLAYER,2
+minuten,ORG_OTHER,2
+linda dallmann,PLAYER,2
+spielerin,NATIONALITY,2
+neun toren,ORG_OTHER,2
+zweikämpferin,MISC,2
+hanna németh,PLAYER,2
+duelle,ORG_OTHER,2
+levante,PLAYER,2
+2021 season,DATE,2
+16000,MONEY,2
+ji so-yun,PLAYER,2
+may 15,DATE,2
+columbus,LOCATION,2
+ohio,LOCATION,2
+smith,ORG_OTHER,2
+jaelin howell,PLAYER,2
+7-1,NUMERIC,2
+summer of 2020,DATE,2
+chelsea womens,ORG_OTHER,2
+80203,NUMERIC,2
+77768,NUMERIC,2
+march 30,DATE,2
+england women,ORG_OTHER,2
+manchester united women,ORG_OTHER,2
+auckland,LOCATION,2
+janice cayman,PLAYER,2
+leuven,PLAYER,2
+hannah,PLAYER,2
+start of the,DATE,2
+2 jan 29,DATE,2
+western united,LOCATION,2
+gambia,LOCATION,2
+burkina faso,LOCATION,2
+tunisia,LOCATION,2
+derby county,LOCATION,2
+sky sports main event / sky sports football,EVENT_OTHER,2
+cardiff city,LOCATION,2
+lens,CLUB,2
+sheffield united,CLUB,2
+afcon,ORG_OTHER,2
+united arab emirates,LOCATION,2
+antonio rudiger,PLAYER,2
+8-3,NUMERIC,2
+648,NUMERIC,2
+all eight,NUMERIC,2
+huth,PLAYER,2
+62,NUMERIC,2
+mapi león,PLAYER,2
+95,MISC,2
+nadine angerer,PLAYER,2
+beth mead's,PLAYER,2
+young player of the tournament,MISC,2
+qpr,ORG_OTHER,2
+a few days later,DATE,2
+wolves,CLUB,2
+10 days,DATE,2
+hexagon,ORG_OTHER,2
+voss-tecklenburg,ORG_OTHER,2
+19th,NUMERIC,2
+67,NUMERIC,2
+austrians,NATIONALITY,2
+ubogagu,ORG_OTHER,2
+chioma,PLAYER,2
+ukad,ORG_OTHER,2
+jordan brand,ORG_OTHER,2
+month for,DATE,2
+rowe,ORG_OTHER,2
+jorian baucom,PLAYER,2
+midlothian,LOCATION,2
+24,DATE,2
+144,NUMERIC,2
+bordeaux,LOCATION,2
+recent seasons,DATE,2
+57,NUMERIC,2
+2018-19,DATE,2
+matt beard,PLAYER,2
+olli,PLAYER,2
+beard,PLAYER,2
+west hams,LOCATION,2
+august 20,DATE,2
+spanish football association,ORG_OTHER,2
+afp,ORG_OTHER,2
+heather o'reilly,PLAYER,2
+one-year,DATE,2
+heather,PLAYER,2
+231,NUMERIC,2
+soccer aid,MISC,2
+stanford university,ORG_OTHER,2
+paris fc's,ORG_OTHER,2
+haitian,NATIONALITY,2
+kessya bussy,PLAYER,2
+naomie feller,PLAYER,2
+laurina fazer,ORG_OTHER,2
+melbourne rectangular stadium,LOCATION,2
+121,NUMERIC,2
+rosella ayane,PLAYER,2
+yon de luisa,PLAYER,2
+next few days,DATE,2
+concacaf women's championship,ORG_OTHER,2
+tash flint,PLAYER,2
+jambos,LOCATION,2
+georgia,LOCATION,2
+only three minutes,TIME,2
+25 yards,MISC,2
+fiona brown,PLAYER,2
+over 150,NUMERIC,2
+stanway,ORG_OTHER,2
+may 28,DATE,2
+2006,DATE,2
+uefa cup,EVENT_OTHER,2
+february 14,DATE,2
+october 19,DATE,2
+bronze,LOCATION,2
+30 june 2024,DATE,2
+scotland 6-0,ORG_OTHER,2
+magdalena eriksson,PLAYER,2
+wassmuth,PLAYER,2
+seven or,NUMERIC,2
+july 13,DATE,2
+july 16,DATE,2
+july 17,DATE,2
+july 20,DATE,2
+july 23,DATE,2
+final day of the,DATE,2
+enzo fernandez,PLAYER,2
+selhurst park,LOCATION,2
+gallagher,PLAYER,2
+45th,NUMERIC,2
+âweak,PLAYER,2
+tens of thousands,NUMERIC,2
+holland,LOCATION,2
+frauen-bundesliga,ORG_OTHER,2
+summer of 2021,DATE,2
+durmonay,NATIONALITY,2
+just two minutes,TIME,2
+montpellier,CLUB,2
+issy,PLAYER,2
+bussy,PLAYER,2
+fvf,ORG_OTHER,2
+zseremeta,ORG_OTHER,2
+paul riley,PLAYER,2
+carrow road and molineux,LOCATION,2
+riverside,LOCATION,2
+molineux,PLAYER,2
+600000,MONEY,2
+100000,MONEY,2
+lothar matthaus,PLAYER,2
+ralf kellerman,PLAYER,2
+friday night,TIME,2
+last few years,DATE,2
+caroline graham hansen,PLAYER,2
+catalunya,LOCATION,2
+graham hansen,PLAYER,2
+corona,ORG_OTHER,2
+five-minute,TIME,2
+wayne rooney,PLAYER,2
+cv,ORG_OTHER,2
+karna solskjaer,PLAYER,2
+ole gunnar solskjaer,PLAYER,2
+karna,PLAYER,2
+solskjaer,PLAYER,2
+fernandes,PLAYER,2
+europa conference league,ORG_OTHER,2
+later this year,DATE,2
+mark parsons,PLAYER,2
+at least nine,NUMERIC,2
+inter miami,ORG_OTHER,2
+beckham,ORG_OTHER,2
+last eight years,DATE,2
+last two years,DATE,2
+last couple of years,DATE,2
+mundial magazine,ORG_OTHER,2
+022,NUMERIC,2
+mundial,ORG_OTHER,2
+hacken,PLAYER,2
+koge,LOCATION,2
+more than 250,NUMERIC,2
+pernille,LOCATION,2
+preiss,PLAYER,2
+beth meads,PLAYER,2
+nicky evrard,PLAYER,2
+eight years old,DATE,2
+dave,PLAYER,2
+11-year,DATE,2
+magda,PLAYER,2
+opening 33 minutes,TIME,2
+asisat oshoala,ORG_OTHER,2
+a decade,DATE,2
+joe montemurro,PLAYER,2
+fran,ORG_OTHER,2
+february 17 2022,DATE,2
+february 23 2022,DATE,2
+3pm pt /,TIME,2
+6pm et,TIME,2
+tx,LOCATION,2
+uefa executive committee,ORG_OTHER,2
+malta football association,ORG_OTHER,2
+irish football association,ORG_OTHER,2
+challenged decisions,ORG_OTHER,2
+tony gustavsson,PLAYER,2
+women's fa cup after arsenal,ORG_OTHER,2
+nottingham forest 7-1,ORG_OTHER,2
+charli grant,PLAYER,2
+charlton 1-0,PLAYER,2
+6500,MONEY,2
+abby wambach,PLAYER,2
+stars and stripes,MISC,2
+heidi mohr,PLAYER,2
+carli lloyd,ORG_OTHER,2
+carin jennings,PLAYER,2
+cristiane,PLAYER,2
+sun wen,PLAYER,2
+2019 world cup,EVENT_OTHER,2
+sissi,PLAYER,2
+pretinha,ORG_OTHER,2
+24,MISC,2
+sakina karchaoui,PLAYER,2
+viviane asseyi,PLAYER,2
+bay fc,ORG_OTHER,2
+400000,MONEY,2
+kundananji,ORG_OTHER,2
+north lanarkshire council,ORG_OTHER,2
+clyde fc,PLAYER,2
+val mcdermid,PLAYER,2
+mcdermid ladies,PLAYER,2
+truk united,PLAYER,2
+truk,ORG_OTHER,2
+champion hill,LOCATION,2
+lia thomas,PLAYER,2
+goal diggers fc,ORG_OTHER,2
+us womens national team,ORG_OTHER,2
+oleksandr zinchenko,PLAYER,2
+taliban,ORG_OTHER,2
+villa,ORG_OTHER,2
+powell,PLAYER,2
+olli,MISC,2
+willie kirk,PLAYER,2
+38,NUMERIC,2
+all season,DATE,2
+west hams,ORG_OTHER,2
+146,NUMERIC,2
+start of last season,DATE,2
+johanna rytting kaneryd,PLAYER,2
+133,NUMERIC,2
+city ground,LOCATION,2
+la roja,LOCATION,2
+chelsea cornet,ORG_OTHER,2
+leah eddie,PLAYER,2
+hayley lauder,PLAYER,2
+february 24,DATE,2
+aston villa fc,ORG_OTHER,2
+olympics games,EVENT_OTHER,2
+meikayla moore,PLAYER,2
+czechs,NATIONALITY,2
+dignity health sports park,ORG_OTHER,2
+six minutes,TIME,2
+naeher,ORG_OTHER,2
+geyse ferreira,PLAYER,2
+oberdorf,PLAYER,2
+brendan rodgers,PLAYER,2
+sunday april 7,DATE,2
+53,NUMERIC,2
+february 25,DATE,2
+st mirren,PLAYER,2
+march 3,DATE,2
+sebastian coe,PLAYER,2
+john terry,PLAYER,2
+250 million,MONEY,2
+329,MONEY,2
+atlético,LOCATION,2
+sassuolo,CLUB,2
+9 8pm,TIME,2
+toulouse,CLUB,2
+udinese,CLUB,2
+lille,CLUB,2
+new york city fc,LOCATION,2
+1 8pm,TIME,2
+cincinnati,LOCATION,2
+charlotte fc,ORG_OTHER,2
+rayo vallecano,CLUB,2
+villarreal,CLUB,2
+arsenal's,ORG_OTHER,2
+1-1,DATE,2
+austrian,NATIONALITY,2
+daly,PLAYER,2
+ballon d'or feminin,ORG_OTHER,2
+young player of the season,MISC,2
+almost three decades,DATE,2
+standard ultimate,ORG_OTHER,2
+legacy edition,MISC,2
+september 30,DATE,2
+nintendo switch,ORG_OTHER,2
+2022 marks,MONEY,2
+fifa mens world cup,ORG_OTHER,2
+all this week,DATE,2
+scotland road,ORG_OTHER,2
+156,NUMERIC,2
+2010,DATE,2
+amsterdam,LOCATION,2
+asisat,ORG_OTHER,2
+uefa champions league,COMPETITION,2
+october 18,DATE,2
+july 2019,DATE,2
+king power stadium,LOCATION,2
+king power stadium,ORG_OTHER,2
+32261,NUMERIC,2
+st mary's stadium,PLAYER,2
+rugby union,ORG_OTHER,2
+national womens soccer league,ORG_OTHER,2
+orlando pride,CLUB,2
+wave,ORG_OTHER,2
+catalonia,LOCATION,2
+esther gonzalez,PLAYER,2
+vlatko andonovski's,PLAYER,2
+73rd,NUMERIC,2
+1745,DATE,2
+jerusalem,LOCATION,2
+britain,LOCATION,2
+team gb,ORG_OTHER,2
+meyer,PLAYER,2
+athletics,ORG_OTHER,2
+laura hunter,PLAYER,2
+millie bright's,PLAYER,2
+maya le tissier,PLAYER,2
+rovers,MISC,2
+raith,ORG_OTHER,2
+next seasons,DATE,2
+securities and exchange commission,ORG_OTHER,2
+sec,ORG_OTHER,2
+stream sky sports,ORG_OTHER,2
+new york stock exchange,ORG_OTHER,2
+midnight,TIME,2
+100,MONEY,2
+4bn,MONEY,2
+jarrad branthwaite,PLAYER,2
+off-season,DATE,2
+pele,PLAYER,2
+manchester united's,LOCATION,2
+kieran mckenna,PLAYER,2
+last july,DATE,2
+vincent kompany,PLAYER,2
+racheal kundananji,PLAYER,2
+cff,ORG_OTHER,2
+fluminense,PLAYER,2
+daily,DATE,2
+scottish sun,ORG_OTHER,2
+more than one,NUMERIC,2
+telma encarnação,ORG_OTHER,2
+houston,LOCATION,2
+lynn williams,PLAYER,2
+alisher usmanov,PLAYER,2
+european council,ORG_OTHER,2
+labour,ORG_OTHER,2
+chris bryant,PLAYER,2
+usmanov,PLAYER,2
+upcoming season,DATE,2
+ifab agm,ORG_OTHER,2
+a year later,DATE,2
+katerina svitkova,PLAYER,2
+51,NUMERIC,2
+greenwood,LOCATION,2
+greenwood,PLAYER,2
+hayley raso,PLAYER,2
+obrien,ORG_OTHER,2
+under-21,DATE,2
+md2,ORG_OTHER,2
+xgot,NATIONALITY,2
+february 13,DATE,2
+super bowl lvi,EVENT_OTHER,2
+sofi stadium,LOCATION,2
+los angeles rams,ORG_OTHER,2
+cincinnati bengals,ORG_OTHER,2
+stan kroenke,PLAYER,2
+pennsylvania,LOCATION,2
+patriots,ORG_OTHER,2
+seattle sounders,ORG_OTHER,2
+philadelphia eagles,ORG_OTHER,2
+thibaut courtois,PLAYER,2
+twickenham,LOCATION,2
+dallas,LOCATION,2
+mia fishel,PLAYER,2
+30 minutes,TIME,2
+6000,NUMERIC,2
+division 1,ORG_OTHER,2
+world cup year,EVENT_OTHER,2
+stadia,ORG_OTHER,2
+allianz stadium,LOCATION,2
+inter,CLUB,2
+2018 world cup,EVENT_OTHER,2
+january 20,DATE,2
+2020/21 season,DATE,2
+kowsar league,ORG_OTHER,2
+thai women's league,ORG_OTHER,2
+october to december,DATE,2
+mikael mandron,PLAYER,2
+824,NUMERIC,2
+mandron,ORG_OTHER,2
+alan forrest,PLAYER,2
+boyd-munce,PLAYER,2
+james tavernier,PLAYER,2
+943,NUMERIC,2
+kremlin,ORG_OTHER,2
+40,MONEY,2
+2024-25,DATE,2
+mumbai city,LOCATION,2
+soriano,PLAYER,2
+silver lake,LOCATION,2
+china media capital,ORG_OTHER,2
+troyes,LOCATION,2
+patrick vieira,PLAYER,2
+a year ago,DATE,2
+â hayes,PLAYER,2
+telegraph,MEDIA,2
+womenâs world cup,EVENT_OTHER,2
+âit,PLAYER,2
+â,PLAYER,2
+luis suarez,PLAYER,2
+hristo stoichkov,PLAYER,2
+eleven,NUMERIC,2
+egurrola,PLAYER,2
+athletic club,ORG_OTHER,2
+european championships,ORG_OTHER,2
+5,MISC,2
+young lionesses,MISC,2
+age of 16,DATE,2
+rich nichols,PLAYER,2
+january 30,DATE,2
+navi mumbai,ORG_OTHER,2
+february 3,DATE,2
+mumbai football arena,ORG_OTHER,2
+isl,ORG_OTHER,2
+data day live,MISC,2
+2022/2023 season,DATE,2
+matt furniss,PLAYER,2
+graham bell,PLAYER,2
+championship,COMPETITION,2
+7500,MONEY,2
+norwich,LOCATION,2
+fifa world cup,EVENT_OTHER,2
+stephen pagliuca,PLAYER,2
+chelsea pitch owners,ORG_OTHER,2
+boston celtics,ORG_OTHER,2
+pagliuca,PLAYER,2
+josh harris,PLAYER,2
+eddie nketiah,ORG_OTHER,2
+alexandre lacazette,PLAYER,2
+nketiah,ORG_OTHER,2
+end of may,DATE,2
+lydia williams,PLAYER,2
+pitch international,ORG_OTHER,2
+footballco,ORG_OTHER,2
+sydney olympic stadium,LOCATION,2
+mesut ozil,PLAYER,2
+club brugge,ORG_OTHER,2
+watch,ORG_OTHER,2
+world cup 2022,EVENT_OTHER,2
+1300,TIME,2
+san jose,LOCATION,2
+united states of america,LOCATION,2
+laia aleixandri,PLAYER,2
+meadow park,LOCATION,2
+74th,NUMERIC,2
+sunderland 5-0,ORG_OTHER,2
+palace,ORG_OTHER,2
+81 minutes,TIME,2
+67th-minute,TIME,2
+emma kullbergâs,PLAYER,2
+seagulls,ORG_OTHER,2
+88th-minute,TIME,2
+eighth-minute,TIME,2
+charlton,PLAYER,2
+sophie roman haug,PLAYER,2
+melissa lawley,PLAYER,2
+100th,NUMERIC,2
+charlotte grant,PLAYER,2
+tameka yallop,PLAYER,2
+emily van egmond,PLAYER,2
+olympics group stage,EVENT_OTHER,2
+diamond,PLAYER,2
+spring,DATE,2
+euro 96,MISC,2
+anthony joshua,PLAYER,2
+jacksonville,LOCATION,2
+25,MONEY,2
+keating,PLAYER,2
+end of a,DATE,2
+around 80000,NUMERIC,2
+nearly two decades,DATE,2
+therichest,ORG_OTHER,2
+digital news,ORG_OTHER,2
+1027 am ist topics,TIME,2
+engineer holding group,ORG_OTHER,2
+eden hazard,NATIONALITY,2
+saudi arabian,NATIONALITY,2
+al nassr,PLAYER,2
+public investment fund,ORG_OTHER,2
+nick candy,PLAYER,2
+jonas eidevall's,PLAYER,2
+riko ueki,PLAYER,2
+cloe lacasse,PLAYER,2
+rotherham,LOCATION,2
+geyoro,PLAYER,2
+geyoro,ORG_OTHER,2
+solo,MISC,2
+next summer's,DATE,2
+fra,ORG_OTHER,2
+margaret purce,PLAYER,2
+kansas city current,CLUB,2
+serbia,LOCATION,2
+sand,ORG_OTHER,2
+hermoso,PLAYER,2
+jenni hermoso's,PLAYER,2
+april 11,DATE,2
+june 30,DATE,2
+fawsl,ORG_OTHER,2
+lucy,PLAYER,2
+club,LOCATION,2
+3-1,NUMERIC,2
+montemurro,PLAYER,2
+lacasse,PLAYER,2
+grace moloney,PLAYER,2
+esmee brugts,ORG_OTHER,2
+oranje,ORG_OTHER,2
+binnenmaas,PLAYER,2
+psv,CLUB,2
+guro reiten,PLAYER,2
+everton women,ORG_OTHER,2
+gia corley,PLAYER,2
+womens fa cup,ORG_OTHER,2
+a day later,DATE,2
+oregon,LOCATION,2
+disasi,PLAYER,2
+palmer,PLAYER,2
+clearlake capital,ORG_OTHER,2
+19-year,DATE,2
+16th,NUMERIC,2
+just a few days later,DATE,2
+feb 17,DATE,2
+sep 6,DATE,2
+oct 7,DATE,2
+uswnt friendly,ORG_OTHER,2
+oct 11,DATE,2
+fort lauderdale,LOCATION,2
+harrison,PLAYER,2
+laura harvey,PLAYER,2
+célia sasic,ORG_OTHER,2
+mackenzie arnold,PLAYER,2
+khiara keating's,PLAYER,2
+20 july,DATE,2
+uefa european womens football championship,ORG_OTHER,2
+haggerston park,LOCATION,2
+1921,DATE,2
+50 years,DATE,2
+gdfc,ORG_OTHER,2
+goal diggers,PLAYER,2
+stonewall,PLAYER,2
+howard-harman,ORG_OTHER,2
+richard masters,PLAYER,2
+besiktas,CLUB,2
+euro 2024,COMPETITION,2
+march 2,DATE,2
+national league,ORG_OTHER,2
+red devils,LOCATION,2
+supercopa,LOCATION,2
+university of kentucky,ORG_OTHER,2
+my first year,DATE,2
+miami freedom park,LOCATION,2
+36-year-old,DATE,2
+2023-24 season,DATE,2
+kyiv,LOCATION,2
+novikov,PLAYER,2
+voronina,ORG_OTHER,2
+hundreds of thousands,NUMERIC,2
+july 2021,DATE,2
+november 2019,DATE,2
+euro 2009,MISC,2
+tecklenburg,LOCATION,2
+sugar,ORG_OTHER,2
+ian,PLAYER,2
+final year,DATE,2
+reuters,MEDIA,2
+bloomberg,ORG_OTHER,2
+etihad academy stadium,ORG_OTHER,2
+gunnarsdottir,PLAYER,2
+carly telford,PLAYER,2
+telford,PLAYER,2
+lions,ORG_OTHER,2
+us supreme court,ORG_OTHER,2
+8pm july 16,TIME,2
+england 2-1 germany aet,EVENT_OTHER,2
+10,MONEY,2
+argentine,NATIONALITY,2
+marco van basten,PLAYER,2
+january to december,DATE,2
+twenty,NUMERIC,2
+yachine,PLAYER,2
+kopa trophies,PLAYER,2
+yui hasegawa,PLAYER,2
+17-year-old,DATE,2
+shiels,ORG_OTHER,2
+windsor park,LOCATION,2
+eniola aluko,PLAYER,2
+muhsin bayrak,PLAYER,2
+bonmatí,PLAYER,2
+mbappe,PLAYER,2
+mbappe,ORG_OTHER,2
+barcelona group,ORG_OTHER,2
+bk,ORG_OTHER,2
+lyon group,ORG_OTHER,2
+benfica group,ORG_OTHER,2
+el tri,ORG_OTHER,2
+gold cup,EVENT_OTHER,2
+uefa nations league,ORG_OTHER,2
+lucas ocampos,PLAYER,2
+deanne rose,PLAYER,2
+more than 30,NUMERIC,2
+moore,ORG_OTHER,2
+yemen,LOCATION,2
+uae,ORG_OTHER,2
+mansour,PLAYER,2
+gulf region,LOCATION,2
+chadwick,PLAYER,2
+laura ricketts,PLAYER,2
+ken griffin,PLAYER,2
+ricketts,PLAYER,2
+charlie patino,PLAYER,2
+carabao cup,COMPETITION,2
+gooners,NATIONALITY,2
+fran,PLAYER,2
+november 2022,DATE,2
+academy,ORG_OTHER,2
+avram glazer,PLAYER,2
+joel glazer,PLAYER,2
+jim,PLAYER,2
+club forwardjim ratcliffe,ORG_OTHER,2
+devesh kumar,PLAYER,2
+1031 pm,TIME,2
+jim ratcliffe jim ratcliffe,PLAYER,2
+united news,ORG_OTHER,2
+united football club,ORG_OTHER,2
+durant,PLAYER,2
+kristin bernert,PLAYER,2
+karen bryant,PLAYER,2
+phil murphy,PLAYER,2
+riyad mahrez,PLAYER,2
+haller,PLAYER,2
+nkunku,PLAYER,2
+sue bird,PLAYER,2
+sky blue fc,ORG_OTHER,2
+seattle storm,ORG_OTHER,2
+bird,PLAYER,2
+madonna,PLAYER,2
+a difficult week,DATE,2
+celebrity ally,PLAYER,2
+england 1-1,EVENT_OTHER,2
+six,DATE,2
+portman,PLAYER,2
+hamm,PLAYER,2
+xa,ORG_OTHER,2
+volta,ORG_OTHER,2
+cdm 89,MISC,2
+109,NUMERIC,2
+north west,LOCATION,2
+kroenke,PLAYER,2
+street elite,ORG_OTHER,2
+7495,MONEY,2
+league two,ORG_OTHER,2
+wrexham afc,ORG_OTHER,2
+football league,ORG_OTHER,2
+fx,ORG_OTHER,2
+supporters trust,ORG_OTHER,2
+rob clarke,PLAYER,2
+rob,PLAYER,2
+paul,PLAYER,2
+rob gilpin,PLAYER,2
+sunderland,PLAYER,2
+booth,PLAYER,2
+green football weekend,EVENT_OTHER,2
+martin voss-tecklenburg,PLAYER,1
+player of the match,MISC,1
+earlier today,TIME,1
+sara daebritz,PLAYER,1
+winger jule brand,ORG_OTHER,1
+sunday night,TIME,1
+olympic champions,EVENT_OTHER,1
+later that same day,DATE,1
+a row earlier on sunday,DATE,1
+spaniards,NATIONALITY,1
+3 million,MONEY,1
+football association fa,ORG_OTHER,1
+sue campbell,PLAYER,1
+march 20,DATE,1
+coventry,ORG_OTHER,1
+zelem  katiezel,ORG_OTHER,1
+,ORG_OTHER,1
+february 17-23,DATE,1
+last april,DATE,1
+next 10 days,DATE,1
+months,DATE,1
+mexico u20s,ORG_OTHER,1
+revelations cup,EVENT_OTHER,1
+gerardo martino,PLAYER,1
+martino,PLAYER,1
+seven minutes remaining of the,TIME,1
+a remarkable few months,DATE,1
+lionel,PLAYER,1
+ontario,LOCATION,1
+ruben,PLAYER,1
+atlante,PLAYER,1
+mexican primera division,ORG_OTHER,1
+1988,DATE,1
+1990,DATE,1
+tatiana,PLAYER,1
+silvana,PLAYER,1
+pep guardiolas,PLAYER,1
+alexis sanchez,PLAYER,1
+andres iniesta,PLAYER,1
+those days,DATE,1
+guelph soccer academy,ORG_OTHER,1
+cayman islands,LOCATION,1
+first year,DATE,1
+second year,DATE,1
+saturdays,DATE,1
+sundays,DATE,1
+all day,DATE,1
+hale end academy,ORG_OTHER,1
+july 2020,DATE,1
+hale end,ORG_OTHER,1
+london colney,LOCATION,1
+kevin betsy,PLAYER,1
+17,DATE,1
+hale end,LOCATION,1
+bukayo,PLAYER,1
+bukayo,ORG_OTHER,1
+premier league board,ORG_OTHER,1
+todd boehly / clearlake consortium,ORG_OTHER,1
+premier leagues owners,ORG_OTHER,1
+oadt,ORG_OTHER,1
+consortium,ORG_OTHER,1
+clearlake capital group,ORG_OTHER,1
+lp,ORG_OTHER,1
+nadine dorrie,PLAYER,1
+dorrie,PLAYER,1
+hangout,ORG_OTHER,1
+patrice evra,PLAYER,1
+evra,PLAYER,1
+le parisien,ORG_OTHER,1
+mykonos,LOCATION,1
+aleksander ceferin's,ORG_OTHER,1
+15 years,DATE,1
+al ittihad,LOCATION,1
+saudi pro league,ORG_OTHER,1
+al tai,PLAYER,1
+xavi hernandez's,PLAYER,1
+hugo lloris,PLAYER,1
+daily telegraph,ORG_OTHER,1
+boyzone,PLAYER,1
+ronan keating,PLAYER,1
+shane lynch,PLAYER,1
+keith duffy,PLAYER,1
+westlife's brian mcfadden,ORG_OTHER,1
+chorley fc,ORG_OTHER,1
+women's league cup,ORG_OTHER,1
+west ham's,LOCATION,1
+ibrahim osman,PLAYER,1
+inter miami's,ORG_OTHER,1
+sergio busquets,PLAYER,1
+vissel kobe,PLAYER,1
+independent the fa,ORG_OTHER,1
+paris congress,ORG_OTHER,1
+2024 concacaf w gold cup,EVENT_OTHER,1
+kian harratt,PLAYER,1
+four months,DATE,1
+football association's,ORG_OTHER,1
+wembley of the north,MISC,1
+manchester united's,ORG_OTHER,1
+morecambe,PLAYER,1
+john mcmahon,PLAYER,1
+251,NUMERIC,1
+daily mirror arsenal,ORG_OTHER,1
+marquinhos,PLAYER,1
+bayer leverkusen,CLUB,1
+scottish sun rangers,ORG_OTHER,1
+dujon sterling's,ORG_OTHER,1
+tartan army,ORG_OTHER,1
+scottish premiership team of the week,ORG_OTHER,1
+xi,ORG_OTHER,1
+fir park,LOCATION,1
+tanser,NATIONALITY,1
+toyosi olusanya,ORG_OTHER,1
+lawrence shankland's,PLAYER,1
+912,NUMERIC,1
+mcdiarmid park,LOCATION,1
+the-week,DATE,1
+atlantic ocean,LOCATION,1
+olimpico,LOCATION,1
+kelley o'hara,PLAYER,1
+macario olimpico,MISC,1
+march 13,DATE,1
+clasico,ORG_OTHER,1
+30 de 30,DATE,1
+turn of the year,DATE,1
+fc port vale,LOCATION,1
+robbie,PLAYER,1
+elton john,PLAYER,1
+1976,DATE,1
+2002until,NUMERIC,1
+delia smith,PLAYER,1
+53 per cent,MONEY,1
+1996,DATE,1
+norwich city,CLUB,1
+croydon athletic,ORG_OTHER,1
+kara nortman,PLAYER,1
+jessica chastain,PLAYER,1
+ferrera,PLAYER,1
+uzo aduba,PLAYER,1
+michael b jordan,PLAYER,1
+creed,NATIONALITY,1
+black panther,PLAYER,1
+bill foley,PLAYER,1
+maxim demin,ORG_OTHER,1
+housewives,NATIONALITY,1
+kate upton,PLAYER,1
+mesut özil,PLAYER,1
+swansea,LOCATION,1
+dc united,LOCATION,1
+50 per cent,MONEY,1
+liga mx,ORG_OTHER,1
+los angeles fc,LOCATION,1
+two per cent,MONEY,1
+around 51 million,MONEY,1
+matthew mcconaughey,PLAYER,1
+women,ORG_OTHER,1
+no9 ellen white,PLAYER,1
+fifa plus,ORG_OTHER,1
+fifa world cup,MISC,1
+𝗪𝗮𝘁𝗰𝗵,PLAYER,1
+𝗦𝘁𝗿𝗲𝗮𝗺,PLAYER,1
+april 12 2022,DATE,1
+app store,LOCATION,1
+dani alves,PLAYER,1
+ronaldo nazário,PLAYER,1
+romelu lukaku,PLAYER,1
+40000 matches,MISC,1
+about 1500,NUMERIC,1
+over 3000,NUMERIC,1
+11000,NUMERIC,1
+approximately half,NUMERIC,1
+211,NUMERIC,1
+end of 2022,DATE,1
+oceania,LOCATION,1
+angolan first division,ORG_OTHER,1
+mandarin,MISC,1
+arabic,NATIONALITY,1
+hindu,NATIONALITY,1
+gianni infantino,PLAYER,1
+132,NUMERIC,1
+afternoons,TIME,1
+faâs,ORG_OTHER,1
+national womenâs soccer league,ORG_OTHER,1
+1059,NUMERIC,1
+1891,DATE,1
+2025/26,NUMERIC,1
+270,NUMERIC,1
+380,NUMERIC,1
+new season,DATE,1
+tnt,ORG_OTHER,1
+matchday 1,DATE,1
+lars søndergaards,PLAYER,1
+october 2015,DATE,1
+dewellbon cup,EVENT_OTHER,1
+w3 d1,ORG_OTHER,1
+april 2015,DATE,1
+651,MISC,1
+219,MISC,1
+pan hongyan,PLAYER,1
+xu huan,PLAYER,1
+zhu yu,PLAYER,1
+gao chen,PLAYER,1
+wu haiyan,PLAYER,1
+dou jiaxing,PLAYER,1
+wang linlin,PLAYER,1
+li mengwen,PLAYER,1
+chen qiaozhu,PLAYER,1
+yao wei,PLAYER,1
+wu chengshu,PLAYER,1
+yang lina,PLAYER,1
+yao lingwei,PLAYER,1
+zhang linyan,PLAYER,1
+zhang rui,PLAYER,1
+zhang xin,PLAYER,1
+gu yasha,PLAYER,1
+lou jiahui,PLAYER,1
+tang jiali,PLAYER,1
+wang shanshan,PLAYER,1
+wang shuang,PLAYER,1
+xiao yuyi,PLAYER,1
+riola xhemaili,PLAYER,1
+only eight years ago,DATE,1
+age of 15,DATE,1
+latter half of the following year,DATE,1
+birgit bauer,PLAYER,1
+sc freiburg,CLUB,1
+klara buhl,PLAYER,1
+rio,LOCATION,1
+coumba sow,PLAYER,1
+la nati,LOCATION,1
+just her second season,DATE,1
+theresa merk,PLAYER,1
+bauer,ORG_OTHER,1
+xhemaili,PLAYER,1
+feminin,LOCATION,1
+just six months,DATE,1
+euro 2017,MISC,1
+aftenposten,PLAYER,1
+norwegian football federation,ORG_OTHER,1
+four months before this summer,DATE,1
+january 2020 to october 2021,DATE,1
+lise klaveness,PLAYER,1
+no fewer than 2500,NUMERIC,1
+nrk,ORG_OTHER,1
+lise klaveness kom,ORG_OTHER,1
+se hele talen på,PLAYER,1
+many years later,DATE,1
+21 months,DATE,1
+lyons champions league,ORG_OTHER,1
+ada,PLAYER,1
+julie blakstad,PLAYER,1
+56 years,DATE,1
+110th,NUMERIC,1
+later that year,DATE,1
+november 2018,DATE,1
+87000,NUMERIC,1
+20 million,NUMERIC,1
+group,ORG_OTHER,1
+d,NATIONALITY,1
+german fa,ORG_OTHER,1
+2012-13,DATE,1
+coronavirus,ORG_OTHER,1
+virginia torrecilla,PLAYER,1
+torrecilla,ORG_OTHER,1
+virginia torrecilla's,PLAYER,1
+early hours of saturday morning,TIME,1
+oslo,LOCATION,1
+just hours,TIME,1
+norwegian fa,ORG_OTHER,1
+islamic,NATIONALITY,1
+london pub,ORG_OTHER,1
+oslo pride,ORG_OTHER,1
+lang park,LOCATION,1
+brisbane,LOCATION,1
+last two,DATE,1
+1290,NUMERIC,1
+1180,NUMERIC,1
+691,NUMERIC,1
+431,NUMERIC,1
+inter-confederation,ORG_OTHER,1
+daelle dumornay,PLAYER,1
+nicolas delépines,PLAYER,1
+w13 d2,MISC,1
+central american,NATIONALITY,1
+caribbean games,ORG_OTHER,1
+venezuela,LOCATION,1
+2,MISC,1
+43,MISC,1
+kerly théus,PLAYER,1
+chelsea surpris,PLAYER,1
+jennyfer limage,PLAYER,1
+tabita joseph,PLAYER,1
+maudeline moryl,PLAYER,1
+batcheba louis,LOCATION,1
+danielle étienne,PLAYER,1
+sherly jeudy,PLAYER,1
+nérilia mondésir,PLAYER,1
+roseline éloissaint,PLAYER,1
+nahomie ambroise,ORG_OTHER,1
+betina petit-frère,LOCATION,1
+esthericove joseph,PLAYER,1
+darlina joseph,PLAYER,1
+pierre-jérôme,PLAYER,1
+shwendesky joseph,PLAYER,1
+noa ganthier,PLAYER,1
+dayana pierre-louis,PLAYER,1
+roselord borgella,PLAYER,1
+lara larco,PLAYER,1
+allsani,PLAYER,1
+andersson,PLAYER,1
+0-1,NUMERIC,1
+bbciplayer &,ORG_OTHER,1
+2022 womens euro,ORG_OTHER,1
+brits,NATIONALITY,1
+arjan veurink,PLAYER,1
+covid,LOCATION,1
+tuija hyyrynen,PLAYER,1
+anna westerlund,PLAYER,1
+tinja-riika korpela,PLAYER,1
+june 25,DATE,1
+dicks sporting goods park,ORG_OTHER,1
+commerce city,LOCATION,1
+rio tinto stadium,LOCATION,1
+sandy,LOCATION,1
+2024 olympics,DATE,1
+more than two months,DATE,1
+our last days,DATE,1
+copa america femenina,EVENT_OTHER,1
+rose lavelle's,PLAYER,1
+lavelle,PLAYER,1
+just moments before halftime,TIME,1
+final minutes,TIME,1
+three-decade,DATE,1
+konami,ORG_OTHER,1
+pro evolution soccer,ORG_OTHER,1
+pes,ORG_OTHER,1
+around the end of september,DATE,1
+previous year's,DATE,1
+xfire,ORG_OTHER,1
+ea sports fc,MISC,1
+seth vertelney,PLAYER,1
+ameé ruszkai,ORG_OTHER,1
+tuesday 8 february,DATE,1
+gals of summer,ORG_OTHER,1
+four weeks,DATE,1
+june 25 and 28,DATE,1
+taylor kornieck,PLAYER,1
+six years ago,DATE,1
+just 24 seconds,TIME,1
+less than a minute,TIME,1
+a crazy 2021 season,DATE,1
+richie burke,PLAYER,1
+nwsl championship,ORG_OTHER,1
+aubrey,PLAYER,1
+kingsbury,PLAYER,1
+golden glove,PLAYER,1
+spotify,LOCATION,1
+san diego wave's,ORG_OTHER,1
+michael mellon,PLAYER,1
+tony docherty,PLAYER,1
+saints,CLUB,1
+docherty,PLAYER,1
+david munro,PLAYER,1
+ninewells hospital accident and emergency department,ORG_OTHER,1
+hayley rasos,PLAYER,1
+final minute of the 90,TIME,1
+another big day,DATE,1
+just a year,DATE,1
+nearly 50000,NUMERIC,1
+jess fishlock,PLAYER,1
+afc women's,ORG_OTHER,1
+nadeshiko,PLAYER,1
+football arena,ORG_OTHER,1
+navi mumbai's,ORG_OTHER,1
+dypatil stadium,LOCATION,1
+matches won lost drawn,PLAYER,1
+54-year-old,DATE,1
+shanghai,LOCATION,1
+january 2019,DATE,1
+vegalta sendai,LOCATION,1
+matches,PLAYER,1
+2010-12,DATE,1
+tokyo 2020,EVENT_OTHER,1
+bali,LOCATION,1
+matches won drawn lost 2 2,PLAYER,1
+sydney fc,ORG_OTHER,1
+2008-2014,DATE,1
+women's league coach,ORG_OTHER,1
+2010-11,DATE,1
+sydney fc's,ORG_OTHER,1
+tournament of nations 2017,MISC,1
+okamoto,PLAYER,1
+asako takakura,PLAYER,1
+u-17,MISC,1
+u-20,MISC,1
+aung,PLAYER,1
+may 2020,DATE,1
+0 3,NUMERIC,1
+60-year-old,DATE,1
+drawn lost,MISC,1
+mai duc chung,PLAYER,1
+august 2017,DATE,1
+golden star girls,LOCATION,1
+south east asian games,LOCATION,1
+22,MISC,1
+january 2014,DATE,1
+71,MISC,1
+53,MISC,1
+goodison park,LOCATION,1
+five seasons of xg,DATE,1
+135,NUMERIC,1
+116,NUMERIC,1
+15 m,MONEY,1
+s skinners united,PLAYER,1
+105 m/s,MONEY,1
+107,MISC,1
+ria percival,PLAYER,1
+whites 145,ORG_OTHER,1
+sara bjork gunarsdottir,PLAYER,1
+4700,NUMERIC,1
+a number of years ago,DATE,1
+below 33000,NUMERIC,1
+sheffield united's,LOCATION,1
+this year's,DATE,1
+20 years ago,DATE,1
+european championship 10 years later,EVENT_OTHER,1
+almost four million,NUMERIC,1
+that summer,DATE,1
+seasons,DATE,1
+earlier in the season,DATE,1
+season two weekends ago,DATE,1
+download the sky sports app free,MISC,1
+live wsl,ORG_OTHER,1
+past five years,DATE,1
+283,NUMERIC,1
+243,NUMERIC,1
+233,NUMERIC,1
+61,NUMERIC,1
+533,NUMERIC,1
+18 per cent,MONEY,1
+man city's,LOCATION,1
+297,NUMERIC,1
+252,NUMERIC,1
+658,NUMERIC,1
+viv miedema,PLAYER,1
+watch arsenal,ORG_OTHER,1
+cindy parlow cone,PLAYER,1
+cone,ORG_OTHER,1
+us soccer,MISC,1
+mwc,ORG_OTHER,1
+2027,DATE,1
+2022 uefa women's european championship,ORG_OTHER,1
+few months,DATE,1
+around nine months,DATE,1
+el clasico,ORG_OTHER,1
+patricia guijlarro,PLAYER,1
+babett peter,PLAYER,1
+130,NUMERIC,1
+lieke martens,PLAYER,1
+hermoso,LOCATION,1
+claudio mina,PLAYER,1
+martens,LOCATION,1
+guijlarro,PLAYER,1
+c a m p,ORG_OTHER,1
+paris olympics,LOCATION,1
+pb,ORG_OTHER,1
+roger kerr,PLAYER,1
+seven news,ORG_OTHER,1
+more than 50,NUMERIC,1
+cathy freeman's,PLAYER,1
+29th-minute,DATE,1
+16th minute,TIME,1
+first 20 minutes,TIME,1
+just 008,NUMERIC,1
+22y 15d,DATE,1
+10th first-half,DATE,1
+paralluelo,PLAYER,1
+pu wei,PLAYER,1
+caldentey,PLAYER,1
+just minutes later,TIME,1
+jenni hermosos,PLAYER,1
+cata coll,ORG_OTHER,1
+end of the second half,DATE,1
+national soccer hall of fame,ORG_OTHER,1
+my hall of fame,ORG_OTHER,1
+three-year-old,DATE,1
+kaavia james union wade,ORG_OTHER,1
+gabrielle union,PLAYER,1
+dwyane wade,PLAYER,1
+nearly two million,NUMERIC,1
+christina aguilera,PLAYER,1
+shawn johnson east,PLAYER,1
+serena williams,PLAYER,1
+acfc,ORG_OTHER,1
+78th minute,TIME,1
+sophia smith's,PLAYER,1
+sophia smith,ORG_OTHER,1
+kalyssa van zanten,PLAYER,1
+102nd minute,TIME,1
+jesse flemming,PLAYER,1
+september 3,DATE,1
+dc,LOCATION,1
+early in the second,TIME,1
+millie bright,MISC,1
+pe,ORG_OTHER,1
+only eight minutes,TIME,1
+age of 21,DATE,1
+following season,DATE,1
+topscorer,ORG_OTHER,1
+juve 2-1,PLAYER,1
+22000,NUMERIC,1
+national league division,ORG_OTHER,1
+20241,NUMERIC,1
+march 27,DATE,1
+alnwick town 4-0,ORG_OTHER,1
+katie barker,PLAYER,1
+magpies,CLUB,1
+druid park,LOCATION,1
+2700,NUMERIC,1
+becky langley,PLAYER,1
+ant & dec,ORG_OTHER,1
+howay,PLAYER,1
+toon toon,MISC,1
+more than 20 years,DATE,1
+cameroonian football federation fecafoot,ORG_OTHER,1
+ethics committee,ORG_OTHER,1
+fecafoot henry njalla quan junior,PLAYER,1
+cameroon fa,ORG_OTHER,1
+caf,GOVERNING_BODY,1
+njalla quan junior,PLAYER,1
+njalla quan sports academy,ORG_OTHER,1
+kumba city fc,ORG_OTHER,1
+quan junior,ORG_OTHER,1
+fk,PLAYER,1
+90-day,DATE,1
+weeks,DATE,1
+late february,DATE,1
+april 8,DATE,1
+houston dash,CLUB,1
+nobbs,PLAYER,1
+katie zalem,PLAYER,1
+a euphoric summer,DATE,1
+hampton,LOCATION,1
+saturday september 3,DATE,1
+britannia stadium,LOCATION,1
+rashida beal,PLAYER,1
+desiree scott,PLAYER,1
+this past summer,DATE,1
+yael averbuch,PLAYER,1
+becky,PLAYER,1
+yael,PLAYER,1
+only about six months,DATE,1
+becca moros,PLAYER,1
+five months,DATE,1
+six weeks,DATE,1
+nearly a year,DATE,1
+olimpia cluj,LOCATION,1
+romanian,NATIONALITY,1
+past decade,DATE,1
+parc olympique lyonnais,ORG_OTHER,1
+31-year-old,DATE,1
+marie-antoinette katoto's,PLAYER,1
+va devenir la première joueuse à atteindre le,ORG_OTHER,1
+en uefa womens champions league,ORG_OTHER,1
+bravo capi,PLAYER,1
+uefa women's cup,ORG_OTHER,1
+august 1 2021,DATE,1
+between july 6 and july 31,DATE,1
+5pm bst the women's euro 2022,TIME,1
+france 2-1,ORG_OTHER,1
+england,ORG_OTHER,1
+over 280 million,MONEY,1
+236m/309,MONEY,1
+next few seasons,DATE,1
+laporta,PLAYER,1
+jessica mcdonald,PLAYER,1
+seven years later,DATE,1
+grand final,EVENT_OTHER,1
+just 15000,MONEY,1
+11000,MONEY,1
+her first few seasons,DATE,1
+my first five years,DATE,1
+gary neville,PLAYER,1
+st james' park for old trafford,PLAYER,1
+man united co-,PLAYER,1
+summer of 2022,DATE,1
+man united,LOCATION,1
+stick,LOCATION,1
+sky bet,PLAYER,1
+united,PLAYER,1
+past 10 years,DATE,1
+west bromwich albion,CLUB,1
+elite development,ORG_OTHER,1
+england dna,MISC,1
+dave reddin,PLAYER,1
+washington spirit,CLUB,1
+20,DATE,1
+11 million,MONEY,1
+frisco,LOCATION,1
+paraguay,LOCATION,1
+last fall,DATE,1
+rangers beat hearts,ORG_OTHER,1
+gers,ORG_OTHER,1
+cumbernauld,LOCATION,1
+ross,PLAYER,1
+hearts area,LOCATION,1
+motherwell 0 - 2,ORG_OTHER,1
+elena sadiku's,PLAYER,1
+k park,LOCATION,1
+27 minutes,TIME,1
+paula partido,PLAYER,1
+aberdeen 2 - 1,ORG_OTHER,1
+montrose 2-1,ORG_OTHER,1
+scottishpower women's premier league,ORG_OTHER,1
+holly daniel,PLAYER,1
+neve guthrie,PLAYER,1
+eilidh shore,LOCATION,1
+three minutes,TIME,1
+francesca ogilvie,PLAYER,1
+7th,NUMERIC,1
+aberdeen,ORG_OTHER,1
+partick thistle partick thistle,ORG_OTHER,1
+carla boyce,PLAYER,1
+57 minutes,TIME,1
+amy bulloch's,PLAYER,1
+first half and five,DATE,1
+just over half,NUMERIC,1
+emily whelan,PLAYER,1
+aleigh gambone,ORG_OTHER,1
+lisa forrest,PLAYER,1
+10 minutes later,TIME,1
+mere seconds,TIME,1
+wilma forsblom,PLAYER,1
+cori sullivan,PLAYER,1
+age of 85,DATE,1
+21-year,DATE,1
+between 1952 and 1973,DATE,1
+445,NUMERIC,1
+72,NUMERIC,1
+west germany,LOCATION,1
+ilka,PLAYER,1
+levin oztunali,PLAYER,1
+union berlin,LOCATION,1
+jonas boldt,PLAYER,1
+joie de vivre,PLAYER,1
+uwe seeler,ORG_OTHER,1
+uwe,PLAYER,1
+oliver kahn,PLAYER,1
+german women's,ORG_OTHER,1
+euro 2022 quarter-final,MISC,1
+uwe wir imteam,ORG_OTHER,1
+weuro2022,MONEY,1
+nwsl expansion draft,MISC,1
+omar berrada,PLAYER,1
+spring 2019,DATE,1
+graham potter,PLAYER,1
+amex stadium,ORG_OTHER,1
+darren eales,PLAYER,1
+toon,PLAYER,1
+dominic jordan,PLAYER,1
+john murtough,PLAYER,1
+carrington,PLAYER,1
+rasmus hojlund,PLAYER,1
+millie turner,PLAYER,1
+aoife mannion,PLAYER,1
+brailsford,ORG_OTHER,1
+home of fifa,ORG_OTHER,1
+watch the best,PLAYER,1
+fifacom,ORG_OTHER,1
+1am gmt,TIME,1
+december 11 2021,DATE,1
+january 7 2022,DATE,1
+best men's player,MISC,1
+december 10 2021,DATE,1
+jorginho,PLAYER,1
+n'golo kante,LOCATION,1
+argentina barcelona,LOCATION,1
+a stellar season,DATE,1
+best fifa men's coach,ORG_OTHER,1
+mancini,PLAYER,1
+hansi flick,PLAYER,1
+lionel scaloni,PLAYER,1
+diego simeone,PLAYER,1
+team country,ORG_OTHER,1
+national team,ORG_OTHER,1
+italy pep guardiola,ORG_OTHER,1
+thomas tuchel chelsea,PLAYER,1
+barcelona women's lluis cortes,ORG_OTHER,1
+peter gerhadsson,PLAYER,1
+beverly priestman,PLAYER,1
+team country lluis cortes,ORG_OTHER,1
+emma hayes chelsea,PLAYER,1
+netherlands chelsea's,ORG_OTHER,1
+edouard mendy,PLAYER,1
+gianluigi donnarummer,PLAYER,1
+kasper schmeichel,PLAYER,1
+gianluigi donnarumma,PLAYER,1
+milan/psg italy,ORG_OTHER,1
+edouard mendy chelsea,PLAYER,1
+manuel neuer bayern munich,ORG_OTHER,1
+women's goalkeeper,ORG_OTHER,1
+stephanie lynn marie labbe,PLAYER,1
+player club,ORG_OTHER,1
+ann-katrin berger chelsea,PLAYER,1
+christiane endler psg/lyon chile,ORG_OTHER,1
+stephanie lynn marie labbe rosengard/psg,PLAYER,1
+between october 8 2020,DATE,1
+august 7 2021,DATE,1
+lfc,LOCATION,1
+training centre,LOCATION,1
+global football development arsène,ORG_OTHER,1
+fifa men's,ORG_OTHER,1
+jürgen klopp &,ORG_OTHER,1
+alissonbecker,NATIONALITY,1
+virgilvdijk & thiago6 congrats,ORG_OTHER,1
+fifa puskas,ORG_OTHER,1
+erik lamela's,PLAYER,1
+mehdi taremi's,PLAYER,1
+goal competition erik lamela arsenal,PLAYER,1
+patrik schick,PLAYER,1
+mehdi taremi chelsea,PLAYER,1
+𝗔 𝗖𝗼𝗰𝗼 𝘀𝗽𝗲𝗰𝗶𝗮𝗹,ORG_OTHER,1
+erik lamela,PLAYER,1
+rabona v arsenal,ORG_OTHER,1
+almost 800k,NUMERIC,1
+eurogott,MONEY,1
+mehdi taremi,PLAYER,1
+ucl,ORG_OTHER,1
+four seasons,DATE,1
+last january,DATE,1
+just two minutes later,TIME,1
+malard,ORG_OTHER,1
+andrea staskova,PLAYER,1
+champions league's,ORG_OTHER,1
+last weeks,DATE,1
+lotte wubben-moy,ORG_OTHER,1
+nine minutes,TIME,1
+copa america femenina,LOCATION,1
+weuro2022 &,MONEY,1
+england & brazil,ORG_OTHER,1
+lautaro martinez,PLAYER,1
+angel di maria,PLAYER,1
+pajor,LOCATION,1
+183 m/s,MONEY,1
+coppa italia,ORG_OTHER,1
+supercoppa italia,LOCATION,1
+res roma,ORG_OTHER,1
+serie,PLAYER,1
+le giallorosse,ORG_OTHER,1
+177,NUMERIC,1
+valentina giacinti,PLAYER,1
+annamaria serturini,PLAYER,1
+emile haavi,PLAYER,1
+225,NUMERIC,1
+404,NUMERIC,1
+serie a an,EVENT_OTHER,1
+peak years,DATE,1
+alessandro spugna,PLAYER,1
+more than 40,MISC,1
+188,NUMERIC,1
+207,NUMERIC,1
+previous season,DATE,1
+088,NUMERIC,1
+higher than 067,NUMERIC,1
+ada hergerberg,PLAYER,1
+lia walti,PLAYER,1
+just five,NUMERIC,1
+selina cerci,PLAYER,1
+175,NUMERIC,1
+41,NUMERIC,1
+megan campbell,PLAYER,1
+140,NUMERIC,1
+99,NUMERIC,1
+paris fc,ORG_OTHER,1
+465,MISC,1
+les essonniennes,PLAYER,1
+154,NUMERIC,1
+17 m/s,MONEY,1
+vero bouquete,PLAYER,1
+zsanett kaján,PLAYER,1
+vero,LOCATION,1
+kajan,ORG_OTHER,1
+levante,ORG_OTHER,1
+mason mount,ORG_OTHER,1
+mount,ORG_OTHER,1
+marcus rashford,PLAYER,1
+swedes,NATIONALITY,1
+anders eriksson,PLAYER,1
+sverige,LOCATION,1
+landslagströja med en,ORG_OTHER,1
+våra motståndare,PLAYER,1
+guiden berättar hur vi spelar,PLAYER,1
+hur vi vinner,PLAYER,1
+och hur,PLAYER,1
+bör spela mot oss för,PLAYER,1
+seit beginn,PLAYER,1
+voller datentiefe,PLAYER,1
+analysen,PLAYER,1
+allen spielerinnen,PLAYER,1
+des spiels oder i,EVENT_OTHER,1
+nachgang,LOCATION,1
+besten,NUMERIC,1
+berichterstattung einen klaren,ORG_OTHER,1
+mehrwert,PLAYER,1
+haben wir nach,ORG_OTHER,1
+partien einen adlerblick,PLAYER,1
+statistiken,PLAYER,1
+spannendsten zahlen,PLAYER,1
+fakten,PLAYER,1
+grafiken,PLAYER,1
+meisterinnen,PLAYER,1
+vorsaison,PLAYER,1
+punkte,ORG_OTHER,1
+vier punkte vom fc bayern,ORG_OTHER,1
+dass,PLAYER,1
+lässt sich mit einem simplen blick auf,ORG_OTHER,1
+maximalausbeute,PLAYER,1
+punkten aus,PLAYER,1
+10 spielen an der,TIME,1
+spitze,PLAYER,1
+saisonpartien,LOCATION,1
+bundesliga zuvor nur,MONEY,1
+darunter auch wolfsburg,PLAYER,1
+wenig verwunderlich,PLAYER,1
+holten sich alle bisherigen fünf,PLAYER,1
+meistertitel,PLAYER,1
+ein wichtiger faktor,ORG_OTHER,1
+starke offensive,PLAYER,1
+vfl 35,MISC,1
+das entspricht einem schnitt,ORG_OTHER,1
+zudem gab wolfsburg,PLAYER,1
+212,NUMERIC,1
+chancenverwertung,PLAYER,1
+21,MISC,1
+auffällig,ORG_OTHER,1
+eines eigentores,PLAYER,1
+aus relativ,PLAYER,1
+strafraumpositionen,ORG_OTHER,1
+indiz,PLAYER,1
+wölfinnen ihre abschlüsse,ORG_OTHER,1
+aus aussichtsreichen positionen,LOCATION,1
+sich statistisch belegen,PLAYER,1
+abschlüsse,ORG_OTHER,1
+auch,PLAYER,1
+chancenqualität,PLAYER,1
+wolfsburg das nonplusultra,PLAYER,1
+liegt bei 282,PLAYER,1
+marke,PLAYER,1
+freiburgerinnen,PLAYER,1
+scf,ORG_OTHER,1
+das ist,PLAYER,1
+die frauen des fc bayern,ORG_OTHER,1
+verfolgerinnen,PLAYER,1
+duell,PLAYER,1
+abstands,PLAYER,1
+das direkte duell mit,ORG_OTHER,1
+rückserie,PLAYER,1
+kulisse,ORG_OTHER,1
+ligaspiele in serie,MISC,1
+zwar stellt das team,MISC,1
+alexander straus,PLAYER,1
+nach,LOCATION,1
+stärke des fcb,ORG_OTHER,1
+10 saisonspielen,DATE,1
+ligabestwert unter,PLAYER,1
+stammtorhüterinnen,PLAYER,1
+statistiken jedoch keinen rekord,PLAYER,1
+bundesliga dar,LOCATION,1
+diesen teilen sich,ORG_OTHER,1
+spielzeit 2014/15,PLAYER,1
+folgende grafik,ORG_OTHER,1
+gegnerinnen,PLAYER,1
+zusammen mit wolfsburg,PLAYER,1
+kumuliert,PLAYER,1
+fcb-damen nur fünf,ORG_OTHER,1
+auch das ist,PLAYER,1
+ligaspitze,NATIONALITY,1
+hauptverantwortlich,PLAYER,1
+weißen westen,PLAYER,1
+auch hier,PLAYER,1
+münchnerin,PLAYER,1
+stelle des stammtorhüterinnen-rankings,PLAYER,1
+plätze,LOCATION,1
+tabelle belegen,PLAYER,1
+sind auch die teams,ORG_OTHER,1
+spiele,ORG_OTHER,1
+ballbesitz,PLAYER,1
+der fc bayern führt,ORG_OTHER,1
+575,NUMERIC,1
+gefolgt von wolfsburg,PLAYER,1
+491,NUMERIC,1
+stelle,LOCATION,1
+diesem,LOCATION,1
+werder bremen mit,ORG_OTHER,1
+305 zuspielversuchen,PLAYER,1
+bremerinnen,PLAYER,1
+spielaufbau am,MISC,1
+schnellsten nach,PLAYER,1
+grafik,NATIONALITY,1
+bundesliga-saison offensiv vor allem,ORG_OTHER,1
+hohe ballgewinne,ORG_OTHER,1
+die adlerträgerinnen,LOCATION,1
+ligaweit gelang das lediglich,PLAYER,1
+betreffende ballgewinne,ORG_OTHER,1
+diese,MISC,1
+fcb kamen auf,ORG_OTHER,1
+diesem weg,PLAYER,1
+außerdem gelangen keinem team mehr als vier treffer,ORG_OTHER,1
+hohen ballgewinnen,PLAYER,1
+zudem,ORG_OTHER,1
+netzte kein anderer klub,ORG_OTHER,1
+vertikalangriffen wie,PLAYER,1
+eintracht,PLAYER,1
+auch relativ,PLAYER,1
+schloss,PLAYER,1
+keine mannschaft vertikalangriffe,ORG_OTHER,1
+derartigen angriff mit einem tor,ORG_OTHER,1
+46 meter vor dem eigenen tor,MISC,1
+schnitt ihre spielzüge,PLAYER,1
+noch weiter,LOCATION,1
+vfl wolfsburg,CLUB,1
+sc,ORG_OTHER,1
+janina minge,PLAYER,1
+torschützinnenliste,LOCATION,1
+saison mit je acht treffern,MISC,1
+direkt,LOCATION,1
+dabei sind bei minge,PLAYER,1
+verwertete effizient,PLAYER,1
+wie ligaweit niemand,PLAYER,1
+toren,ORG_OTHER,1
+bundesliga-spielerin,ORG_OTHER,1
+dass sie einige,PLAYER,1
+torwahrscheinlichkeit,ORG_OTHER,1
+ihre drei fernschusstore,ORG_OTHER,1
+abschlussstark wie minge,PLAYER,1
+lufthoheit,LOCATION,1
+ihre je,PLAYER,1
+schüller traf,PLAYER,1
+bundesliga-saison,EVENT_OTHER,1
+601,NUMERIC,1
+minuten einsatzzeit,PLAYER,1
+von allen spielerinnen,PLAYER,1
+250,NUMERIC,1
+dabei nur pajor,PLAYER,1
+durchschnittlich,PLAYER,1
+64 minuten,MISC,1
+510,NUMERIC,1
+minuten,MISC,1
+fünf,NUMERIC,1
+fünf saisontoren,ORG_OTHER,1
+eine davon,PLAYER,1
+tsg hoffenheims katharina naschenweng,MISC,1
+wie minge,PLAYER,1
+fernschuss,ORG_OTHER,1
+eckstoß,ORG_OTHER,1
+spieltag gegen,PLAYER,1
+25-jährige,TIME,1
+nationalspielerin,MISC,1
+abschlüsse,PLAYER,1
+keine spielerin,ORG_OTHER,1
+offensivspiel wie fc bayerns,ORG_OTHER,1
+blick mag,ORG_OTHER,1
+aussage zwar verwundern,MISC,1
+tor,PLAYER,1
+akteurin aus,ORG_OTHER,1
+wie stanway,PLAYER,1
+schussnehmerin,PLAYER,1
+als beteiligte,PLAYER,1
+spielzug,ORG_OTHER,1
+schuss,MISC,1
+beteiligungen,ORG_OTHER,1
+einem tor,PLAYER,1
+wert,PLAYER,1
+ligaweit sind,ORG_OTHER,1
+12 noch,MISC,1
+mit zufall oder glück,PLAYER,1
+großer offensiver,LOCATION,1
+beteiligung stanways,PLAYER,1
+ligahöchstwert,PLAYER,1
+ihren vertrag,PLAYER,1
+dezember,DATE,1
+die verlängerung,LOCATION,1
+dieser ligasaison war sie,LOCATION,1
+neun saisonspielen,EVENT_OTHER,1
+dieliga,MONEY,1
+fcbfrauen,NATIONALITY,1
+doch dallmann,PLAYER,1
+dass sie den ball über,PLAYER,1
+meter,PLAYER,1
+richtung des gegnerischen tors,LOCATION,1
+anschluss,PLAYER,1
+einer teamkollegin,PLAYER,1
+nach carries,LOCATION,1
+ballführungen,PLAYER,1
+liga kommt aus,ORG_OTHER,1
+den reihen des sv,PLAYER,1
+sommer 2022,PLAYER,1
+ferencváros budapest,LOCATION,1
+spielzeit,LOCATION,1
+75,MISC,1
+damit sticht,ORG_OTHER,1
+bundesliga-spielerinnen,ORG_OTHER,1
+zweikämpfe,LOCATION,1
+carolin simon,PLAYER,1
+73,MISC,1
+doch simon ist nicht nur eine starke verteidigerin,PLAYER,1
+sie,LOCATION,1
+das vermögen,PLAYER,1
+mitspielerinnen,PLAYER,1
+szene,ORG_OTHER,1
+champions league team of,ORG_OTHER,1
+ligue 1 femenine,ORG_OTHER,1
+late monday evening,TIME,1
+kaiya mccullough,PLAYER,1
+eve of preseason,DATE,1
+from day one,DATE,1
+22000,MONEY,1
+35000,MONEY,1
+26000,MONEY,1
+players association pictwittercom/7piq0n9i0z burke,ORG_OTHER,1
+100 years,DATE,1
+inac kobe leonessa,ORG_OTHER,1
+three years later,DATE,1
+past eight years,DATE,1
+68,NUMERIC,1
+208,NUMERIC,1
+26 minutes,TIME,1
+15 seconds,TIME,1
+mallory pugh's,PLAYER,1
+another two minutes later,TIME,1
+first minute of the second half,TIME,1
+56 minutes,TIME,1
+substitute howell,PLAYER,1
+64 minutes,TIME,1
+closing,TIME,1
+coming months,DATE,1
+melanie,PLAYER,1
+23 years,DATE,1
+april 22 2022,DATE,1
+barcelona women,ORG_OTHER,1
+wolfsburg women,ORG_OTHER,1
+barcelona 3,ORG_OTHER,1
+london 5,ORG_OTHER,1
+barcelona 5-1,ORG_OTHER,1
+real madrid women,ORG_OTHER,1
+1999 world cup,EVENT_OTHER,1
+camp nou  pictwittercom/wage8zt7bc,LOCATION,1
+77390,NUMERIC,1
+42137,NUMERIC,1
+1971,DATE,1
+110000,NUMERIC,1
+azteca stadium,LOCATION,1
+red flames,ORG_OTHER,1
+tessa wullaert,PLAYER,1
+hannah eurlings,PLAYER,1
+ives serneels,PLAYER,1
+tine de caigny,PLAYER,1
+de caignys,PLAYER,1
+cayman,LOCATION,1
+three years old,DATE,1
+every morning,TIME,1
+hln,ORG_OTHER,1
+topsport,ORG_OTHER,1
+age of,DATE,1
+belgian fa,ORG_OTHER,1
+serneels,ORG_OTHER,1
+that night,TIME,1
+omicron,ORG_OTHER,1
+january 24,DATE,1
+brisbane roar women,ORG_OTHER,1
+605am,NUMERIC,1
+wellington,LOCATION,1
+phoenix,LOCATION,1
+brisbane roar,ORG_OTHER,1
+eastleigh,LOCATION,1
+chesterfield,LOCATION,1
+bt sport 1 jan 29,ORG_OTHER,1
+sky sports main event / sky sports football,ORG_OTHER,1
+reims vs bastia 530pm,ORG_OTHER,1
+newcastle jets women,ORG_OTHER,1
+union saint-gilloise,CLUB,1
+kaa gent,ORG_OTHER,1
+nottingham,LOCATION,1
+bergerac,LOCATION,1
+st-etienne,ORG_OTHER,1
+kortrijk,ORG_OTHER,1
+porto,CLUB,1
+830pm bt sport 2 supporters,MISC,1
+english football league,ORG_OTHER,1
+football on tv,ORG_OTHER,1
+february 5,DATE,1
+february 8,DATE,1
+weekend of february 12,DATE,1
+just an hour,TIME,1
+hyundai,ORG_OTHER,1
+over hundreds,NUMERIC,1
+april 2,DATE,1
+final weeks of the season,DATE,1
+their womens champions league,ORG_OTHER,1
+50000,NUMERIC,1
+just over 24 hours,TIME,1
+april 30,DATE,1
+last months,DATE,1
+mere weeks,DATE,1
+two-decade,DATE,1
+this century,DATE,1
+weeks later,DATE,1
+a hundred,NUMERIC,1
+86422,NUMERIC,1
+79468,NUMERIC,1
+tabea waßmuth,ORG_OTHER,1
+52,NUMERIC,1
+waßmuth,PLAYER,1
+every 19 minutes,TIME,1
+kandidiatou diani,PLAYER,1
+18 mins,TIME,1
+58,NUMERIC,1
+md4,ORG_OTHER,1
+waßmuth,ORG_OTHER,1
+an additional two,NUMERIC,1
+35 minutes,TIME,1
+relatively few minutes,TIME,1
+106,NUMERIC,1
+final third,DATE,1
+46 passes per,MISC,1
+féminin,ORG_OTHER,1
+429 minutes,TIME,1
+olympique lyons,ORG_OTHER,1
+frenchwoman,NATIONALITY,1
+237,NUMERIC,1
+2017-18 2018-19,DATE,1
+cascarino,PLAYER,1
+at least 90 minutes,TIME,1
+122,NUMERIC,1
+andrea pereira,PLAYER,1
+97,MISC,1
+at least 25,NUMERIC,1
+more than 10,NUMERIC,1
+simone boye sorensen,PLAYER,1
+women's euro 2022 player,ORG_OTHER,1
+lieke martens,ORG_OTHER,1
+tony clarkes,PLAYER,1
+madness,ORG_OTHER,1
+1980s,DATE,1
+liverpool harriers,ORG_OTHER,1
+steve smith,PLAYER,1
+anyika onuoura,PLAYER,1
+katarina johnson-thompson,PLAYER,1
+harriers,NATIONALITY,1
+olympians,NATIONALITY,1
+paralympians,NATIONALITY,1
+owen brown,PLAYER,1
+antonio,LOCATION,1
+metquarter,PLAYER,1
+jamie carragher,PLAYER,1
+liam smith,PLAYER,1
+bradley orr,PLAYER,1
+owen,PLAYER,1
+wavertree athletics centre,ORG_OTHER,1
+three oclock,TIME,1
+30 yards,MISC,1
+those few months,DATE,1
+needforspeed100,PLAYER,1
+premier leagues,ORG_OTHER,1
+charlie mcneill,PLAYER,1
+lewis fiorini,PLAYER,1
+wigan,PLAYER,1
+james carragher,PLAYER,1
+jamie,PLAYER,1
+liverpool womens,ORG_OTHER,1
+missy bo kearns,PLAYER,1
+lee peltier,PLAYER,1
+jon flanagan,PLAYER,1
+koge,PLAYER,1
+snooker,ORG_OTHER,1
+ronnie o'sullivan,PLAYER,1
+conor coady,PLAYER,1
+kirkby,ORG_OTHER,1
+a long time ago,DATE,1
+nuno,PLAYER,1
+conor,PLAYER,1
+an hour,TIME,1
+adama traore,PLAYER,1
+kyle walker,PLAYER,1
+allain saint-maximin,PLAYER,1
+caglar soyuncu,PLAYER,1
+trent alexander-arnold,PLAYER,1
+usain bolt,PLAYER,1
+trent,PLAYER,1
+10-15 yards,MISC,1
+konate,ORG_OTHER,1
+rhys williams,PLAYER,1
+12km,MISC,1
+40-50,NUMERIC,1
+uefa european championships,ORG_OTHER,1
+third-minute,TIME,1
+isabel kerschowski,PLAYER,1
+just seven minutes,TIME,1
+martina voss-tecklenburg,PLAYER,1
+end of july,DATE,1
+only scored,NUMERIC,1
+55,MISC,1
+group h,ORG_OTHER,1
+paris saint-germains,LOCATION,1
+more modest than five years ago,DATE,1
+02,NUMERIC,1
+w0 d0 l7,MISC,1
+w0 d1 l4,MISC,1
+tottenham women,ORG_OTHER,1
+chioma ubogagu,ORG_OTHER,1
+chioma,MISC,1
+uk anti-doping,ORG_OTHER,1
+chicago bulls,ORG_OTHER,1
+1990s,DATE,1
+second half of a season,DATE,1
+4th,NUMERIC,1
+training and lifestyle,ORG_OTHER,1
+this white jersey,ORG_OTHER,1
+jordan,LOCATION,1
+21/22 season,DATE,1
+https//tco/30pu9hbdqv,LOCATION,1
+february 10,DATE,1
+february 15,DATE,1
+last-16,DATE,1
+rennes,CLUB,1
+february 19,DATE,1
+kirsty howat,PLAYER,1
+rio hardy,PLAYER,1
+sky sports cup,ORG_OTHER,1
+sky sports cup,LOCATION,1
+kaela mcdonald-nguah,PLAYER,1
+gartcairn,PLAYER,1
+january 2024,DATE,1
+katie lockwood,PLAYER,1
+linzi taylor,PLAYER,1
+monica harty,PLAYER,1
+georgie mctear,PLAYER,1
+sky sports free scottish premiership,MISC,1
+sky sports sky sports - this season,MISC,1
+iceland 5-0,EVENT_OTHER,1
+alana,PLAYER,1
+tierna,PLAYER,1
+36,DATE,1
+23,DATE,1
+only 23,NUMERIC,1
+dahlkemper,LOCATION,1
+sauerbrunn,LOCATION,1
+28,DATE,1
+this friday,DATE,1
+2011 & 2012,DATE,1
+2013 & 2014,DATE,1
+greater than eight,NUMERIC,1
+nick,PLAYER,1
+1206 days,DATE,1
+may 18,DATE,1
+291 days,DATE,1
+november 8,DATE,1
+2020chelsea,NUMERIC,1
+200 days,DATE,1
+brighton & hove albion,CLUB,1
+february 7 2021,DATE,1
+203,NUMERIC,1
+347,NUMERIC,1
+437,NUMERIC,1
+419,NUMERIC,1
+only 14,NUMERIC,1
+138,MISC,1
+64,MISC,1
+246,NUMERIC,1
+atlantic,LOCATION,1
+143,NUMERIC,1
+141,NUMERIC,1
+leah galton,PLAYER,1
+78,DATE,1
+nearly half,NUMERIC,1
+wsl 2020-21,LOCATION,1
+final week of the season,DATE,1
+a golden boot,MISC,1
+just eight,NUMERIC,1
+087,NUMERIC,1
+286,MISC,1
+074,NUMERIC,1
+103,NUMERIC,1
+khadija bunny shaw,PLAYER,1
+white,PLAYER,1
+less than half,NUMERIC,1
+entire season,DATE,1
+157,NUMERIC,1
+gemma davies,PLAYER,1
+085,NUMERIC,1
+marcus bignot,PLAYER,1
+only half,NUMERIC,1
+043,NUMERIC,1
+west hams,PLAYER,1
+a season later,DATE,1
+november 15,DATE,1
+only eight,NUMERIC,1
+171,NUMERIC,1
+180,NUMERIC,1
+183,NUMERIC,1
+grace fisk,PLAYER,1
+start of last year,DATE,1
+fisk,PLAYER,1
+1980,DATE,1
+689,MISC,1
+682,MISC,1
+at least 1000 minutes,TIME,1
+90 days,DATE,1
+august 20 2023,DATE,1
+shelbourne fc,ORG_OTHER,1
+37-year-old,DATE,1
+shelbourne,LOCATION,1
+wenger,ORG_OTHER,1
+𝐑𝐞𝐝,LOCATION,1
+x3 olympic gold,MISC,1
+usa wntone,ORG_OTHER,1
+arsene,PLAYER,1
+shelbourne fc,LOCATION,1
+unfp player,ORG_OTHER,1
+ol,ORG_OTHER,1
+clara mateo,LOCATION,1
+young player of the year,MISC,1
+louna ribadeira,PLAYER,1
+womens world cup group h,EVENT_OTHER,1
+138,NUMERIC,1
+womens africa cup of nations,ORG_OTHER,1
+602,MISC,1
+795,MISC,1
+golden boot award,ORG_OTHER,1
+901,MISC,1
+36,MISC,1
+chantal hagel,PLAYER,1
+sophia kleinherne,PLAYER,1
+marina hegering,PLAYER,1
+sydney lohmann,ORG_OTHER,1
+laura freigang,PLAYER,1
+sjoeke nüsken,PLAYER,1
+nicole anyomi,PLAYER,1
+felicitas rauch,PLAYER,1
+klara bühl,PLAYER,1
+stina johannes,PLAYER,1
+sara doorsoun,PLAYER,1
+khadija er-rmichi,PLAYER,1
+zineb redouani,PLAYER,1
+nouhaila benzina,PLAYER,1
+sarah kassi,PLAYER,1
+nesryne el chad,PLAYER,1
+élodie nakkach,PLAYER,1
+ghizlane chebbak,PLAYER,1
+salma amani,PLAYER,1
+ibtissam jraïdi,PLAYER,1
+najat badri,PLAYER,1
+fatima tagnaout,PLAYER,1
+assia zouhair,PLAYER,1
+sabah seghir,LOCATION,1
+rkia mazrouai,PLAYER,1
+fatima zohra gharbi,PLAYER,1
+anissa lahmari,PLAYER,1
+hanane aït el haj,PLAYER,1
+kenza chapelle,PLAYER,1
+sakina ouzraoui diki,PLAYER,1
+sofia bouftini,PLAYER,1
+yasmin mrabet,PLAYER,1
+inès arouaissa,PLAYER,1
+mexico football federation,ORG_OTHER,1
+gerardo torrado,PLAYER,1
+ignacio hierro,PLAYER,1
+luis perez,PLAYER,1
+monica vergara,PLAYER,1
+de luisa,PLAYER,1
+u20,ORG_OTHER,1
+perez,PLAYER,1
+concacaf u20 championship,EVENT_OTHER,1
+u20 world cup,EVENT_OTHER,1
+vergara,PLAYER,1
+end of the year,DATE,1
+past year,DATE,1
+partick thistle,LOCATION,1
+partick thistle 0-0 rangers rangers,PLAYER,1
+scottishpower women's,ORG_OTHER,1
+brian graham's,PLAYER,1
+ave easdon,PLAYER,1
+lizzie arnot,PLAYER,1
+linzi taylor's,PLAYER,1
+demi falconer,PLAYER,1
+rosie slater,PLAYER,1
+23 minutes,TIME,1
+kelsey daugherty,PLAYER,1
+flint,LOCATION,1
+lizzie waldie,PLAYER,1
+jenna penman,PLAYER,1
+timms,PLAYER,1
+danni findlay,PLAYER,1
+dundee united 0-6,ORG_OTHER,1
+hannah jordan,PLAYER,1
+jordan,PLAYER,1
+ronaigh douglas,ORG_OTHER,1
+becky galbraith,PLAYER,1
+robyn mccafferty,PLAYER,1
+mya bates,PLAYER,1
+foundation park,LOCATION,1
+edinburgh,LOCATION,1
+derby day,DATE,1
+josi giard,PLAYER,1
+chloe muir,PLAYER,1
+laura berry,PLAYER,1
+giard,PLAYER,1
+emily mutch,PLAYER,1
+muir,LOCATION,1
+just a few minutes later,TIME,1
+emma thomson,PLAYER,1
+montrose 1-5,ORG_OTHER,1
+tammy harkin,PLAYER,1
+just 15 minutes later,TIME,1
+mairead fulton's,ORG_OTHER,1
+kenzie weir,PLAYER,1
+carlee giammona,PLAYER,1
+a third,NUMERIC,1
+kinga kozak's,PLAYER,1
+fulton,ORG_OTHER,1
+league cup and fa cup,ORG_OTHER,1
+past 7 years,DATE,1
+january 2022,DATE,1
+pfa young player of,MISC,1
+herzlich,PLAYER,1
+stanwaygeorgia,LOCATION,1
+englische,ORG_OTHER,1
+nationalspielerin,LOCATION,1
+bianca rech,PLAYER,1
+fc bayern frauen,ORG_OTHER,1
+womens euro championship,ORG_OTHER,1
+14th,NUMERIC,1
+heineken,ORG_OTHER,1
+fresher football,ORG_OTHER,1
+previous year,DATE,1
+may 29,DATE,1
+june 10,DATE,1
+this seasons,DATE,1
+ataturk olympic stadium,LOCATION,1
+miracle of istanbul,ORG_OTHER,1
+lisbon,LOCATION,1
+1999-2002,DATE,1
+over 75000,NUMERIC,1
+middle of may,DATE,1
+june 3,DATE,1
+june 4,DATE,1
+philips stadion,LOCATION,1
+around 36500,NUMERIC,1
+uefa men's champions league,ORG_OTHER,1
+august 25,DATE,1
+september 6,DATE,1
+november 1,DATE,1
+week of march 14-15,DATE,1
+december 22,DATE,1
+march 21,DATE,1
+april 29 and 30,DATE,1
+erin cuthbert's,PLAYER,1
+30,DATE,1
+between 2020 and 2022,DATE,1
+this saturday,DATE,1
+𝐃𝐞𝐚𝐫 lucybronze,PLAYER,1
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞,PLAYER,1
+hospital de barcelona,ORG_OTHER,1
+ciutat esportiva,ORG_OTHER,1
+catalonia,ORG_OTHER,1
+olympique lyon,CLUB,1
+2017-20,DATE,1
+best award,MISC,1
+uefa european player of the season,ORG_OTHER,1
+previous day,DATE,1
+one half,NUMERIC,1
+germany 6-2 v england,EVENT_OTHER,1
+england 6-0 v,LOCATION,1
+almost 30000,NUMERIC,1
+hemp,ORG_OTHER,1
+covid-19,NATIONALITY,1
+covid,ORG_OTHER,1
+last three days,DATE,1
+millions of pounds,MONEY,1
+pcr,ORG_OTHER,1
+25 minutes,TIME,1
+two second half,TIME,1
+servette,PLAYER,1
+arsenal and bayern munich,ORG_OTHER,1
+monday 20 december,DATE,1
+match time,PLAYER,1
+bbc three /,ORG_OTHER,1
+july 21,DATE,1
+july 22,DATE,1
+july 27,DATE,1
+fara williams,PLAYER,1
+lionesses - kelly smith,ORG_OTHER,1
+anita asante,PLAYER,1
+rachel brown-finnis,PLAYER,1
+sue smith,PLAYER,1
+gail redmond,PLAYER,1
+glentoran,LOCATION,1
+caragh hamilton,PLAYER,1
+laura georges,PLAYER,1
+anouk hoogendijk,PLAYER,1
+scott booth,PLAYER,1
+20-goal mark,MISC,1
+some 25 yards,MISC,1
+barclaysfawsl,MISC,1
+fernandez,PLAYER,1
+jefferson lerma,PLAYER,1
+47th,NUMERIC,1
+mail sport's,ORG_OTHER,1
+kieran gill,PLAYER,1
+matheus franca,PLAYER,1
+flamengo,NATIONALITY,1
+franca,ORG_OTHER,1
+malo gusto,PLAYER,1
+conor gallagherâs,PLAYER,1
+45th minute,TIME,1
+three weeks ago,DATE,1
+colombian,NATIONALITY,1
+â42600,MONEY,1
+menâs season,DATE,1
+bob marley's,PLAYER,1
+petr cech's,PLAYER,1
+jake humphreyâs high performance podcast,PLAYER,1
+chelseaâ cechâs,PLAYER,1
+19 months,DATE,1
+cech,ORG_OTHER,1
+belfast giants,ORG_OTHER,1
+oxford city stars,ORG_OTHER,1
+crystal palaceâs,MISC,1
+chelsea supportersâ trust,ORG_OTHER,1
+up to 200,NUMERIC,1
+stamford,LOCATION,1
+march 23,DATE,1
+stoll,PLAYER,1
+barons court project,ORG_OTHER,1
+chelseaâs academy,ORG_OTHER,1
+west ham â,LOCATION,1
+charlie holland,PLAYER,1
+rio ngumoha,LOCATION,1
+15,DATE,1
+almost 3000,NUMERIC,1
+stade de la rabine,LOCATION,1
+amandine miquel,PLAYER,1
+stade de reims,ORG_OTHER,1
+helene fercocq,PLAYER,1
+fercocq,MISC,1
+just four days,DATE,1
+15th,NUMERIC,1
+almost four years,DATE,1
+18th,NUMERIC,1
+around 50,NUMERIC,1
+dumornay clubs,ORG_OTHER,1
+18 years old,DATE,1
+miguel,PLAYER,1
+16 year old,DATE,1
+dumornay,LOCATION,1
+end of the summer,DATE,1
+sonia ouchene,PLAYER,1
+melchie,PLAYER,1
+october 2 2021,DATE,1
+durmonay,PLAYER,1
+ten minutes later,TIME,1
+30 per cent,MONEY,1
+ouchene,ORG_OTHER,1
+20 or 21,DATE,1
+first quarter hour,DATE,1
+venezuelan football federation,ORG_OTHER,1
+kenneth zseremeta,PLAYER,1
+william pino,PLAYER,1
+two-dozen,NUMERIC,1
+ethics commission,ORG_OTHER,1
+a period of,DATE,1
+article 24,MISC,1
+twenty-four,NUMERIC,1
+venezuelan,NATIONALITY,1
+last october,DATE,1
+atletico madrid's,ORG_OTHER,1
+deyna castellanos,PLAYER,1
+zseremeta,PLAYER,1
+tuesday morning,TIME,1
+latvia,LOCATION,1
+williamson's arsenal,ORG_OTHER,1
+last friday,DATE,1
+continental queens,ORG_OTHER,1
+16 million,MONEY,1
+96m,MONEY,1
+81m/96,MONEY,1
+almost two thirds,NUMERIC,1
+wembley,ORG_OTHER,1
+less than an hour,TIME,1
+a womens euro,LOCATION,1
+50000,MONEY,1
+900000,MONEY,1
+205000,MONEY,1
+173k/206k,MONEY,1
+320000,MONEY,1
+660000,MONEY,1
+420000,MONEY,1
+355k/422k,MONEY,1
+2085000,MONEY,1
+45m,MONEY,1
+500,MONEY,1
+423/502,MONEY,1
+between october and december,DATE,1
+jasmina covic,PLAYER,1
+womens football agency,ORG_OTHER,1
+brian eylert,PLAYER,1
+covic,ORG_OTHER,1
+brian,PLAYER,1
+puma,ORG_OTHER,1
+that day,DATE,1
+less than three minutes,TIME,1
+joelle wedemeyer,PLAYER,1
+11-day,DATE,1
+palestine,LOCATION,1
+kori butterfield,PLAYER,1
+israeli,NATIONALITY,1
+bnot netanya,PLAYER,1
+missiles,MISC,1
+thirty minutes later,TIME,1
+next day,DATE,1
+paok,ORG_OTHER,1
+university of tampa,ORG_OTHER,1
+two months later,DATE,1
+megan,PLAYER,1
+kori,PLAYER,1
+allie longs,PLAYER,1
+over 6000 miles,MISC,1
+sam rosette,PLAYER,1
+biik shymkent,ORG_OTHER,1
+kazakhstan,LOCATION,1
+university of virginia,ORG_OTHER,1
+morgan gautrat,PLAYER,1
+rosette,ORG_OTHER,1
+no fewer than nine,NUMERIC,1
+every single year,DATE,1
+bronx,LOCATION,1
+villanova university,ORG_OTHER,1
+a ton,MISC,1
+new york city,LOCATION,1
+five to 10,NUMERIC,1
+lithuania,LOCATION,1
+gintra,PLAYER,1
+wsl academy league,ORG_OTHER,1
+two weeks ago,DATE,1
+wsl cup,EVENT_OTHER,1
+man united,PLAYER,1
+john marius dybvik,PLAYER,1
+clausenengen fk,ORG_OTHER,1
+two or,NUMERIC,1
+ole,PLAYER,1
+cska moscow's,ORG_OTHER,1
+mario fernandes,PLAYER,1
+cska,MISC,1
+cska,ORG_OTHER,1
+rostov,PLAYER,1
+oranje leeuwinnen's,ORG_OTHER,1
+just a day,DATE,1
+sari van veenendaal,PLAYER,1
+feyenoord,CLUB,1
+jacintha weimar,PLAYER,1
+lotte wubben moy,PLAYER,1
+tuija hyyrynen,LOCATION,1
+their first two years,DATE,1
+beckham,PLAYER,1
+chicago fire,ORG_OTHER,1
+romeo,PLAYER,1
+bbcfootball,MONEY,1
+bbcfootball bbceuros beth,MONEY,1
+england ahead,MISC,1
+tudnusa,ORG_OTHER,1
+capitano,ORG_OTHER,1
+paolo maldini,PLAYER,1
+rossoneri,MISC,1
+maldini,PLAYER,1
+dan sandison's,PLAYER,1
+queens park fc,ORG_OTHER,1
+fridolina rolfö,PLAYER,1
+volleywood,ORG_OTHER,1
+stickers,ORG_OTHER,1
+hidetoshi nakata,PLAYER,1
+june 23,DATE,1
+rosenborg,ORG_OTHER,1
+september 20/21 and september 28/29,DATE,1
+sarajevo,LOCATION,1
+uefa women's cup/women's champions league,ORG_OTHER,1
+20 successive seasons,DATE,1
+second successive year,DATE,1
+emina ekic,PLAYER,1
+just a few months later,DATE,1
+racing,ORG_OTHER,1
+bosnia,LOCATION,1
+ekic,ORG_OTHER,1
+19-year-olds,DATE,1
+around 12 months ago,DATE,1
+third year,DATE,1
+thomas preiss,PLAYER,1
+juan mata,PLAYER,1
+serge gnabry,PLAYER,1
+giorgio chiellini,PLAYER,1
+timo werner,PLAYER,1
+julian nagelsmann,PLAYER,1
+werder bremen,ORG_OTHER,1
+oakland roots,ORG_OTHER,1
+coming months and years,DATE,1
+hungary,LOCATION,1
+facetime,ORG_OTHER,1
+pauline bremer,PLAYER,1
+janine beckie,PLAYER,1
+awareness,ORG_OTHER,1
+day before final,DATE,1
+2019 world cup,DATE,1
+third day,DATE,1
+just nine days,DATE,1
+around next summer,DATE,1
+a first quarter-final,DATE,1
+just 6000,NUMERIC,1
+paula fox,PLAYER,1
+summer of 2012,DATE,1
+first day,DATE,1
+that season,DATE,1
+gareth bale,PLAYER,1
+hannah blundell,PLAYER,1
+rubik,ORG_OTHER,1
+charlton,LOCATION,1
+women's under-19,ORG_OTHER,1
+eventful,DATE,1
+lyon beat barcelona,ORG_OTHER,1
+last 12 months,DATE,1
+50-50,NUMERIC,1
+amandine henrys,PLAYER,1
+griedge mbock bathy,PLAYER,1
+1000,NUMERIC,1
+these past months,DATE,1
+todd,PLAYER,1
+playing against arsenal,MISC,1
+chelsea fa cup,ORG_OTHER,1
+long summers,DATE,1
+kerr free,ORG_OTHER,1
+zinsberger,NATIONALITY,1
+a womens champions league,ORG_OTHER,1
+only a few months,DATE,1
+year ahead,DATE,1
+28 to 300,MONEY,1
+28,MONEY,1
+300,MONEY,1
+70,MONEY,1
+up to 200,MONEY,1
+shebelieves cup 2022,EVENT_OTHER,1
+january 18 2022,DATE,1
+age of 12,DATE,1
+5pm pt /,TIME,1
+ca feb 17,DATE,1
+8pm pt /,TIME,1
+11pm,TIME,1
+ca feb,DATE,1
+3pm,TIME,1
+new zealand dignity health sports park,ORG_OTHER,1
+ca feb 20,DATE,1
+ca feb 23,DATE,1
+6pm pt / 9pm,TIME,1
+iceland toyota stadium,ORG_OTHER,1
+march 24,DATE,1
+european womens football championship,ORG_OTHER,1
+fifa council,ORG_OTHER,1
+bureau of the fifa council,ORG_OTHER,1
+executive committee of uefa,ORG_OTHER,1
+st petersburg,LOCATION,1
+court of arbitration for sport cas,ORG_OTHER,1
+russia football union,ORG_OTHER,1
+fédération internationale de football association,ORG_OTHER,1
+union of european football associations,ORG_OTHER,1
+polish football association,ORG_OTHER,1
+swedish football association,ORG_OTHER,1
+czech football association,ORG_OTHER,1
+football association of montenegro,ORG_OTHER,1
+hellenic football federation,ORG_OTHER,1
+belarus football federation,ORG_OTHER,1
+danish football association,ORG_OTHER,1
+luxembourgish football association,ORG_OTHER,1
+austrian football association,ORG_OTHER,1
+portuguese football federation,ORG_OTHER,1
+english football association,ORG_OTHER,1
+french football association,ORG_OTHER,1
+code of sports-related arbitration,MISC,1
+san antonio,LOCATION,1
+latin americans,NATIONALITY,1
+gustavsson,PLAYER,1
+nine previous,DATE,1
+citizens,ORG_OTHER,1
+castore,LOCATION,1
+2022023,DATE,1
+7000,MONEY,1
+5000,MONEY,1
+at least one,NUMERIC,1
+age of 17 years,DATE,1
+214 days,DATE,1
+14th minute,TIME,1
+golden ball,PLAYER,1
+2011 world cup,EVENT_OTHER,1
+184,NUMERIC,1
+255,NUMERIC,1
+at least 26,NUMERIC,1
+kristine lilly,PLAYER,1
+214,NUMERIC,1
+more than 83,NUMERIC,1
+world cup finals,EVENT_OTHER,1
+as many as five,NUMERIC,1
+future world cup,EVENT_OTHER,1
+1999,EVENT_OTHER,1
+just over 1000 minutes,TIME,1
+1003,NUMERIC,1
+84 minutes,TIME,1
+at least three,NUMERIC,1
+fewer minutes,TIME,1
+82 mins,MISC,1
+cristiane,ORG_OTHER,1
+june 1999,DATE,1
+golden ball,MISC,1
+womens world cup group f,EVENT_OTHER,1
+sydney football stadium,LOCATION,1
+last three 2011,DATE,1
+at least the quarter,DATE,1
+574,MISC,1
+group f,ORG_OTHER,1
+at least 20,NUMERIC,1
+english,ORG_OTHER,1
+hervé renard,PLAYER,1
+mens world cup,ORG_OTHER,1
+john herdman,PLAYER,1
+81,MISC,1
+919,MISC,1
+953,MISC,1
+938,MISC,1
+solène durand,PLAYER,1
+maëlle lakrar,PLAYER,1
+élisa de almeida,PLAYER,1
+sandie toletti,PLAYER,1
+eugénie le sommer,ORG_OTHER,1
+amel majri,PLAYER,1
+clara matéo,PLAYER,1
+aïssatou tounkara,PLAYER,1
+kenza dali,PLAYER,1
+pauline peyraud-magnin,PLAYER,1
+léa le garrec,PLAYER,1
+estelle cascarino,PLAYER,1
+constance picaud,PLAYER,1
+ève périsset,PLAYER,1
+vicki bècho,PLAYER,1
+sydney schneider,PLAYER,1
+solai,LOCATION,1
+vyan sampson,PLAYER,1
+chantelle swaby,PLAYER,1
+konya plummer,PLAYER,1
+havana solaun,PLAYER,1
+peyton mcnamara,PLAYER,1
+drew spence,PLAYER,1
+kameron simmonds,PLAYER,1
+jody brown,PLAYER,1
+kiki van zanten,PLAYER,1
+rebecca spencer,PLAYER,1
+deneisha blackwood,PLAYER,1
+tiffany cameron,PLAYER,1
+paige bailey-gayle,PLAYER,1
+allyson swaby,PLAYER,1
+trudi carter,PLAYER,1
+tiernny wiltshire,PLAYER,1
+atlanta primus,ORG_OTHER,1
+cheyna matthews,PLAYER,1
+kayla mckenna,PLAYER,1
+liya brooks,PLAYER,1
+rachael kundananji's,PLAYER,1
+just six years ago,DATE,1
+zambian copperbelt province,ORG_OTHER,1
+jen beattie,PLAYER,1
+860000,MONEY,1
+685000,MONEY,1
+liga f,COMPETITION,1
+bbc sport africa,ORG_OTHER,1
+nigerians,NATIONALITY,1
+victor boniface,PLAYER,1
+bayer,ORG_OTHER,1
+scottish league one,ORG_OTHER,1
+broadwood stadium,LOCATION,1
+may 2023,DATE,1
+clyde ladies,PLAYER,1
+david mcgoldrick,PLAYER,1
+neil sinclair,PLAYER,1
+mcdermid,PLAYER,1
+clyde ladies,LOCATION,1
+thursday march 31,DATE,1
+champion hill,ORG_OTHER,1
+dulwich hamlet women,ORG_OTHER,1
+truk united fc,ORG_OTHER,1
+transgender day,EVENT_OTHER,1
+trans radio uk,ORG_OTHER,1
+paula griffin,PLAYER,1
+truk united,ORG_OTHER,1
+more than three decades,DATE,1
+lucy clark,PLAYER,1
+30 years,DATE,1
+march 31st,DATE,1
+zoe elmore,PLAYER,1
+ceylon hickman,ORG_OTHER,1
+football beyond borders,MISC,1
+ncaa swimming championships,ORG_OTHER,1
+trans radio,ORG_OTHER,1
+31/3/22,NUMERIC,1
+sht,ORG_OTHER,1
+blair hamilton,PLAYER,1
+watford academy,ORG_OTHER,1
+sammy walker,PLAYER,1
+sammy,PLAYER,1
+blair,PLAYER,1
+hastings,PLAYER,1
+22 million,MONEY,1
+us equal employment opportunity commission,ORG_OTHER,1
+end of march,DATE,1
+cindy cone,PLAYER,1
+cindy,PLAYER,1
+last two weeks,DATE,1
+nadia nadim,PLAYER,1
+afghanistan,LOCATION,1
+almost 90000,MONEY,1
+afghan,NATIONALITY,1
+game of our lives gol,MISC,1
+humane ukraine,PLAYER,1
+gol,ORG_OTHER,1
+first two,DATE,1
+185,NUMERIC,1
+076,NUMERIC,1
+two minutes,TIME,1
+opening weekend of the season,DATE,1
+champions league final,ORG_OTHER,1
+this last year,DATE,1
+adriana leons,PLAYER,1
+claudia walker,PLAYER,1
+leonie maier,PLAYER,1
+ingrid moe wold,PLAYER,1
+rikke sevecke,ORG_OTHER,1
+nicoline sorensen,PLAYER,1
+uefa player of,MISC,1
+2016-17,DATE,1
+only nine,NUMERIC,1
+45,NUMERIC,1
+127,NUMERIC,1
+one season,DATE,1
+frauen bundesliga,ORG_OTHER,1
+new manchester united,LOCATION,1
+nine and a half,DATE,1
+415,NUMERIC,1
+three this season,DATE,1
+megan finnigans,PLAYER,1
+city academy stadium,ORG_OTHER,1
+april 2018,DATE,1
+team of the tournament,ORG_OTHER,1
+-074,ORG_OTHER,1
+060,NUMERIC,1
+125,NUMERIC,1
+rafaelle souza,PLAYER,1
+almost two metres,MISC,1
+300 minutes,TIME,1
+frida maanum,PLAYER,1
+pelova,ORG_OTHER,1
+maanum,PLAYER,1
+071,NUMERIC,1
+bunny shaws,PLAYER,1
+068,NUMERIC,1
+062,NUMERIC,1
+103 xg,MONEY,1
+073,NUMERIC,1
+057,NUMERIC,1
+016,NUMERIC,1
+past couple of seasons,DATE,1
+six-yard,MISC,1
+196 to 170,NUMERIC,1
+77th,NUMERIC,1
+rehanne skinners,PLAYER,1
+just over 23 full 90s,DATE,1
+last two and half seasons,DATE,1
+nikola karczewska,PLAYER,1
+more than 45 minutes,TIME,1
+055 xg,MONEY,1
+056,NUMERIC,1
+almost identical minutes,TIME,1
+198,NUMERIC,1
+008,NUMERIC,1
+karczewska,PLAYER,1
+sunday january 9 2022,DATE,1
+gmt,ORG_OTHER,1
+west,LOCATION,1
+itv1,ORG_OTHER,1
+itv hub,ORG_OTHER,1
+david james,PLAYER,1
+𝟭𝟱𝟬 years,DATE,1
+leeds united,CLUB,1
+bournemouth championship 3,ORG_OTHER,1
+league 5,ORG_OTHER,1
+liverpool premier league 7 cardiff city / preston north end championship 8,ORG_OTHER,1
+brighton premier league,ORG_OTHER,1
+kidderminster harriers national league north 12,ORG_OTHER,1
+leicester city premier league,ORG_OTHER,1
+middlesbrough championship,ORG_OTHER,1
+hartlepool united league,ORG_OTHER,1
+everton premier league,ORG_OTHER,1
+fulham championship 17,ORG_OTHER,1
+tottenham premier league,ORG_OTHER,1
+brentford premier league,ORG_OTHER,1
+manchester city premier league,ORG_OTHER,1
+wigan athletic league,ORG_OTHER,1
+luton town championship,LOCATION,1
+plymouth argyle league,ORG_OTHER,1
+manchester united / aston villa,ORG_OTHER,1
+wolves premier league,ORG_OTHER,1
+united league,ORG_OTHER,1
+barnsley championship 28,ORG_OTHER,1
+qpr championship,ORG_OTHER,1
+norwich city premier league,ORG_OTHER,1
+nottingham forest / arsenal championship / premier league,ORG_OTHER,1
+weekend of february 5,DATE,1
+february 6 2022,DATE,1
+approximately a month,DATE,1
+rylee foster,PLAYER,1
+march 1,DATE,1
+matt,PLAYER,1
+west virginia university's,ORG_OTHER,1
+nine months later,DATE,1
+march last year,DATE,1
+a thrilling month,DATE,1
+sunday june 26,DATE,1
+a century,DATE,1
+more than a hundred,NUMERIC,1
+scotland women's,ORG_OTHER,1
+pinatar cup,EVENT_OTHER,1
+17-month,DATE,1
+glasgow city's,LOCATION,1
+abi harrison,PLAYER,1
+kirsty maclean,PLAYER,1
+emma mukandi,PLAYER,1
+rachel mclauchlan,PLAYER,1
+pedro martinez losa,PLAYER,1
+pinatar cup,MISC,1
+scotland women,ORG_OTHER,1
+2024,NUMERIC,1
+slovenia,LOCATION,1
+jenna clark,PLAYER,1
+rachel corsie,PLAYER,1
+nicola docherty,PLAYER,1
+hibernian fc,ORG_OTHER,1
+claire emslie,PLAYER,1
+jenna fife,PLAYER,1
+lee gibson,PLAYER,1
+christy grimshaw,PLAYER,1
+kirsty hanson,PLAYER,1
+brogan hay,PLAYER,1
+sophie howard,PLAYER,1
+leicester city fc,ORG_OTHER,1
+sam kerr fc,PLAYER,1
+bayern frauen,ORG_OTHER,1
+manchester city fc,ORG_OTHER,1
+jamie lee napier,PLAYER,1
+amy rodgers,PLAYER,1
+tottenham hotspur,CLUB,1
+first 10 minutes,TIME,1
+21,DATE,1
+vladko andonovski,PLAYER,1
+fifth and eighth minutes,DATE,1
+brace queen,MISC,1
+pictwittercom/fhfl2yry1f smith,PLAYER,1
+38 minutes,TIME,1
+40th,NUMERIC,1
+jitka klimkova,PLAYER,1
+klimkova,PLAYER,1
+age 25,DATE,1
+a tougher day,DATE,1
+one minute,TIME,1
+51st-minute,TIME,1
+nov 27,DATE,1
+24 seconds,TIME,1
+scores 316,ORG_OTHER,1
+kickofffeb,ORG_OTHER,1
+last summers,DATE,1
+naeher,PLAYER,1
+casey,PLAYER,1
+womens champions leagues,ORG_OTHER,1
+bacha,PLAYER,1
+lyon academy,ORG_OTHER,1
+nuria rábano,PLAYER,1
+vicky lópez,PLAYER,1
+european champion,ORG_OTHER,1
+10 or more metres,MISC,1
+three this summer,DATE,1
+womens european championships,ORG_OTHER,1
+last couple of seasons,DATE,1
+seventeen,NUMERIC,1
+pajor,PLAYER,1
+paris saint germain,LOCATION,1
+at least 15,NUMERIC,1
+six league seasons,DATE,1
+diani,LOCATION,1
+paulina dudek,PLAYER,1
+season-long,DATE,1
+dudek,PLAYER,1
+parisian,NATIONALITY,1
+10 metre,MISC,1
+59,MISC,1
+lawrence,PLAYER,1
+karchaoui,PLAYER,1
+96,NUMERIC,1
+tony macaroni arena,LOCATION,1
+livingston,ORG_OTHER,1
+february 18,DATE,1
+motherwell vs celtic,ORG_OTHER,1
+motherwell,NATIONALITY,1
+tynecastle park,LOCATION,1
+march 17,DATE,1
+sunday february 18,DATE,1
+st johnstone,PLAYER,1
+8pm wednesday,TIME,1
+sunday march 17,DATE,1
+dundee vs rangers,ORG_OTHER,1
+sunday march 31,DATE,1
+friday march 18 9pm gmt,DATE,1
+tuesday march 22,DATE,1
+joe ravitch,PLAYER,1
+raine group llc,ORG_OTHER,1
+united kingdom and,LOCATION,1
+centricus,ORG_OTHER,1
+39bn,MONEY,1
+nizar al-bassam,PLAYER,1
+garth ritchie,PLAYER,1
+jonathan lourie,PLAYER,1
+cheyne capital,ORG_OTHER,1
+talis capitals,ORG_OTHER,1
+bob finch,PLAYER,1
+nick candy's,PLAYER,1
+blue football consortium,ORG_OTHER,1
+gianluca vialli,PLAYER,1
+tifosy capital & advisory,ORG_OTHER,1
+candy's,ORG_OTHER,1
+candy,PLAYER,1
+ricketts family,PLAYER,1
+hansjorg wyss,ORG_OTHER,1
+true blues,ORG_OTHER,1
+september 4 2022,DATE,1
+cádiz vs athletic,ORG_OTHER,1
+sassoulo,NATIONALITY,1
+cremonese,PLAYER,1
+monza,MISC,1
+serie a chelsea,ORG_OTHER,1
+ac,ORG_OTHER,1
+brentford bt sport,ORG_OTHER,1
+3/6,NUMERIC,1
+fulham vs brighton & hove albion bt sport,ORG_OTHER,1
+4/7,NUMERIC,1
+chelsea bt sport,ORG_OTHER,1
+2/5,NUMERIC,1
+middlesbrough sky sports main event/football/ultra,ORG_OTHER,1
+everton bt sport 1/ultimate arsenal,ORG_OTHER,1
+mid-week,DATE,1
+sepczia,LOCATION,1
+viktoria cologne,PLAYER,1
+4 730pm man,MISC,1
+lecce bt sport,PLAYER,1
+bayern munich premier,ORG_OTHER,1
+blackpool,LOCATION,1
+10 8pm,TIME,1
+8 8pm,TIME,1
+montreal,LOCATION,1
+houston dynamo,ORG_OTHER,1
+los angeles fc freesports,ORG_OTHER,1
+az,LOCATION,1
+nec nijmegen mola tv,ORG_OTHER,1
+atalanta vs torino bt sport,ORG_OTHER,1
+5 8pm,TIME,1
+wales/iplayer,ORG_OTHER,1
+bbc alba,ORG_OTHER,1
+iplayer,ORG_OTHER,1
+burnley sky sports football,ORG_OTHER,1
+cádiz,LOCATION,1
+1230pm everton,ORG_OTHER,1
+liverpool bt sport 1/ultimate 1230pm celtic,ORG_OTHER,1
+real mallorca,LOCATION,1
+bt sport 1/ultimate 530pm real sociedad,ORG_OTHER,1
+lazio,CLUB,1
+minnesota,LOCATION,1
+united vs fc,ORG_OTHER,1
+dallas freesports 1030pm,ORG_OTHER,1
+columbus,ORG_OTHER,1
+chicago fire premier sports 2,ORG_OTHER,1
+united vs arsenal,ORG_OTHER,1
+nashville,LOCATION,1
+1130am,NUMERIC,1
+4 12pm,TIME,1
+3 1pm,TIME,1
+osasuna,CLUB,1
+2pm reims,TIME,1
+3 2pm,TIME,1
+spezia,LOCATION,1
+315pm,NUMERIC,1
+bilbao,ORG_OTHER,1
+espanyol,LOCATION,1
+405pm,NUMERIC,1
+verona,CLUB,1
+elche,LOCATION,1
+monaco bt sport,ORG_OTHER,1
+getafe,CLUB,1
+sports 1,ORG_OTHER,1
+around five minutes late,TIME,1
+https//tco/phm14x6fbn,PLAYER,1
+last-minute,TIME,1
+tabea wassmuth's,PLAYER,1
+jesse parker humphreys,PLAYER,1
+start of 2021,DATE,1
+only 16 minutes,TIME,1
+remaining 74 minutes,TIME,1
+77,NUMERIC,1
+73,NUMERIC,1
+scots,NATIONALITY,1
+olivia moultrie,PLAYER,1
+seven-year-old,DATE,1
+number two,NUMERIC,1
+number four,NUMERIC,1
+nwsl pictwittercom/hn84beguih soccer,PLAYER,1
+liv,PLAYER,1
+only 16,NUMERIC,1
+university of north carolina,ORG_OTHER,1
+age 11,DATE,1
+meghan klingenberg,PLAYER,1
+nwsl mvp,ORG_OTHER,1
+world cups,MISC,1
+feminine division 1,MISC,1
+a golden ball,LOCATION,1
+october 17,DATE,1
+player of the year,MISC,1
+𝐒𝐞𝐚𝐬𝐨𝐧,ORG_OTHER,1
+technical observer,ORG_OTHER,1
+fcbfemeni lyon,ORG_OTHER,1
+fifa ultimate team,ORG_OTHER,1
+september 27,DATE,1
+4600,NUMERIC,1
+fut draft,EVENT_OTHER,1
+xbox one,MISC,1
+ones to watch out,ORG_OTHER,1
+august 21st,DATE,1
+hero player,ORG_OTHER,1
+november 11th,DATE,1
+ps4 / xbox one 5999 / 5999 8999 / 9999 pc 4999 / 5999 7999 /,ORG_OTHER,1
+standard edition fifa,ORG_OTHER,1
+team of the week 1 player,ORG_OTHER,1
+aug 21,DATE,1
+harry brinkley,PLAYER,1
+twenty-three,NUMERIC,1
+sammy kent,PLAYER,1
+2600,MONEY,1
+may this year,DATE,1
+manuel,PLAYER,1
+october-ish,DATE,1
+eight years ago,DATE,1
+150,MONEY,1
+trisha bergonzi,PLAYER,1
+73,DATE,1
+st patrick's day,PLAYER,1
+12,DATE,1
+evertonian,NATIONALITY,1
+evertonians,NATIONALITY,1
+about eight mins,TIME,1
+bloody,PLAYER,1
+scotland road,LOCATION,1
+liverpool docks,ORG_OTHER,1
+liverpool football club,ORG_OTHER,1
+clerkenwell,ORG_OTHER,1
+elvis,PLAYER,1
+nathan jarvis,PLAYER,1
+forty-nine,NUMERIC,1
+about 18,NUMERIC,1
+european cup,EVENT_OTHER,1
+sunbury,LOCATION,1
+jason davies,PLAYER,1
+about 4,NUMERIC,1
+últimes,ORG_OTHER,1
+disponibles aquí,ORG_OTHER,1
+1607 minutes,TIME,1
+https//tco/evvjpt5xcf,ORG_OTHER,1
+bc place,ORG_OTHER,1
+vancouver,LOCATION,1
+starlight stadium,LOCATION,1
+john textor,PLAYER,1
+few years,DATE,1
+86 million,MONEY,1
+90 million,MONEY,1
+around 800 million,MONEY,1
+840 million,MONEY,1
+botafogo,ORG_OTHER,1
+molenbeek,LOCATION,1
+home of football,ORG_OTHER,1
+2012,EVENT_OTHER,1
+5pm on,TIME,1
+saturday july 30,DATE,1
+england year,EVENT_OTHER,1
+ricoh arena,ORG_OTHER,1
+coventry,LOCATION,1
+ewood park,LOCATION,1
+leicester tigers,ORG_OTHER,1
+southern california,LOCATION,1
+associated press,ORG_OTHER,1
+2x,NUMERIC,1
+world cup champion,EVENT_OTHER,1
+olympic gold medalist,ORG_OTHER,1
+angel city fc,LOCATION,1
+barca 10 years,ORG_OTHER,1
+27 years,DATE,1
+ignacio quereda,PLAYER,1
+eventful year,DATE,1
+lloyd's,ORG_OTHER,1
+late-season,DATE,1
+culers,PLAYER,1
+year 1,DATE,1
+2019 5,DATE,1
+60739,NUMERIC,1
+114th wsl,ORG_OTHER,1
+each week,DATE,1
+89th-minute,TIME,1
+midge purce,MISC,1
+libeth ovalle,LOCATION,1
+89th,NUMERIC,1
+emily sonnett's,PLAYER,1
+mewis,PLAYER,1
+scoreless,NUMERIC,1
+90 seconds,TIME,1
+john bull,PLAYER,1
+king,PLAYER,1
+george ii,PLAYER,1
+hen wlad fy nhadau,PLAYER,1
+old land of my fathers,MISC,1
+labour mp,ORG_OTHER,1
+toby perkins,PLAYER,1
+perkins,PLAYER,1
+british national anthem,ORG_OTHER,1
+perkins,ORG_OTHER,1
+cardiff,LOCATION,1
+scottish football association,ORG_OTHER,1
+sfa,ORG_OTHER,1
+4000,MONEY,1
+scouse,NATIONALITY,1
+jim shaw,PLAYER,1
+belfast telegraph,ORG_OTHER,1
+irish fa,ORG_OTHER,1
+stormont,ORG_OTHER,1
+2012 olympics,EVENT_OTHER,1
+some quarters,NUMERIC,1
+liechtenstein,LOCATION,1
+jungen rhein,PLAYER,1
+young rhine,ORG_OTHER,1
+commonwealth,ORG_OTHER,1
+katie meyer,PLAYER,1
+22,DATE,1
+susie brubaker-cole,PLAYER,1
+bernard muir,PLAYER,1
+cardinal,MISC,1
+last summer's,DATE,1
+nine-month,DATE,1
+april 2023,DATE,1
+euro 2025,MISC,1
+march 5,DATE,1
+download the sky sports app get sky sports stream,MISC,1
+a number of months,DATE,1
+paris olympics,ORG_OTHER,1
+close to a year,DATE,1
+grace clinton,PLAYER,1
+georgia stanway bayern munich,ORG_OTHER,1
+rovers,ORG_OTHER,1
+raith rovers fc,ORG_OTHER,1
+clyde fc,LOCATION,1
+community club,ORG_OTHER,1
+past 24 hours,TIME,1
+raith rovers football club,ORG_OTHER,1
+ten years ago,DATE,1
+john sim,PLAYER,1
+past few days,DATE,1
+past couple of days,DATE,1
+david robertson,PLAYER,1
+denise clair,PLAYER,1
+clair,ORG_OTHER,1
+robertson,PLAYER,1
+plymouth argyle,ORG_OTHER,1
+league two,LOCATION,1
+tyler rattray,PLAYER,1
+10 long years,DATE,1
+bill clark,PLAYER,1
+rattray,ORG_OTHER,1
+nicola sturgeon,PLAYER,1
+gordon brown,PLAYER,1
+national domestic violence hotline,ORG_OTHER,1
+barclays women's super league,ORG_OTHER,1
+barclays women's championship,ORG_OTHER,1
+february 16,DATE,1
+kaveh solhekol,PLAYER,1
+live premier league,ORG_OTHER,1
+get sky sports,MISC,1
+a quarter,DATE,1
+end of this week,DATE,1
+early next week,DATE,1
+300m,MONEY,1
+238,MONEY,1
+independent oversight panel,ORG_OTHER,1
+christmas eve,DATE,1
+300million,MONEY,1
+up to,NUMERIC,1
+33,MONEY,1
+26,MONEY,1
+end of 2024,DATE,1
+29 per cent,MONEY,1
+49,MISC,1
+more than a decade,DATE,1
+recent days,DATE,1
+manchester united supporters' trust,ORG_OTHER,1
+trafford council,ORG_OTHER,1
+greater manchester,LOCATION,1
+andy burnham,PLAYER,1
+71-year-old,DATE,1
+pictwittercom/xfqb5apglg wiegman,PLAYER,1
+over 70000,NUMERIC,1
+london olympics,ORG_OTHER,1
+70000-plus,MISC,1
+these last six weeks,DATE,1
+asia cup,EVENT_OTHER,1
+ralf rangnick,PLAYER,1
+xavi,PLAYER,1
+romario,PLAYER,1
+diego maradona,PLAYER,1
+kobbie mainoo's,PLAYER,1
+casemiro,PLAYER,1
+saul,PLAYER,1
+canelo,PLAYER,1
+alvarez,PLAYER,1
+may 4,DATE,1
+jermall charlo,PLAYER,1
+jaime munguia,PLAYER,1
+daily telegraph newcastle,ORG_OTHER,1
+oliver glasner,PLAYER,1
+six nations,ORG_OTHER,1
+newcastle falcons,ORG_OTHER,1
+guy pepper,PLAYER,1
+roberto de zerbi,PLAYER,1
+jack grealish,PLAYER,1
+30mph,MISC,1
+joao cancelo,PLAYER,1
+nou camp,LOCATION,1
+nicolas jackson,PLAYER,1
+gary o'neil's,PLAYER,1
+pedro neto,PLAYER,1
+luke humphries,PLAYER,1
+jurjen,PLAYER,1
+velde,PLAYER,1
+players championship,EVENT_OTHER,1
+daily,ORG_OTHER,1
+christian horner,PLAYER,1
+red bull's,ORG_OTHER,1
+hugo broos,PLAYER,1
+lyle foster,PLAYER,1
+anne hidalgo,PLAYER,1
+parc des princes,LOCATION,1
+ahmed musa,PLAYER,1
+alex iwobi,PLAYER,1
+735000,MONEY,1
+625000,MONEY,1
+paris saint-germain's,LOCATION,1
+fabian ruiz,PLAYER,1
+super rugby pacific,ORG_OTHER,1
+dupont,ORG_OTHER,1
+liam scales,PLAYER,1
+philippe clement,PLAYER,1
+ibrox,ORG_OTHER,1
+neil warnock,PLAYER,1
+duk,PLAYER,1
+highland league,ORG_OTHER,1
+andrew mckinlay,PLAYER,1
+womens world cup group e,EVENT_OTHER,1
+matchday 2,DATE,1
+francisco netos,PLAYER,1
+vietnam 2-0,EVENT_OTHER,1
+d2 l6,MISC,1
+usa,ORG_OTHER,1
+w15 d4,MISC,1
+womens world cup,MISC,1
+a sam mewis,PLAYER,1
+725,MISC,1
+group e,ORG_OTHER,1
+104,MISC,1
+47,MISC,1
+171,MISC,1
+inês pereira,PLAYER,1
+catarina amado,PLAYER,1
+lúcia alves,PLAYER,1
+sílvia rebelo,PLAYER,1
+joana marchão,PLAYER,1
+andreia jacinto,PLAYER,1
+ana rute,PLAYER,1
+andreia norton,PLAYER,1
+ana borges,PLAYER,1
+jéssica silva,PLAYER,1
+tatiana pinto,PLAYER,1
+patrícia morais,PLAYER,1
+fátima pinto,PLAYER,1
+dolores silva,PLAYER,1
+carole costa,PLAYER,1
+diana silva,PLAYER,1
+ana seiça,PLAYER,1
+carolina mendes,PLAYER,1
+diana gomes,PLAYER,1
+francisca nazareth,PLAYER,1
+ana capeta,PLAYER,1
+rute costa,ORG_OTHER,1
+crystal dunn,PLAYER,1
+savannah demelo,PLAYER,1
+trinity rodman,PLAYER,1
+alyssa thompson,PLAYER,1
+vitaliy mykolenko,PLAYER,1
+dynamo kiev,ORG_OTHER,1
+february 26,DATE,1
+artem dzyuba,PLAYER,1
+68-year-old,DATE,1
+bryant,ORG_OTHER,1
+house of commons,ORG_OTHER,1
+howard webb,PLAYER,1
+pgmol,GOVERNING_BODY,1
+premier league agm,ORG_OTHER,1
+anthony taylor,PLAYER,1
+12 months ago,DATE,1
+brexit,PLAYER,1
+nb alexia putellas,PLAYER,1
+only 23 years old,DATE,1
+1201 minutes,TIME,1
+only 192,NUMERIC,1
+sophie ingle,PLAYER,1
+jessica carter,PLAYER,1
+ingle,PLAYER,1
+jonas eidevalls,PLAYER,1
+mid-season,DATE,1
+leah williamsons,PLAYER,1
+more than 60,MISC,1
+80,MISC,1
+greenwood,ORG_OTHER,1
+over 1000,NUMERIC,1
+1023,NUMERIC,1
+244,NUMERIC,1
+lauren hemp,LOCATION,1
+204 yards,MISC,1
+shannon obrien,LOCATION,1
+more than 1000 minutes,TIME,1
+maya,PLAYER,1
+jemma purfield,PLAYER,1
+113,NUMERIC,1
+chelsea and arsenal,ORG_OTHER,1
+lydia bedford,PLAYER,1
+only euro 2005,MONEY,1
+333,NUMERIC,1
+325,NUMERIC,1
+just over 10,MISC,1
+2022 uefa womens euros,ORG_OTHER,1
+opening minute,TIME,1
+linda sällström,PLAYER,1
+48 seconds,TIME,1
+46 seconds,TIME,1
+karen farley,PLAYER,1
+linda medalen,PLAYER,1
+1989,DATE,1
+846,NUMERIC,1
+between six and seven,NUMERIC,1
+belgians,NATIONALITY,1
+33rd,NUMERIC,1
+berglind thorvaldsdottirs first half,PLAYER,1
+evrard,PLAYER,1
+25,MISC,1
+288,MISC,1
+294,MISC,1
+alessia russos,PLAYER,1
+8,MISC,1
+26 years,DATE,1
+97 days,DATE,1
+putellas,EVENT_OTHER,1
+29 years old,DATE,1
+youll,LOCATION,1
+791,MISC,1
+671,MISC,1
+553,MISC,1
+517,MISC,1
+483,MISC,1
+inglewood,LOCATION,1
+joe burrow,PLAYER,1
+rams,ORG_OTHER,1
+christian pulisic,PLAYER,1
+philadelphia eagles,LOCATION,1
+pittsburgh,LOCATION,1
+2021 international series,EVENT_OTHER,1
+house,ORG_OTHER,1
+weston mckennie,PLAYER,1
+washington commanders,ORG_OTHER,1
+200 pounds,MISC,1
+matt turner,PLAYER,1
+new england patriots,ORG_OTHER,1
+new england revolution,ORG_OTHER,1
+pats,PLAYER,1
+tennessee,LOCATION,1
+geoff cameron,PLAYER,1
+fc cincinnati,ORG_OTHER,1
+timothy weah,PLAYER,1
+george,PLAYER,1
+brooklyn,LOCATION,1
+jordan morris,PLAYER,1
+lumen field,LOCATION,1
+seahawks,NATIONALITY,1
+gohawks pictwittercom/nj4l3gt1ae,PLAYER,1
+tyler adams,PLAYER,1
+odell beckham jr,PLAYER,1
+ram,MISC,1
+big apple,ORG_OTHER,1
+giants,ORG_OTHER,1
+zach ertz,PLAYER,1
+arizona cardinals,ORG_OTHER,1
+vince lombardi trophy,PLAYER,1
+roselavelle & every bengals,ORG_OTHER,1
+superbowl,MONEY,1
+sbllll,ORG_OTHER,1
+asmir begovic,PLAYER,1
+green bay packers,ORG_OTHER,1
+sundayssss,MISC,1
+david alaba,PLAYER,1
+ex-manchester city,ORG_OTHER,1
+sergio aguero,PLAYER,1
+cowboys,ORG_OTHER,1
+christian fuchs,PLAYER,1
+new york giants,ORG_OTHER,1
+eric dier,PLAYER,1
+jamal musiala,PLAYER,1
+detroit lions,ORG_OTHER,1
+amon-ra st brown,PLAYER,1
+detroit,LOCATION,1
+zlatan ibrahimovic,PLAYER,1
+david bakhitari,PLAYER,1
+aaron rodgers,PLAYER,1
+lambeau field,LOCATION,1
+nwsl rookie,ORG_OTHER,1
+borussia dortmund's,ORG_OTHER,1
+jude bellingham,PLAYER,1
+no4,DATE,1
+alexis missimo,PLAYER,1
+tigres,PLAYER,1
+jana gutierrez,PLAYER,1
+houston dash's,ORG_OTHER,1
+paulina gramaglia,PLAYER,1
+just over an hour,TIME,1
+reims,LOCATION,1
+only 3-0,NUMERIC,1
+12th minute,TIME,1
+chinese taipai,ORG_OTHER,1
+a single half,NUMERIC,1
+argentines,NATIONALITY,1
+15-1,NUMERIC,1
+59th,NUMERIC,1
+célia šašić,ORG_OTHER,1
+opening 31 minutes,TIME,1
+simone laudehr,PLAYER,1
+melanie behringer,PLAYER,1
+dominique thiamale,PLAYER,1
+five day,DATE,1
+10-0,NUMERIC,1
+between the 47th and 52nd,DATE,1
+fifa world cup,ORG_OTHER,1
+7-2,NUMERIC,1
+nigeria 7-1,EVENT_OTHER,1
+1991 quarter-finals,DATE,1
+2003 quarters,DATE,1
+as many as seven,NUMERIC,1
+hypermotion,ORG_OTHER,1
+ai,ORG_OTHER,1
+fifa 23 gameplay,MISC,1
+deep dive,MISC,1
+fut icons and heroes,ORG_OTHER,1
+november 21,DATE,1
+cross-play,ORG_OTHER,1
+piemonte calcio,LOCATION,1
+nottingham forest's,ORG_OTHER,1
+bianconeri,PLAYER,1
+seventy-five days,DATE,1
+30th year,DATE,1
+viking thunder clap,PLAYER,1
+isl,MONEY,1
+toronto,LOCATION,1
+st patrick's,PLAYER,1
+kerala blasters,ORG_OTHER,1
+persepolis,LOCATION,1
+alphonso davies,PLAYER,1
+canada women's,ORG_OTHER,1
+davies,ORG_OTHER,1
+jordyn,PLAYER,1
+division 1 feminine,ORG_OTHER,1
+arnold palmer cup,PLAYER,1
+livescore,ORG_OTHER,1
+home of fifa,MISC,1
+past season,DATE,1
+best awards,ORG_OTHER,1
+2pm et,TIME,1
+10am pt,TIME,1
+fifa puskas award,ORG_OTHER,1
+a number of hours,TIME,1
+chowdhury,PLAYER,1
+eurosport,ORG_OTHER,1
+jenas,PLAYER,1
+match of the day,MISC,1
+thebest fifa awards,ORG_OTHER,1
+6pm / cet 7pm fifacom fifamedia pictwittercom/95d605iwoq,TIME,1
+best women's player,ORG_OTHER,1
+just after the hour,TIME,1
+just 11 minutes,TIME,1
+we league,ORG_OTHER,1
+110,NUMERIC,1
+south korea's,LOCATION,1
+wk league,ORG_OTHER,1
+only 33,NUMERIC,1
+group a team league no,ORG_OTHER,1
+china chinese women's super league 2020,ORG_OTHER,1
+september to october,DATE,1
+chinese women's super league,ORG_OTHER,1
+april to october,DATE,1
+76,DATE,1
+taipei taiwan mulan league,ORG_OTHER,1
+april to november,DATE,1
+taiwan mulan league,ORG_OTHER,1
+april to december,DATE,1
+90,DATE,1
+4545,DATE,1
+november 2020 - march 2021,DATE,1
+7272,DATE,1
+india iwl,ORG_OTHER,1
+2019/20,NUMERIC,1
+group b team league no,ORG_OTHER,1
+dec 2020 to april 2021,DATE,1
+112,NUMERIC,1
+56,DATE,1
+2021/22 season,DATE,1
+philippines pff womens league,ORG_OTHER,1
+liga 1,ORG_OTHER,1
+putri,NATIONALITY,1
+group c team league no,ORG_OTHER,1
+nadeshiko league,ORG_OTHER,1
+12 september 2021,DATE,1
+21 may 2022,DATE,1
+south korea wk league,LOCATION,1
+june to november 2020,DATE,1
+wk league 2021,ORG_OTHER,1
+april to november 2021,DATE,1
+168,NUMERIC,1
+vietnamese women's football championship,ORG_OTHER,1
+september to december,DATE,1
+november 80,DATE,1
+myanmar women's league,ORG_OTHER,1
+2018/19,NUMERIC,1
+livingston 3-0,ORG_OTHER,1
+dundee 3-2,ORG_OTHER,1
+second half from one,DATE,1
+caolan boyd-munce,PLAYER,1
+forrest,PLAYER,1
+st mirren's,ORG_OTHER,1
+alex gogic,PLAYER,1
+two interceptions,MISC,1
+918,NUMERIC,1
+tavernier,ORG_OTHER,1
+vitalii mykolenko,PLAYER,1
+uzbek,NATIONALITY,1
+farhad moshiri,PLAYER,1
+eu,LOCATION,1
+official journal of the european union,ORG_OTHER,1
+megafon,ORG_OTHER,1
+moshiri,ORG_OTHER,1
+finch farm,ORG_OTHER,1
+30 million,MONEY,1
+charles i,PLAYER,1
+16th century,DATE,1
+ferran soriano,PLAYER,1
+sorriano,ORG_OTHER,1
+red bull group,ORG_OTHER,1
+less than 24 hours,TIME,1
+last-eight,DATE,1
+comunicaciones,MISC,1
+asian football confederation's,ORG_OTHER,1
+yokohama f marinos -,PLAYER,1
+j1 league,ORG_OTHER,1
+sichuan jiuniu,LOCATION,1
+cfg,ORG_OTHER,1
+sheikh mansour,PLAYER,1
+lommel,ORG_OTHER,1
+douglas luiz,PLAYER,1
+yangel herrera,PLAYER,1
+domenec torrent,PLAYER,1
+des buckingham,LOCATION,1
+nick cushing,PLAYER,1
+manchester city women,ORG_OTHER,1
+etihad city football academy,ORG_OTHER,1
+orangeburg,LOCATION,1
+rockland county,LOCATION,1
+etihad campus,LOCATION,1
+montevideo city torque,LOCATION,1
+pep guardiola's,PLAYER,1
+city football academy,ORG_OTHER,1
+nycfc,ORG_OTHER,1
+cushing,PLAYER,1
+sporting,CLUB,1
+im 25,MISC,1
+hopefully arsenal,ORG_OTHER,1
+83,NUMERIC,1
+74,NUMERIC,1
+heerenveen,ORG_OTHER,1
+52,DATE,1
+five-and,MISC,1
+more than,NUMERIC,1
+47-year-old,DATE,1
+âmummyâs,ORG_OTHER,1
+mummy,PLAYER,1
+less hours,TIME,1
+vlatko adanovskiâs,PLAYER,1
+sid,PLAYER,1
+age 82,DATE,1
+âso,NUMERIC,1
+end of this season,DATE,1
+last november,DATE,1
+theyâve,ORG_OTHER,1
+womenâs champions league,ORG_OTHER,1
+two or three years ago,DATE,1
+mapi leon,PLAYER,1
+markel zubizarreta,PLAYER,1
+jonatan giraldezs,PLAYER,1
+la masia,LOCATION,1
+85000,NUMERIC,1
+46299,NUMERIC,1
+estadia,LOCATION,1
+mini estadi,LOCATION,1
+gerard pique,PLAYER,1
+ansu fati,PLAYER,1
+marc-andre ter stegen,PLAYER,1
+jordi alba,PLAYER,1
+sandra panos,PLAYER,1
+ingrid engen,PLAYER,1
+these days,DATE,1
+six or seven years ago,DATE,1
+cyprus,LOCATION,1
+a few days,DATE,1
+groningen,LOCATION,1
+u17 european championships,ORG_OTHER,1
+u17s,ORG_OTHER,1
+may 2019,DATE,1
+her first few months,DATE,1
+merseyside,LOCATION,1
+569,MISC,1
+2001,DATE,1
+end of the month,DATE,1
+a womens european championship,ORG_OTHER,1
+sarah wiegman,PLAYER,1
+up to euro 2022,MONEY,1
+lyon days,ORG_OTHER,1
+only 12,NUMERIC,1
+117 passes,MISC,1
+at least 50,MISC,1
+more than nine,NUMERIC,1
+209,MISC,1
+206,MISC,1
+199,MISC,1
+matt sisneros,PLAYER,1
+2024 season,DATE,1
+my first day,DATE,1
+jessica berman,PLAYER,1
+first three months,DATE,1
+2023 season,DATE,1
+laura blindkilde brown,PLAYER,1
+aston villas,PLAYER,1
+this past season,DATE,1
+last september,DATE,1
+her to the summer of 2025,DATE,1
+laura,PLAYER,1
+blindkilde brown,ORG_OTHER,1
+u9s,PLAYER,1
+10 years later,DATE,1
+blindkilde browns,ORG_OTHER,1
+u19s,ORG_OTHER,1
+every year before summer,DATE,1
+every other year,DATE,1
+u19 euros,LOCATION,1
+wednesday july 20 2022,DATE,1
+worlds game welcome,ORG_OTHER,1
+mens and womens fifa world cups,ORG_OTHER,1
+womens club football,ORG_OTHER,1
+monthly,DATE,1
+12 years,DATE,1
+wsl player,ORG_OTHER,1
+first month of 2024,DATE,1
+january 27,DATE,1
+nc,LOCATION,1
+nadeshikos,ORG_OTHER,1
+null & void null & void 5-0,ORG_OTHER,1
+0-1 january 30,DATE,1
+three quarter,DATE,1
+february 2,DATE,1
+february 6,DATE,1
+3-2,NUMERIC,1
+golden boot,LOCATION,1
+li ying,PLAYER,1
+yang li,PLAYER,1
+park eun-sun,PLAYER,1
+eurosport australia,ORG_OTHER,1
+navi mumbai,LOCATION,1
+indian super league,ORG_OTHER,1
+mumbai city fc,ORG_OTHER,1
+18000,NUMERIC,1
+fifa u-17 world cup,EVENT_OTHER,1
+55000,NUMERIC,1
+shiv chhatrapati stadium,MISC,1
+fc pune city,LOCATION,1
+11900,NUMERIC,1
+apple podcasts,ORG_OTHER,1
+stats out of context,MISC,1
+end of one season,DATE,1
+2022/23,NUMERIC,1
+nikefootball pictwittercom/oc5poeeec2,PLAYER,1
+salim adam,PLAYER,1
+dare to do true,MISC,1
+nike elite,ORG_OTHER,1
+drifit adv,MISC,1
+11500,MONEY,1
+9000,MONEY,1
+north london,LOCATION,1
+5500,MONEY,1
+6600,MONEY,1
+arsenal women's,ORG_OTHER,1
+mertesacker,PLAYER,1
+u16,ORG_OTHER,1
+2006-07,DATE,1
+mid-afternoon,TIME,1
+later that day,DATE,1
+molineux stadium,LOCATION,1
+375,MONEY,1
+over 65,NUMERIC,1
+fifa world cup 2023 final,ORG_OTHER,1
+0701 am,TIME,1
+doodle football,ORG_OTHER,1
+supporters' trust women's supporters trust,ORG_OTHER,1
+atalanta co-,ORG_OTHER,1
+larry tanenbaum,PLAYER,1
+pagliuca,ORG_OTHER,1
+tenenbaum,PLAYER,1
+european super league,ORG_OTHER,1
+10 percent,MISC,1
+john terry-led,PLAYER,1
+stephen pagliucafull statement,PLAYER,1
+sportico,ORG_OTHER,1
+denver,LOCATION,1
+broncos,MISC,1
+more than 25 billion,MONEY,1
+ricketts-griffin-gilbert group,PLAYER,1
+eleventh hour,TIME,1
+206,NUMERIC,1
+september 2017,DATE,1
+lacazette,PLAYER,1
+alongside nketiah,PLAYER,1
+lacazette arsenal,ORG_OTHER,1
+jonathan dinzeyi,PLAYER,1
+joel lopez,PLAYER,1
+jordan mceneff,PLAYER,1
+u18,LOCATION,1
+u23,ORG_OTHER,1
+confirmation,ORG_OTHER,1
+viktoria schanderbeck,PLAYER,1
+thursday june 16,DATE,1
+blaugrana,LOCATION,1
+champions of europe,ORG_OTHER,1
+olfeminin,NATIONALITY,1
+8,NUMERIC,1
+uwclfinal,MONEY,1
+𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗼𝗼𝗼𝗼𝗼𝗼𝗼𝗻𝗲𝘀,PLAYER,1
+fcbol,MONEY,1
+james lamon,PLAYER,1
+more than three million,NUMERIC,1
+close to 10 million,NUMERIC,1
+cat watson,PLAYER,1
+canwnt,CLUB,1
+februarygettheballrolling2022,ORG_OTHER,1
+three separate days,DATE,1
+norwich city's,LOCATION,1
+tv info &,ORG_OTHER,1
+20 august,DATE,1
+argentinagroup h,ORG_OTHER,1
+south korea ahead,LOCATION,1
+world champions,EVENT_OTHER,1
+uefa european championship,ORG_OTHER,1
+lyon's academy,ORG_OTHER,1
+jean-luc vasseur,ORG_OTHER,1
+april 2021,DATE,1
+43-year-old,DATE,1
+lyonnais feminin,ORG_OTHER,1
+bompastor at lyon,ORG_OTHER,1
+anton toloui,PLAYER,1
+post-hayes,ORG_OTHER,1
+lyon the champions league,ORG_OTHER,1
+past five seasons,DATE,1
+barcelona 3-1,ORG_OTHER,1
+85 per cent,MONEY,1
+as over 150,NUMERIC,1
+julien laurens,PLAYER,1
+achim feifel,PLAYER,1
+bayer leverkusens,ORG_OTHER,1
+lisanne grawe,PLAYER,1
+leverkusen,CLUB,1
+u20 womens world cup,ORG_OTHER,1
+fc kaunitz,PLAYER,1
+sc wiedenbruck,ORG_OTHER,1
+16 years old,DATE,1
+eurosport,MISC,1
+toni kroos,PLAYER,1
+second season,DATE,1
+robert de pauw,PLAYER,1
+dutchman,ORG_OTHER,1
+fc twente,ORG_OTHER,1
+lisanne,ORG_OTHER,1
+bayer 04,ORG_OTHER,1
+lisanne gräwe,PLAYER,1
+adidas,MISC,1
+65 million,MONEY,1
+mccartney,PLAYER,1
+stella mccartney,ORG_OTHER,1
+predator freak,MISC,1
+280322,NUMERIC,1
+stellamccartney,ORG_OTHER,1
+ultraboost,NATIONALITY,1
+saturday march,DATE,1
+monday april 4,DATE,1
+michael olise,PLAYER,1
+at least two months,DATE,1
+crystal palace's,LOCATION,1
+hernan crespo,PLAYER,1
+steve mcmanaman,PLAYER,1
+last 16 of the 2026 world cup,DATE,1
+250th,NUMERIC,1
+summer of 2024,DATE,1
+thomas partey's,PLAYER,1
+christian eriksen's,PLAYER,1
+galatasaray,CLUB,1
+ezri konsa,PLAYER,1
+more than a month,DATE,1
+todd kline,PLAYER,1
+divock origi,PLAYER,1
+chris wood,PLAYER,1
+antonio nusa,PLAYER,1
+jamie george's,PLAYER,1
+novak djokovic,PLAYER,1
+rafael nadal,PLAYER,1
+standard fulham,ORG_OTHER,1
+raul jimenez,PLAYER,1
+at least a month,DATE,1
+yves bissouma,PLAYER,1
+later this week,DATE,1
+mali,PLAYER,1
+lewis ludlam,PLAYER,1
+northampton,LOCATION,1
+toulon,LOCATION,1
+dundee united,LOCATION,1
+sam mcclelland,PLAYER,1
+late september,DATE,1
+next 32,DATE,1
+nwsl championships,ORG_OTHER,1
+tobinheath,NUMERIC,1
+world cup's,EVENT_OTHER,1
+teatro nacional,ORG_OTHER,1
+fifa u20 women's world cup 2022,ORG_OTHER,1
+teatro nacional,LOCATION,1
+johanna solano,PLAYER,1
+costa rican,NATIONALITY,1
+shirley cruz,PLAYER,1
+paulo cesar wanchope,PLAYER,1
+jaime yarza,PLAYER,1
+tournaments,ORG_OTHER,1
+fifa u20 women's world cup,ORG_OTHER,1
+august 10 2022,DATE,1
+group a nigeria,ORG_OTHER,1
+pot 2,EVENT_OTHER,1
+mexico 2-1,MISC,1
+montevideo,LOCATION,1
+uruguay,LOCATION,1
+netherland,LOCATION,1
+womenâs fa cup,EVENT_OTHER,1
+sabrina,MISC,1
+chloe kellyâs,PLAYER,1
+â,NATIONALITY,1
+february 11,DATE,1
+khiara keatingâs,PLAYER,1
+beth merrickâs,PLAYER,1
+wolves â,MISC,1
+â,ORG_OTHER,1
+katie robinsonâs,PLAYER,1
+ella tooneâs,PLAYER,1
+kit grahamâs,PLAYER,1
+afc women's asian cup 2022,ORG_OTHER,1
+232 million,NUMERIC,1
+130 pm,TIME,1
+lydia williams teagan,PLAYER,1
+micah mackenzie arnold courtney nevin,PLAYER,1
+villa forward sydney fc online,ORG_OTHER,1
+australia network,ORG_OTHER,1
+paramount plus australia,ORG_OTHER,1
+april 10,DATE,1
+friendly germany,LOCATION,1
+friendly denmark,LOCATION,1
+olympics group stage australia,EVENT_OTHER,1
+2-1 july 24,DATE,1
+olympics quarterfinals great,EVENT_OTHER,1
+olympics bronze medal,EVENT_OTHER,1
+3-4 september 21,DATE,1
+november 27,DATE,1
+november 30,DATE,1
+three lions,ORG_OTHER,1
+football's coming home,MISC,1
+world in motion and vindaloo,MISC,1
+who'd,PLAYER,1
+tony perry,PLAYER,1
+perry,PLAYER,1
+1969,DATE,1
+john f kennedy,PLAYER,1
+marcia,PLAYER,1
+eamonn holmes,PLAYER,1
+southgate,PLAYER,1
+,LOCATION,1
+neil diamond's,PLAYER,1
+boston red sox,ORG_OTHER,1
+usl,ORG_OTHER,1
+jaxusl,ORG_OTHER,1
+15000,NUMERIC,1
+first coast,LOCATION,1
+cityâs,MISC,1
+laia aleixandri,LOCATION,1
+southampton,NATIONALITY,1
+88th minute,TIME,1
+cesar azpilicueta,PLAYER,1
+cobham training centre,LOCATION,1
+abdulelah alkhereiji,PLAYER,1
+cass business school,ORG_OTHER,1
+deutsche bank,ORG_OTHER,1
+mrsool park,LOCATION,1
+al hilal,PLAYER,1
+over 1 billion,MONEY,1
+770 million,MONEY,1
+نشوف الملعب,PLAYER,1
+saudi arabia's,LOCATION,1
+smc,ORG_OTHER,1
+332 per cent,MONEY,1
+70 percent,MISC,1
+under 30,DATE,1
+18 march,DATE,1
+chigwell construction stadium,LOCATION,1
+15 minutes of the second,TIME,1
+end of the first half,DATE,1
+stephanie catley,PLAYER,1
+eight minutes later,TIME,1
+hawa cissoko,PLAYER,1
+final eight minutes,TIME,1
+leicester 2-0,ORG_OTHER,1
+sky sports stream,ORG_OTHER,1
+82nd minute,TIME,1
+three minutes later,TIME,1
+melissa phillips,PLAYER,1
+elisabeth terland,PLAYER,1
+parris,PLAYER,1
+marie hobinger's,PLAYER,1
+tottenham at prenton park,ORG_OTHER,1
+71st-minute,TIME,1
+celin bizet ildhusoy's,ORG_OTHER,1
+rachel laws,PLAYER,1
+amanda nilden,PLAYER,1
+shuang wang,PLAYER,1
+91st,NUMERIC,1
+hobinger,PLAYER,1
+carrie jones,PLAYER,1
+bescot stadium,LOCATION,1
+two minutes later,TIME,1
+amalie thestrup,PLAYER,1
+robins,ORG_OTHER,1
+jones,PLAYER,1
+no fewer than five,NUMERIC,1
+new york stadium,LOCATION,1
+italy 2-0,ORG_OTHER,1
+just 12 minutes,TIME,1
+just nine minutes,TIME,1
+just three minutes later,TIME,1
+5/3,NUMERIC,1
+women's,ORG_OTHER,1
+a single first half,DATE,1
+martina piemonte,PLAYER,1
+77 minutes,TIME,1
+jerramy stevens,PLAYER,1
+30-day,DATE,1
+13-year,DATE,1
+between 2003 and 2016,DATE,1
+beijing,LOCATION,1
+iffhs concacaf woman team of the decade,ORG_OTHER,1
+iffhs world's,ORG_OTHER,1
+sophie smith,PLAYER,1
+mal pugh,PLAYER,1
+shebelieves,ORG_OTHER,1
+february 20,DATE,1
+toyota stadium,LOCATION,1
+4/0,NUMERIC,1
+abby dahlkemper,PLAYER,1
+77/0,NUMERIC,1
+tierna davidson,PLAYER,1
+45/1,NUMERIC,1
+racing louisville fc,ORG_OTHER,1
+8/0,NUMERIC,1
+9/0,NUMERIC,1
+148/2,NUMERIC,1
+63/0,DATE,1
+199/0,NUMERIC,1
+morgan gautrat,ORG_OTHER,1
+87/8,LOCATION,1
+108/25,NUMERIC,1
+68/18,NUMERIC,1
+12/3,DATE,1
+33/4,NUMERIC,1
+2/0,NUMERIC,1
+22/2,NUMERIC,1
+4/2,NUMERIC,1
+67/18,NUMERIC,1
+9/2,NUMERIC,1
+10/1,NUMERIC,1
+45/14,NUMERIC,1
+vier sterne,PLAYER,1
+zwei sterne,PLAYER,1
+eine leidenschaft,PLAYER,1
+du auch,PLAYER,1
+mach,NATIONALITY,1
+diemannschaft,ORG_OTHER,1
+neuer,PLAYER,1
+alex popp's,PLAYER,1
+21s,DATE,1
+group 2,ORG_OTHER,1
+c of the uefa womens euro,ORG_OTHER,1
+last five seasons,DATE,1
+4333,NUMERIC,1
+1750,NUMERIC,1
+2028,NUMERIC,1
+2032,DATE,1
+football union of russia,ORG_OTHER,1
+uefa euro,MISC,1
+uefa euro 2032,MISC,1
+article 1602 of the bid regulations uefa finals,MISC,1
+jovana damnjanovic,PLAYER,1
+4-1,NUMERIC,1
+almost a year,DATE,1
+essen,LOCATION,1
+cologne,LOCATION,1
+schuller,PLAYER,1
+two years in a row,DATE,1
+sand,LOCATION,1
+105 per cent,MONEY,1
+those two years,DATE,1
+these coming weeks,DATE,1
+queen letizia,PLAYER,1
+womens world cup winwhile rubiales,ORG_OTHER,1
+aug 2023,DATE,1
+0807 pm,TIME,1
+ist topics,MISC,1
+tacon,ORG_OTHER,1
+march 2021,DATE,1
+41st,NUMERIC,1
+nine days,DATE,1
+sarina wiegmanâs,PLAYER,1
+april last year,DATE,1
+brentfordâs gtech community stadium,ORG_OTHER,1
+xi,NUMERIC,1
+february 4,DATE,1
+sundayâs,PLAYER,1
+fifth round,LOCATION,1
+estadio nuevo mirador,ORG_OTHER,1
+best fifa womens player award,MISC,1
+academy stadium,ORG_OTHER,1
+between 2014 and 2017,DATE,1
+league cup and women's fa cup,ORG_OTHER,1
+three seasons,DATE,1
+fifa best women's player,ORG_OTHER,1
+tokyo olympic games,EVENT_OTHER,1
+we'd,ORG_OTHER,1
+between 2017 and 2020,DATE,1
+university of carolina back,ORG_OTHER,1
+karen bardsley,PLAYER,1
+molineux,ORG_OTHER,1
+cup,EVENT_OTHER,1
+just 15 minutes,TIME,1
+just six minutes remaining,TIME,1
+arnoldclarkcup,ORG_OTHER,1
+australians,NATIONALITY,1
+only 21,NUMERIC,1
+singacup,ORG_OTHER,1
+asian confederation,ORG_OTHER,1
+two or three years,DATE,1
+calcio,LOCATION,1
+gazzetta dello sport's,ORG_OTHER,1
+azzurre,ORG_OTHER,1
+aurora galli,PLAYER,1
+two years later,DATE,1
+year one,DATE,1
+allianz,ORG_OTHER,1
+montemurro,ORG_OTHER,1
+coming season,DATE,1
+juventus champions league,ORG_OTHER,1
+bianconero,ORG_OTHER,1
+stefano braghin,PLAYER,1
+holders arsenal,ORG_OTHER,1
+continental tyres cup,ORG_OTHER,1
+12 minutes,TIME,1
+moloney,PLAYER,1
+march 6,DATE,1
+following day,DATE,1
+fc binnenmaas,MISC,1
+maasdam,LOCATION,1
+a psv eindhoven,PLAYER,1
+around 100 kilometres,MISC,1
+no10,MISC,1
+marius heinerman,PLAYER,1
+sv heinenoord,ORG_OTHER,1
+season ended,DATE,1
+dutch football association,ORG_OTHER,1
+maxime snellenberg,PLAYER,1
+u16s,MISC,1
+past two years,DATE,1
+binnenmaas,LOCATION,1
+snellenberg,NATIONALITY,1
+playstation,MISC,1
+fortnite,ORG_OTHER,1
+dutch cup,EVENT_OTHER,1
+just five months,DATE,1
+esmee,ORG_OTHER,1
+parsons,ORG_OTHER,1
+heinerman,PLAYER,1
+snellenberg,LOCATION,1
+megan connolly,PLAYER,1
+robins,PLAYER,1
+poundland bescot stadium,LOCATION,1
+aston villa women's,ORG_OTHER,1
+bristol city women,ORG_OTHER,1
+saturday february 3,DATE,1
+villa's league cup,ORG_OTHER,1
+february 7,DATE,1
+7pm february 18,TIME,1
+2pm march 3,DATE,1
+2pm march 17,DATE,1
+1pm march 24,TIME,1
+2pm,TIME,1
+just moments later,TIME,1
+sunday february 4 2024,DATE,1
+26th minute,TIME,1
+79th,NUMERIC,1
+friday february 9,DATE,1
+sky showcase,ORG_OTHER,1
+barclays fa wsl,ORG_OTHER,1
+sky sports wsl tiktok,ORG_OTHER,1
+caroline barker,PLAYER,1
+us soccer's,ORG_OTHER,1
+young female player of,MISC,1
+36 percent,MISC,1
+19,MISC,1
+48,MISC,1
+32,MISC,1
+third,DATE,1
+us,ORG_OTHER,1
+4-1,DATE,1
+age of 24,DATE,1
+completed1,ORG_OTHER,1
+assistbrilliant first half,DATE,1
+cho so-hyun,PLAYER,1
+lee geum-min,PLAYER,1
+monterrey,LOCATION,1
+trinidad & tobago,ORG_OTHER,1
+between july 4-18 2022,DATE,1
+concacaf w gold cup,EVENT_OTHER,1
+christen press,PLAYER,1
+december 2021,DATE,1
+nwsl challenge cup,ORG_OTHER,1
+londoners,PLAYER,1
+fa cup 4th round,EVENT_OTHER,1
+colwill,PLAYER,1
+cucurella,PLAYER,1
+ugochukwu,ORG_OTHER,1
+fofana,PLAYER,1
+chalobah,PLAYER,1
+unai emery's,PLAYER,1
+hardeyboy,NATIONALITY,1
+petrovic,PLAYER,1
+thiago silva,PLAYER,1
+badiashile,ORG_OTHER,1
+chilwell,ORG_OTHER,1
+caicedo,LOCATION,1
+enzo,PLAYER,1
+gusto,PLAYER,1
+jackson,LOCATION,1
+nkunku,LOCATION,1
+pochettino,PLAYER,1
+dunamis enzo,PLAYER,1
+sterling,ORG_OTHER,1
+armand van rooyen,PLAYER,1
+early march,DATE,1
+nine months to a year,DATE,1
+less than three months,DATE,1
+more than 100,NUMERIC,1
+25 bn,MONEY,1
+unicef,ORG_OTHER,1
+mike penrose,PLAYER,1
+department for digital culture media & sport dcms,ORG_OTHER,1
+culture,ORG_OTHER,1
+nadine dorries,PLAYER,1
+coming days,DATE,1
+quarter-final last,DATE,1
+3 minutes,TIME,1
+https//tco/w6dx9m95g6 pictwittercom/igcba2gt07,ORG_OTHER,1
+22nd,DATE,1
+uswnt 0-0 czech republic shebelieves cup dignity health sports park,ORG_OTHER,1
+carson feb 20,ORG_OTHER,1
+carson feb 23,ORG_OTHER,1
+uswnt 5-0 iceland shebelieves cup toyota stadium,ORG_OTHER,1
+frisco apr 9,ORG_OTHER,1
+columbus apr 12,EVENT_OTHER,1
+uzbekistan friendly subaru park,ORG_OTHER,1
+chester jun 25,ORG_OTHER,1
+uswnt 5-0 colombia friendly,ORG_OTHER,1
+commerce city jun 28,ORG_OTHER,1
+uswnt 2-0 colombia friendly rio tinto stadium,ORG_OTHER,1
+san nicolas de los garza jul 7,PLAYER,1
+guadalupe jul 11,ORG_OTHER,1
+san nicolas de los garza jul 14,PLAYER,1
+san nicolas de los garza jul 18,PLAYER,1
+uswnt 1-0 canada concacaf w championship estadio bbva,ORG_OTHER,1
+guadalupe sep 3,ORG_OTHER,1
+nigeria friendly children's,ORG_OTHER,1
+mercy park,LOCATION,1
+nigeria friendly audi field,ORG_OTHER,1
+el sadar stadium,ORG_OTHER,1
+pamplona nov 11,DATE,1
+germany friendly drv pnk stadium,ORG_OTHER,1
+nov 13,DATE,1
+germany friendly red bull arena,ORG_OTHER,1
+114th minute,TIME,1
+hendrich,PLAYER,1
+sara doorsun-khajeh,PLAYER,1
+pacific northwest,LOCATION,1
+seven-season,DATE,1
+manchester united and arsenal,LOCATION,1
+under next year,DATE,1
+womens world cup,LOCATION,1
+cristiana girelli,ORG_OTHER,1
+humm,PLAYER,1
+just 247 seconds,TIME,1
+opening five minutes,TIME,1
+lloyd,PLAYER,1
+lloyds,ORG_OTHER,1
+almost 14 years,DATE,1
+lloyd matched,ORG_OTHER,1
+16 minutes,TIME,1
+kylian mbappés,PLAYER,1
+30s,DATE,1
+kristin sandberg,PLAYER,1
+mio otani,PLAYER,1
+gaelle enganamouit,PLAYER,1
+ary borges,PLAYER,1
+1997,DATE,1
+grings,PLAYER,1
+237 days old,DATE,1
+57th,NUMERIC,1
+grings,ORG_OTHER,1
+cristiane,LOCATION,1
+34 years,DATE,1
+25 days,DATE,1
+185,MISC,1
+katrina gorry's,PLAYER,1
+catley,PLAYER,1
+67th,NUMERIC,1
+seven minutes later,TIME,1
+aleixandri,LOCATION,1
+foord,MISC,1
+cooney-cross,ORG_OTHER,1
+optus sport,MEDIA,1
+a league cup,ORG_OTHER,1
+foord,ORG_OTHER,1
+81st minute,TIME,1
+spanish primera division,ORG_OTHER,1
+cff,MISC,1
+estadi johan cruyff,LOCATION,1
+63rd,NUMERIC,1
+jenifer hermoso,PLAYER,1
+amanda sampedro,PLAYER,1
+merel van dongen,PLAYER,1
+asisatoshoala pictwittercom/kpieekky6j,PLAYER,1
+bonmati,LOCATION,1
+eight weeks,DATE,1
+fifa world rankings,ORG_OTHER,1
+opta analyst,ORG_OTHER,1
+16 quarter,DATE,1
+switzerland australia,LOCATION,1
+canada spain,LOCATION,1
+japan england,LOCATION,1
+china usa,LOCATION,1
+panama sweden,LOCATION,1
+argentina germany,LOCATION,1
+this sunday december 5 2021,DATE,1
+football associations,ORG_OTHER,1
+early 20th century,DATE,1
+some 40,NUMERIC,1
+1920s,DATE,1
+anastasia kuchta,PLAYER,1
+national football museum,ORG_OTHER,1
+dick,PLAYER,1
+kerr ladies,ORG_OTHER,1
+alice kell,PLAYER,1
+liz ward,PLAYER,1
+laura howard-harman,PLAYER,1
+age of 31,DATE,1
+kuchta,PLAYER,1
+saint kitts,LOCATION,1
+nevis,LOCATION,1
+caribbean,LOCATION,1
+crowdfunder,NATIONALITY,1
+kitmas,PLAYER,1
+this sunday,DATE,1
+jean-clair todibo,ORG_OTHER,1
+dino toppmoller,PLAYER,1
+donny van de beek,PLAYER,1
+terry byrne,PLAYER,1
+hag,PLAYER,1
+carlisle united,LOCATION,1
+sunday legendary,ORG_OTHER,1
+alex ferguson,PLAYER,1
+tosin adarabioyo,PLAYER,1
+fulham,CLUB,1
+sunday express burnley,ORG_OTHER,1
+dele alli,PLAYER,1
+michael duff's,PLAYER,1
+duncan mcguire,PLAYER,1
+kalvin phillips,PLAYER,1
+gabriel,PLAYER,1
+iliman ndiaye,PLAYER,1
+amad diallo,PLAYER,1
+fraser clarke,PLAYER,1
+fabio wardley,PLAYER,1
+sunday real madrid,ORG_OTHER,1
+jude bellingham's,PLAYER,1
+richard dunne,PLAYER,1
+jordan henderson,PLAYER,1
+heerenveen,LOCATION,1
+joe worrall,PLAYER,1
+alex oxlade-chamberlain,PLAYER,1
+malang sarr,PLAYER,1
+deivid washington,PLAYER,1
+andrey santos,PLAYER,1
+paul hawkins,PLAYER,1
+hawk-eye's,ORG_OTHER,1
+zak crawley's,PLAYER,1
+aaron hickey,PLAYER,1
+scott brown,PLAYER,1
+willie collum,PLAYER,1
+fabio silva,PLAYER,1
+ayr united's,LOCATION,1
+scottish cup,EVENT_OTHER,1
+steve clarke,PLAYER,1
+cruzeiro,ORG_OTHER,1
+nicolas larcamon,PLAYER,1
+jose cifuentes,PLAYER,1
+brondby,ORG_OTHER,1
+jesper sorensen,PLAYER,1
+mathias kvistgarden,PLAYER,1
+2025 season,DATE,1
+between 2012 and 2016,DATE,1
+being a thorn,MISC,1
+a portland thorn,ORG_OTHER,1
+baonpdx,MONEY,1
+karina leblanc,PLAYER,1
+lindsey,PLAYER,1
+108,NUMERIC,1
+international football association board,ORG_OTHER,1
+loch lomond,LOCATION,1
+a number of years,DATE,1
+giorgio chiellini's,PLAYER,1
+1970 world cup,EVENT_OTHER,1
+future of football rule,ORG_OTHER,1
+get sky sports get sky sports,EVENT_OTHER,1
+agm,ORG_OTHER,1
+abm,MISC,1
+2019/20 season,DATE,1
+ange postecoglou,PLAYER,1
+more than six seconds,TIME,1
+six seconds,TIME,1
+tobin heath's,PLAYER,1
+65th,NUMERIC,1
+watchwithata barclaysfawsl,MONEY,1
+real madrid's,ORG_OTHER,1
+66 per cent,MONEY,1
+three,DATE,1
+kelli hubly,PLAYER,1
+her sixth year,DATE,1
+this past year,DATE,1
+nwsl shield,ORG_OTHER,1
+depaul university,ORG_OTHER,1
+depaul,ORG_OTHER,1
+kristen edmonds,PLAYER,1
+19 million,MONEY,1
+155,MONEY,1
+edmonds,PLAYER,1
+kansas city star,ORG_OTHER,1
+riverside,ORG_OTHER,1
+kathy rose,PLAYER,1
+just under 11 months ago,DATE,1
+angie,PLAYER,1
+chris,PLAYER,1
+2026 world cup,EVENT_OTHER,1
+just six minutes,TIME,1
+georgia stanway's,ORG_OTHER,1
+bbciplayer,NATIONALITY,1
+bbcsounds,ORG_OTHER,1
+a couple of minutes,TIME,1
+a crazy day,DATE,1
+victor oliver,PLAYER,1
+six seasons,DATE,1
+last six years,DATE,1
+fc barcelona stadium,ORG_OTHER,1
+barca cafe,ORG_OTHER,1
+deloitte,ORG_OTHER,1
+drv-pnk stadium,ORG_OTHER,1
+ashlyn harris,PLAYER,1
+challenge cup,LOCATION,1
+segra field,LOCATION,1
+ali krieger,PLAYER,1
+35th,NUMERIC,1
+just a few days,DATE,1
+ukrainian association of football uaf,ORG_OTHER,1
+kharkiv,ORG_OTHER,1
+this years,DATE,1
+icelandic,NATIONALITY,1
+breidablik,LOCATION,1
+andriy pavelko,PLAYER,1
+30th,NUMERIC,1
+uaf ukraine,MONEY,1
+lluiscortes,MONEY,1
+lccoach lc,ORG_OTHER,1
+last few months,DATE,1
+sergey novikov,PLAYER,1
+pavelko,LOCATION,1
+valentyna kotyk,PLAYER,1
+kotyk,PLAYER,1
+ganna voronina,PLAYER,1
+this champions league,ORG_OTHER,1
+10-15 years ago,DATE,1
+croatia,LOCATION,1
+517 million,NUMERIC,1
+11 billion,NUMERIC,1
+90 thrilling minutes,TIME,1
+just under 100 million,NUMERIC,1
+30-50 million,NUMERIC,1
+tampa bay buccaneers,ORG_OTHER,1
+kansas city chiefs,ORG_OTHER,1
+just 964 million,NUMERIC,1
+between 380 million,NUMERIC,1
+over 5 billion,MONEY,1
+328 million,NUMERIC,1
+summer olympic games,EVENT_OTHER,1
+2 billion,NUMERIC,1
+winter olympic games,EVENT_OTHER,1
+2 billion 6,NUMERIC,1
+380 million,NUMERIC,1
+99 million 10,NUMERIC,1
+four 169 million,MONEY,1
+tour de france,ORG_OTHER,1
+cricket world cup,ORG_OTHER,1
+1 billion,NUMERIC,1
+a record 5 billion,MONEY,1
+41 billion,NUMERIC,1
+london summer olympics,EVENT_OTHER,1
+rio summer olympics,EVENT_OTHER,1
+36 billion,NUMERIC,1
+just 22 minutes,TIME,1
+19000/19400,MONEY,1
+every single week,DATE,1
+every weekend,DATE,1
+kicker,ORG_OTHER,1
+sugar,PLAYER,1
+jonathan pearce,PLAYER,1
+alan,PLAYER,1
+alan sugars,PLAYER,1
+pictwittercom/rdzcudtyrv,PLAYER,1
+god,PLAYER,1
+womens fa cup,MISC,1
+54,NUMERIC,1
+emma hayesâ,PLAYER,1
+12-year,DATE,1
+fa cups,ORG_OTHER,1
+league cups,ORG_OTHER,1
+barclays player,ORG_OTHER,1
+chelsea fc women,ORG_OTHER,1
+february 8 2024,DATE,1
+â james,PLAYER,1
+lauren james james,PLAYER,1
+continental tyres league cup,ORG_OTHER,1
+chelseaâs,ORG_OTHER,1
+emmaâs,ORG_OTHER,1
+fifa disciplinary committee,ORG_OTHER,1
+fdc,ORG_OTHER,1
+0627 pm,TIME,1
+sara gunnarsdottir,PLAYER,1
+just 7000,NUMERIC,1
+around 5000,NUMERIC,1
+fotbollskanalen,ORG_OTHER,1
+pitch,ORG_OTHER,1
+more than 4000,NUMERIC,1
+twenty thousand,NUMERIC,1
+ex-chelsea,ORG_OTHER,1
+telford,ORG_OTHER,1
+leeds carnegie,ORG_OTHER,1
+perth,LOCATION,1
+notts county,LOCATION,1
+almost five years,DATE,1
+fa women's super league spring series,ORG_OTHER,1
+fa wsl,ORG_OTHER,1
+three lions,MISC,1
+may 1996,DATE,1
+frank skinner,PLAYER,1
+david baddiel,PLAYER,1
+lightning seeds,MISC,1
+football's coming home' song,MISC,1
+bay fc,LOCATION,1
+dalian quanjian,LOCATION,1
+blaugrane,ORG_OTHER,1
+162,NUMERIC,1
+117,NUMERIC,1
+african women's footballer of the year,ORG_OTHER,1
+barca femeni,NATIONALITY,1
+olfeminin watch,ORG_OTHER,1
+roe v wade,MISC,1
+dobbs,PLAYER,1
+jackson womens health organization,ORG_OTHER,1
+half-a-century,DATE,1
+more than half,NUMERIC,1
+roe,PLAYER,1
+women's european championship - euro,ORG_OTHER,1
+executive committee,ORG_OTHER,1
+dublin,LOCATION,1
+stadium capacity city /,ORG_OTHER,1
+london old trafford,ORG_OTHER,1
+74879,NUMERIC,1
+manchester bramall lane,PLAYER,1
+32702,NUMERIC,1
+32505,NUMERIC,1
+southampton amex stadium,ORG_OTHER,1
+30750,NUMERIC,1
+brighton stadium,ORG_OTHER,1
+30500,NUMERIC,1
+milton keynes brentford community,ORG_OTHER,1
+17250,NUMERIC,1
+london new york stadium 12021,ORG_OTHER,1
+rotherham leigh sports village,ORG_OTHER,1
+12000,NUMERIC,1
+leigh manchester city academy stadium,ORG_OTHER,1
+june 26,DATE,1
+8pm july 7,TIME,1
+8pm july 11,TIME,1
+5pm july 11,TIME,1
+8pm july 15,TIME,1
+england 5-0 northern ireland 8pm july 15,EVENT_OTHER,1
+5pm july 8,TIME,1
+8pm july 12,TIME,1
+7 3,DATE,1
+8pm july 13,TIME,1
+5pm july 13,TIME,1
+8pm july 17,TIME,1
+9 2,DATE,1
+france 5-1,EVENT_OTHER,1
+8pm july 14,TIME,1
+8pm july 18,TIME,1
+8pm july 21,TIME,1
+8pm july 22,TIME,1
+8pm july 23,TIME,1
+england 4-0,EVENT_OTHER,1
+8pm july 27,TIME,1
+univision,ORG_OTHER,1
+tudn,ORG_OTHER,1
+optus,ORG_OTHER,1
+uefa euro,ORG_OTHER,1
+15 to 40,MONEY,1
+30,MONEY,1
+golden ball award,LOCATION,1
+75784,NUMERIC,1
+carmona,LOCATION,1
+real madrids,ORG_OTHER,1
+la 1,LOCATION,1
+merchi,EVENT_OTHER,1
+current year,DATE,1
+michel platini,PLAYER,1
+a calendar year,DATE,1
+ballon d'or 2022,ORG_OTHER,1
+two half-seasons - january-july,DATE,1
+august-december,DATE,1
+month of august,DATE,1
+july 6-31,DATE,1
+november 21-december 18 2022,DATE,1
+ballon d'or edition,ORG_OTHER,1
+ballondor,ORG_OTHER,1
+august to july,DATE,1
+thirty,NUMERIC,1
+ff,ORG_OTHER,1
+l'équipe,ORG_OTHER,1
+didier drogba,PLAYER,1
+vietnamese,NATIONALITY,1
+truong anh ngoc,PLAYER,1
+czech,NATIONALITY,1
+karolina hlavackova,PLAYER,1
+sixteen,NUMERIC,1
+one hundred and seventy,NUMERIC,1
+democratic,NATIONALITY,1
+hundred,NUMERIC,1
+fifty,NUMERIC,1
+alfredo di stefano,PLAYER,1
+franz beckenbauer,PLAYER,1
+kevin keegan,PLAYER,1
+karl-heinz rummenigge,PLAYER,1
+stanley matthews,PLAYER,1
+raymond kopa,PLAYER,1
+omar sivori,PLAYER,1
+josef masopust,PLAYER,1
+denis law,PLAYER,1
+eusebio,PLAYER,1
+first 10 years,DATE,1
+lev yashin,PLAYER,1
+1963,DATE,1
+a golden ball,PLAYER,1
+bobby charltons,PLAYER,1
+george best,PLAYER,1
+gianni rivera,PLAYER,1
+gerd muller,PLAYER,1
+oleg blokhin,PLAYER,1
+allan simonsen,PLAYER,1
+paolo rossi,PLAYER,1
+igor belanov,PLAYER,1
+ruud gullit,PLAYER,1
+jean-pierre papin,PLAYER,1
+roberto baggio,PLAYER,1
+george weah,PLAYER,1
+matthias sammer,PLAYER,1
+zinedine zidane,PLAYER,1
+rivaldo,PLAYER,1
+luis figo,PLAYER,1
+michael owen,PLAYER,1
+pavel nedved,PLAYER,1
+andriy shevchenko,PLAYER,1
+fabio cannavaro,PLAYER,1
+kaka,PLAYER,1
+luka modric,PLAYER,1
+english womens super league,MISC,1
+reece,PLAYER,1
+only 113 minutes,TIME,1
+rinsola babajide,PLAYER,1
+blackstenius,ORG_OTHER,1
+past years,DATE,1
+le tissier,LOCATION,1
+past two seasons,DATE,1
+only 669,MISC,1
+age of only 20,DATE,1
+le tissier,PLAYER,1
+le tissier,MISC,1
+batlle,LOCATION,1
+filippa angeldahl,PLAYER,1
+only six,NUMERIC,1
+caroline weir,PLAYER,1
+stanway,PLAYER,1
+paul konchesky,PLAYER,1
+just last week,DATE,1
+jorja foxs,PLAYER,1
+england u23s,LOCATION,1
+a couple of months ago,DATE,1
+wsl minutes,MISC,1
+emma koivisto,PLAYER,1
+kenny shiels,PLAYER,1
+derry city,LOCATION,1
+five-goal,MISC,1
+arsenal and england,ORG_OTHER,1
+emma byrne,PLAYER,1
+a couple of months,DATE,1
+a big year,DATE,1
+pictwittercom/casvcpll5s,NUMERIC,1
+tuchel,PLAYER,1
+conte,PLAYER,1
+hansjorg wyss's,ORG_OTHER,1
+pan-arab,NATIONALITY,1
+15 march,DATE,1
+wednesday last week,DATE,1
+vladimir putin's,PLAYER,1
+fordstam ltd,ORG_OTHER,1
+their weekend,DATE,1
+cpo,ORG_OTHER,1
+around 8,MONEY,1
+tracey crouch's,PLAYER,1
+more than 2bn,MONEY,1
+92,NUMERIC,1
+david beckham - last,PLAYER,1
+his first year,DATE,1
+jose,PLAYER,1
+mas,PLAYER,1
+first two years,DATE,1
+45-year-old,DATE,1
+21 july,DATE,1
+one month,DATE,1
+less than a quarter,DATE,1
+royal spanish football federation,ORG_OTHER,1
+atlético madrid,LOCATION,1
+ella toones,PLAYER,1
+end of last year,DATE,1
+amaiur sarriegi,ORG_OTHER,1
+redondo,LOCATION,1
+633,MISC,1
+18,MISC,1
+this world cup,EVENT_OTHER,1
+batlle,ORG_OTHER,1
+36,NUMERIC,1
+2581 metres,MISC,1
+bonmatí,ORG_OTHER,1
+final third last season,DATE,1
+time,ORG_OTHER,1
+futoshi ikeda,PLAYER,1
+saki kumagai,PLAYER,1
+age of 30,DATE,1
+our wsl team of the season,ORG_OTHER,1
+hina sugita,PLAYER,1
+jun endo,PLAYER,1
+west ham uniteds,LOCATION,1
+honoka hayashi,PLAYER,1
+fuka nagano,PLAYER,1
+886,MISC,1
+mynavi sendais,PLAYER,1
+hinata miyazawa,PLAYER,1
+miyazwa,ORG_OTHER,1
+maika hamano,LOCATION,1
+tokyo verdy beleza,EVENT_OTHER,1
+ueki,ORG_OTHER,1
+bruce mwape,PLAYER,1
+barbra banda,PLAYER,1
+banda,ORG_OTHER,1
+a third successive year,DATE,1
+ulitmate edition,MISC,1
+3rd year running,DATE,1
+easportsfifa,ORG_OTHER,1
+fifa23,ORG_OTHER,1
+pictwittercom/yvkqflmfyj mbappe,PLAYER,1
+one year,DATE,1
+frenchman,NATIONALITY,1
+october 21 2021,DATE,1
+last week of september,DATE,1
+friday september 30 2021,DATE,1
+2015-16,DATE,1
+decines-charpieu,ORG_OTHER,1
+chelsea 4-0,PLAYER,1
+lyon french,NATIONALITY,1
+saturday may 21,DATE,1
+8pm bst,TIME,1
+3pm et,TIME,1
+stage result group,ORG_OTHER,1
+koge 0-2,PLAYER,1
+barcelona 4-0 hoffenheim group,ORG_OTHER,1
+barcelona group arsenal,ORG_OTHER,1
+barcelona 5-0 koge quarter-final,ORG_OTHER,1
+barcelona 5-2,EVENT_OTHER,1
+barcelona 5-1,EVENT_OTHER,1
+wolfsburg semi-final,LOCATION,1
+wolfsburg 2-0 barcelona lyon,MISC,1
+sonia bompastors,PLAYER,1
+hacken 0-3,PLAYER,1
+bayern munich group bayern,ORG_OTHER,1
+hacken quarter-final,PLAYER,1
+lyon 3-1,MISC,1
+lyon 3-2,MISC,1
+paris saint-germain semi,LOCATION,1
+lyon barcelona,PLAYER,1
+groupama arena,LOCATION,1
+budapest,LOCATION,1
+19 august,DATE,1
+18 may,DATE,1
+barcelona women's champions league 28 march,ORG_OTHER,1
+ucla,ORG_OTHER,1
+steven bank,PLAYER,1
+end of 2021,DATE,1
+400 million,MONEY,1
+38m,MONEY,1
+alledging,ORG_OTHER,1
+their first nine seasons,DATE,1
+75 percent,MISC,1
+less than 31000,MONEY,1
+femexfut,PLAYER,1
+more than two decades,DATE,1
+north american,NATIONALITY,1
+65000,MONEY,1
+tata martino's,ORG_OTHER,1
+just 2000,NUMERIC,1
+mexican football federation,ORG_OTHER,1
+late 1990s,DATE,1
+early 2000s,DATE,1
+oswaldo sanchez,PLAYER,1
+april 19 2004,EVENT_OTHER,1
+reforma,ORG_OTHER,1
+veracruz,LOCATION,1
+aguascalientes,LOCATION,1
+tomas boy,PLAYER,1
+out,PLAYER,1
+mexicans,NATIONALITY,1
+2006 world cup,EVENT_OTHER,1
+45 million,NUMERIC,1
+marca,ORG_OTHER,1
+a world cup,EVENT_OTHER,1
+janelly farias,PLAYER,1
+around decades,DATE,1
+al bayt stadium,LOCATION,1
+november 20 2022,DATE,1
+september 19 2022 september 27 2022,DATE,1
+november 20 2022 december 18 2022 march 20 2023 march 28,DATE,1
+2023 june 12,DATE,1
+2023 june 20 2023 june 12,DATE,1
+2023 july 16,DATE,1
+november and december,DATE,1
+months of october and november,DATE,1
+between september 19 and september 27,EVENT_OTHER,1
+march 20 and end on,DATE,1
+march 28,DATE,1
+august 29 2022 september 6 2022 october 3,DATE,1
+october 11,DATE,1
+november 7 2022,DATE,1
+november 15 2022 february 13,DATE,1
+2023 february 22,DATE,1
+2023 april 3,DATE,1
+2023 april 11,DATE,1
+2023 july 10,DATE,1
+july 18 2023 july 20 2023 august 20,DATE,1
+august 29,DATE,1
+september 6 2022,DATE,1
+la liga's,ORG_OTHER,1
+rayo vallecano - sevilla,ORG_OTHER,1
+vallecas,LOCATION,1
+laliga,PLAYER,1
+laliga,ORG_OTHER,1
+geography,ORG_OTHER,1
+sabrina d'angelo,PLAYER,1
+beth merrick's,PLAYER,1
+katie robinson's,PLAYER,1
+emma kullberg's,PLAYER,1
+ella toone's,PLAYER,1
+kit graham's,PLAYER,1
+birmingham 6-2,LOCATION,1
+missy goodwin,PLAYER,1
+shannon o'brien,PLAYER,1
+libby smith,PLAYER,1
+o'brien,PLAYER,1
+saori takarada,PLAYER,1
+aileen whelan,PLAYER,1
+2015 fa cup,MISC,1
+december 2020,DATE,1
+eleven minutes,TIME,1
+sunderland 4-0,ORG_OTHER,1
+only 52,NUMERIC,1
+every 102 minutes,TIME,1
+only 31 minutes,TIME,1
+robbins,PLAYER,1
+kirby,ORG_OTHER,1
+234,MISC,1
+dwight yorke,PLAYER,1
+andy cole,PLAYER,1
+6-1,NUMERIC,1
+fifty club,ORG_OTHER,1
+five minutes later,TIME,1
+25th,NUMERIC,1
+sos,ORG_OTHER,1
+super league champions,ORG_OTHER,1
+third year running,DATE,1
+two weeks,DATE,1
+united states women's,LOCATION,1
+just five minutes,TIME,1
+a minute later,TIME,1
+purce,ORG_OTHER,1
+russians,NATIONALITY,1
+at least four,NUMERIC,1
+almost two decades,DATE,1
+financial times business of sport summit,ORG_OTHER,1
+middle eastern,NATIONALITY,1
+amnesty international,ORG_OTHER,1
+saudi arabias,LOCATION,1
+crown prince mohammed bin salman,PLAYER,1
+gulf,LOCATION,1
+more than 1 billion,MONEY,1
+13bn,MONEY,1
+all-party parliamentary group,ORG_OTHER,1
+geopolitical economy of sport,MISC,1
+simon chadwick,PLAYER,1
+post-brexit,ORG_OTHER,1
+last two or three years,DATE,1
+syrian,NATIONALITY,1
+bashar al-assad,PLAYER,1
+foreign office,ORG_OTHER,1
+syria,LOCATION,1
+tens of miles,MISC,1
+persian gulf,LOCATION,1
+uae,LOCATION,1
+abu dhabi,ORG_OTHER,1
+emirati,NATIONALITY,1
+investment corporation,ORG_OTHER,1
+emirates sponsoring arsenal,ORG_OTHER,1
+middle eastern,LOCATION,1
+newcastle uniteds,LOCATION,1
+ricketts family investment group,ORG_OTHER,1
+citadel,ORG_OTHER,1
+dan gilbert,PLAYER,1
+only three percent,MISC,1
+a memorable few days,DATE,1
+tom,PLAYER,1
+tracy brown,PLAYER,1
+chelsea pride,ORG_OTHER,1
+kerrie evans,PLAYER,1
+chelsea women supporters group,ORG_OTHER,1
+sanjay bhandari,PLAYER,1
+11-year-old,DATE,1
+cfc,MONEY,1
+cubs,ORG_OTHER,1
+cubs charities,ORG_OTHER,1
+chair of cubs charities,ORG_OTHER,1
+boehly,EVENT_OTHER,1
+atalanta,CLUB,1
+david blitzer,PLAYER,1
+76ers,NUMERIC,1
+february 20 2022,DATE,1
+norwich citys,LOCATION,1
+over half,NUMERIC,1
+about 13 seconds,TIME,1
+october 7,DATE,1
+copa america femenina,ORG_OTHER,1
+concacaf womens championship,ORG_OTHER,1
+a few months,DATE,1
+no10,NUMERIC,1
+kosovare,ORG_OTHER,1
+hanna glas,PLAYER,1
+emma kullberg,PLAYER,1
+linda sembrants,PLAYER,1
+linda,PLAYER,1
+caroline seger,PLAYER,1
+glas,PLAYER,1
+asllani,PLAYER,1
+kosovare asllani,ORG_OTHER,1
+dm,PLAYER,1
+ex-arsenal women's,ORG_OTHER,1
+seychelle's,ORG_OTHER,1
+just last month,DATE,1
+seychelles,LOCATION,1
+monika staab's,PLAYER,1
+just 14 minutes,TIME,1
+al-bandari mubarak,PLAYER,1
+maryam al-tamimi,PLAYER,1
+staab,ORG_OTHER,1
+women's national football team,ORG_OTHER,1
+lamiabahaian,NATIONALITY,1
+saudi arabia football federation,ORG_OTHER,1
+their women's national football team,ORG_OTHER,1
+manchester united plc,ORG_OTHER,1
+manchester united football club,ORG_OTHER,1
+nba champion,ORG_OTHER,1
+thirty five ventures,ORG_OTHER,1
+brooklyn nets,ORG_OTHER,1
+durant,ORG_OTHER,1
+kleiman,PLAYER,1
+gotham fcs,ORG_OTHER,1
+ownership group,ORG_OTHER,1
+sky blue,ORG_OTHER,1
+tammy,PLAYER,1
+los angeles,ORG_OTHER,1
+mvp,ORG_OTHER,1
+space jam,LOCATION,1
+fenway sports group,ORG_OTHER,1
+fsg,ORG_OTHER,1
+only this week,DATE,1
+egyptian,NATIONALITY,1
+salah,PLAYER,1
+pos,ORG_OTHER,1
+sebastien haller,PLAYER,1
+8 4,DATE,1
+catarina macario lyon,PLAYER,1
+12 8,DATE,1
+christopher nkunku rb,PLAYER,1
+6 9,DATE,1
+7 12 11,DATE,1
+ada hegerberg lyon 6,PLAYER,1
+darwin nunez,PLAYER,1
+leroy sane bayern munich,ORG_OTHER,1
+arnaut danjuma villarreal 6,PLAYER,1
+roberto firmino,PLAYER,1
+6 19,DATE,1
+cristiana girelli juventus,ORG_OTHER,1
+rodrygo real madrid,ORG_OTHER,1
+5 12,DATE,1
+sebastian haller,PLAYER,1
+cristiano ronaldo's,PLAYER,1
+tommy stroot's,PLAYER,1
+salah,ORG_OTHER,1
+christopher nkunku,PLAYER,1
+rb leipzig,CLUB,1
+leipzig,CLUB,1
+mahrez,PLAYER,1
+algerian,NATIONALITY,1
+benzema & co,ORG_OTHER,1
+its second season,DATE,1
+yerrrr,ORG_OTHER,1
+tammy murphy,PLAYER,1
+steve temares,PLAYER,1
+ed nalbandian,PLAYER,1
+rich kleimans,PLAYER,1
+olympic gold medals,EVENT_OTHER,1
+fiba world cups,ORG_OTHER,1
+euroleague,ORG_OTHER,1
+thirteen,NUMERIC,1
+university of connecticut,ORG_OTHER,1
+wnba draft,EVENT_OTHER,1
+2022 season,DATE,1
+20,MISC,1
+bird,ORG_OTHER,1
+125 years,DATE,1
+12500,NUMERIC,1
+1899,DATE,1
+camperdown park,LOCATION,1
+scottish professional football league,ORG_OTHER,1
+ian maxwell,PLAYER,1
+more than 100 years,DATE,1
+next 100 years,DATE,1
+scottish fa,MISC,1
+neil doncaster,PLAYER,1
+john nelms,PLAYER,1
+planning permission,ORG_OTHER,1
+dundee city council,ORG_OTHER,1
+seen half a dozen,NUMERIC,1
+almuth schult,PLAYER,1
+two days later,DATE,1
+sjoeke nuesken,PLAYER,1
+saturday sunday and monday,DATE,1
+sara dabritz,PLAYER,1
+midweek,DATE,1
+ramona petzelberger,PLAYER,1
+9pm,TIME,1
+5pm est,TIME,1
+department for digital culture,ORG_OTHER,1
+rod stewart,PLAYER,1
+foo fighters,ORG_OTHER,1
+woody johnson,PLAYER,1
+aethel partners,ORG_OTHER,1
+50 million,MONEY,1
+66,MONEY,1
+ricardo silva,PLAYER,1
+gianluca vialli's,PLAYER,1
+tifosy capital and advisory,ORG_OTHER,1
+conservative,NATIONALITY,1
+parliament,ORG_OTHER,1
+creative artists agency's,ORG_OTHER,1
+evolution media capital,ORG_OTHER,1
+coe,ORG_OTHER,1
+caa,ORG_OTHER,1
+c&p sports group,ORG_OTHER,1
+hana financial group,ORG_OTHER,1
+catalina kim,PLAYER,1
+ab grup holding,ORG_OTHER,1
+oaktree,ORG_OTHER,1
+nice,CLUB,1
+almost a dozen,NUMERIC,1
+true blue,MISC,1
+nft,ORG_OTHER,1
+chelseadao,ORG_OTHER,1
+10,MISC,1
+ethereum,LOCATION,1
+last may,DATE,1
+neil bath,PLAYER,1
+magda eriksson,PLAYER,1
+before christmas,DATE,1
+alsu abdullina,LOCATION,1
+abdullina,ORG_OTHER,1
+alsu,ORG_OTHER,1
+adelaide united,LOCATION,1
+josh cavallo,PLAYER,1
+british lgbt awards,ORG_OTHER,1
+sports personality,MISC,1
+billy gilmour,PLAYER,1
+rainbow laces,ORG_OTHER,1
+premier league's,ORG_OTHER,1
+cavallo,ORG_OTHER,1
+coopers stadium,LOCATION,1
+february last year,DATE,1
+stokes,PLAYER,1
+paralympics,ORG_OTHER,1
+tom daley,PLAYER,1
+laurel hubbard,PLAYER,1
+alana smith,PLAYER,1
+emma wiggs,PLAYER,1
+caster semenya,PLAYER,1
+colin jackson,PLAYER,1
+lewis hamilton,PLAYER,1
+a defining year,DATE,1
+eventful 2021,DATE,1
+just 34 days,DATE,1
+february 2023,DATE,1
+women's finalissima,ORG_OTHER,1
+arnold clark cup riverside stadium,PLAYER,1
+middlesbrough feb 20,ORG_OTHER,1
+england 0-0,LOCATION,1
+arnold clark,PLAYER,1
+arnold clark cup molineux,PLAYER,1
+wolverhampton apr 8,ORG_OTHER,1
+north,PLAYER,1
+macedonia,LOCATION,1
+england world cup,EVENT_OTHER,1
+toshe proeski arena,LOCATION,1
+belfast jun 16,ORG_OTHER,1
+belgium friendly molineux,ORG_OTHER,1
+wolverhampton jun 24,PLAYER,1
+netherlands friendly elland road,ORG_OTHER,1
+leeds jun 30,ORG_OTHER,1
+stadion letzigrund,PLAYER,1
+zurich jul 6,ORG_OTHER,1
+trafford,LOCATION,1
+manchester jul 11,ORG_OTHER,1
+brighton jul 15,ORG_OTHER,1
+england 5-0 northern ireland women's euro 2022,EVENT_OTHER,1
+st mary's,PLAYER,1
+southampton jul 20,ORG_OTHER,1
+england 2-1,EVENT_OTHER,1
+brighton jul 26,ORG_OTHER,1
+england 4-0 sweden women's euro,EVENT_OTHER,1
+sheffield jul 31,ORG_OTHER,1
+london sep 3,ORG_OTHER,1
+stadion wiener neustadt,ORG_OTHER,1
+wiener neustadt,ORG_OTHER,1
+bet365 stadium,LOCATION,1
+uswnt friendly wembley,ORG_OTHER,1
+england 0-0 czech,PLAYER,1
+brighton nov 11,ORG_OTHER,1
+nov 15,DATE,1
+arsenal wfc,LOCATION,1
+an average day,DATE,1
+a typical day,DATE,1
+life - arsenal women,MISC,1
+essex,LOCATION,1
+ruby mace,PLAYER,1
+several months,DATE,1
+four years old,DATE,1
+five,DATE,1
+year-old,DATE,1
+second half of last season,DATE,1
+gareth,PLAYER,1
+last couple of months,DATE,1
+taylor,PLAYER,1
+eni aluko,PLAYER,1
+atlanta beat,LOCATION,1
+aluko,MISC,1
+rob bateman,PLAYER,1
+barclays womens super league,ORG_OTHER,1
+just four,NUMERIC,1
+79,NUMERIC,1
+whitby,PLAYER,1
+carney,PLAYER,1
+2018-19 season,DATE,1
+26 years of age,DATE,1
+banner,ORG_OTHER,1
+briggs clinard,ORG_OTHER,1
+final week of september,DATE,1
+september 30 2022,DATE,1
+ea play,MISC,1
+september 27 2022,DATE,1
+ps4 5999 /,ORG_OTHER,1
+xbox series x/s 6999 /,EVENT_OTHER,1
+xbox one 5999 / 5999 8999 /,ORG_OTHER,1
+stadia n/a 7999 /,ORG_OTHER,1
+nintendo switch 3499 /,ORG_OTHER,1
+3999,MONEY,1
+n/a ea sports,ORG_OTHER,1
+ps4,ORG_OTHER,1
+ps5,ORG_OTHER,1
+xbox series x/s,ORG_OTHER,1
+google stadia,ORG_OTHER,1
+chemistry,ORG_OTHER,1
+barclays fa womens super league,ORG_OTHER,1
+xbox series xs,ORG_OTHER,1
+pro clubs,ORG_OTHER,1
+afc richmond,LOCATION,1
+ted lasso,PLAYER,1
+career mode,MISC,1
+kick-off,ORG_OTHER,1
+lasso,MISC,1
+jason sudeikis,PLAYER,1
+seein,PLAYER,1
+game collection,EVENT_OTHER,1
+tuesday september 27 2022,DATE,1
+eurogamer,ORG_OTHER,1
+3/5,NUMERIC,1
+gamesradar,MISC,1
+september 21,DATE,1
+lionel messi rw,PLAYER,1
+mohamed salah rw 90,PLAYER,1
+virgil van dijk cb 90,PLAYER,1
+manuel neuer gk,PLAYER,1
+thibaut courtois gk,PLAYER,1
+heung-min,PLAYER,1
+n'golo kante,PLAYER,1
+joshua kimmich,PLAYER,1
+ederson gk 89,ORG_OTHER,1
+alisson,PLAYER,1
+88,NUMERIC,1
+toni kroos cm 88,PLAYER,1
+a tremendous season,DATE,1
+july 20 2022,DATE,1
+world's game,MISC,1
+september 22 2022,DATE,1
+bad bunny & estereo,ORG_OTHER,1
+milkblood,ORG_OTHER,1
+mia,ORG_OTHER,1
+nas,ORG_OTHER,1
+gorillaz,ORG_OTHER,1
+187,NUMERIC,1
+fifa best womens player,ORG_OTHER,1
+seattle,LOCATION,1
+stateside,ORG_OTHER,1
+gig harbor,LOCATION,1
+about 15 minutes,TIME,1
+tacoma,LOCATION,1
+puget sound,LOCATION,1
+roughly 150-kilometre-long,MISC,1
+april 16,DATE,1
+that weekend,DATE,1
+saturday april 16,DATE,1
+1030am,NUMERIC,1
+1215pm,NUMERIC,1
+merseyside,ORG_OTHER,1
+bank holiday weekend,EVENT_OTHER,1
+network rail,ORG_OTHER,1
+west coast mainline,LOCATION,1
+saturday 16 april,DATE,1
+up to 5000,NUMERIC,1
+manchester city women,LOCATION,1
+easter period,EVENT_OTHER,1
+hundreds of miles,MISC,1
+paul gascoigne,PLAYER,1
+steel city,LOCATION,1
+21st century,DATE,1
+frauen-bundesliga,NATIONALITY,1
+scandinavians,NATIONALITY,1
+a few minutes later,TIME,1
+levante 7-0,ORG_OTHER,1
+ona battle,PLAYER,1
+supercopa,NATIONALITY,1
+milton keynes,PLAYER,1
+six yards,MISC,1
+14 minutes,TIME,1
+three tournaments,DATE,1
+1989 1991,DATE,1
+end of 2019,DATE,1
+josh,PLAYER,1
+stan,PLAYER,1
+final weekend,DATE,1
+december 22 2019,DATE,1
+unai emery,PLAYER,1
+didier olle-nicolle,PLAYER,1
+olle-nicolle,PLAYER,1
+four days,DATE,1
+fifa womens world cup,LOCATION,1
+may 2008,DATE,1
+37,MISC,1
+34,MISC,1
+allysha chapman,PLAYER,1
+shelina zadorsky,PLAYER,1
+jayde riviere,PLAYER,1
+evelyne viens,PLAYER,1
+sophie schmidt,PLAYER,1
+gabrielle carle,PLAYER,1
+jessie fleming,PLAYER,1
+sabrina dangelo,PLAYER,1
+cloé lacasse,PLAYER,1
+simi awujo,PLAYER,1
+lysianne proulx,PLAYER,1
+olivia smith,PLAYER,1
+courtney nevin,PLAYER,1
+aivi luik,PLAYER,1
+clare polkinghorne,PLAYER,1
+cortnee vine,PLAYER,1
+alex chidiac,PLAYER,1
+teagan micah,PLAYER,1
+clare hunt,PLAYER,1
+kyah simon,PLAYER,1
+katrina gorry,PLAYER,1
+over 87000,NUMERIC,1
+euro,NATIONALITY,1
+67173,NUMERIC,1
+pictwittercom/tga9n4rjrl,LOCATION,1
+1964,DATE,1
+79115,NUMERIC,1
+soviet union,LOCATION,1
+estadio santiago bernabeu,LOCATION,1
+overall euro 2022,MISC,1
+574875,NUMERIC,1
+freestar,MISC,1
+east london,LOCATION,1
+05,MISC,1
+indivisa morgan brennan,ORG_OTHER,1
+goalpost's league summer,ORG_OTHER,1
+indivsa,ORG_OTHER,1
+shameek farrell,PLAYER,1
+freestar felix von hunter,PLAYER,1
+magnum,ORG_OTHER,1
+mosaic,ORG_OTHER,1
+amarillo,LOCATION,1
+2995,MONEY,1
+1966 world cup,EVENT_OTHER,1
+next few weeks,DATE,1
+hope solo,PLAYER,1
+winston-salem,LOCATION,1
+walmart,ORG_OTHER,1
+forsyth district,LOCATION,1
+victoria roemer,PLAYER,1
+solo with,MISC,1
+30 days,DATE,1
+2500,MONEY,1
+202,NUMERIC,1
+two-year-old,DATE,1
+spain fa,ORG_OTHER,1
+alayah pilgrim,PLAYER,1
+rome,LOCATION,1
+moroccan,NATIONALITY,1
+alayah,PLAYER,1
+pilgrim,ORG_OTHER,1
+giallorosse,ORG_OTHER,1
+tre fontane,LOCATION,1
+mourinho,ORG_OTHER,1
+jose mourinho,PLAYER,1
+antonio conte's,PLAYER,1
+white hart lane,LOCATION,1
+wavey,ORG_OTHER,1
+nike tn,ORG_OTHER,1
+women's cup,ORG_OTHER,1
+club america,LOCATION,1
+kentucky,LOCATION,1
+spurs shop,ORG_OTHER,1
+5995,MONEY,1
+players' tribune,ORG_OTHER,1
+fa women's premier league cup and fa women's cup,MISC,1
+seven-year,DATE,1
+2015 world cup,EVENT_OTHER,1
+0ws,NUMERIC,1
+wembley park,LOCATION,1
+metropolitan underground,LOCATION,1
+wembley central,LOCATION,1
+bakerloo,PLAYER,1
+london overground metro,LOCATION,1
+10 to 15-minute,NUMERIC,1
+chiltern railways,ORG_OTHER,1
+83,DATE,1
+92,DATE,1
+224,NUMERIC,1
+a406,MISC,1
+m1,MISC,1
+a406,NUMERIC,1
+a404,NUMERIC,1
+a40,MISC,1
+wembley rail station,LOCATION,1
+harrow road,LOCATION,1
+wembley hill road,LOCATION,1
+may 19 2007,DATE,1
+wembley stadium's,LOCATION,1
+england u-21's,ORG_OTHER,1
+1923,DATE,1
+foster & partners,ORG_OTHER,1
+757 million,MONEY,1
+916,MONEY,1
+127 billion,MONEY,1
+153bn,MONEY,1
+133-metre,MISC,1
+over 315 metres,MISC,1
+52 metres,MISC,1
+between 2017 and 2019,DATE,1
+tottenham hotspur stadium,LOCATION,1
+leicester city's,LOCATION,1
+coldplay,MISC,1
+eminem,PLAYER,1
+ed sheeran,PLAYER,1
+adele,PLAYER,1
+98000,NUMERIC,1
+1929,DATE,1
+rugby league challenge cup final,ORG_OTHER,1
+saracens,LOCATION,1
+aviva premiership,MISC,1
+heineken cup,ORG_OTHER,1
+wba,ORG_OTHER,1
+ibf,ORG_OTHER,1
+carl froch,PLAYER,1
+george groves,PLAYER,1
+may 31 2014,DATE,1
+wladimir klitschko,PLAYER,1
+april 2022,DATE,1
+tyson fury,PLAYER,1
+dillian whyte,PLAYER,1
+94000,NUMERIC,1
+tottenham hotspur stadium,ORG_OTHER,1
+every day of the week,DATE,1
+1000am,NUMERIC,1
+22,MONEY,1
+wrexham association football club,ORG_OTHER,1
+65000,NUMERIC,1
+portuguese cup champions porto,EVENT_OTHER,1
+cup winners cup,EVENT_OTHER,1
+two decades,DATE,1
+alex hamilton,PLAYER,1
+2004,DATE,1
+wrexham supporters trust,ORG_OTHER,1
+87 years,DATE,1
+dragons,ORG_OTHER,1
+around 2 million,MONEY,1
+north wales,LOCATION,1
+ryan reynlods,PLAYER,1
+maxine,PLAYER,1
+rr mcreynolds company llc,ORG_OTHER,1
+982 percent,MISC,1
+powerchair,ORG_OTHER,1
+fifa 07,MISC,1
+ollie palmer,PLAYER,1
+afc wimbledon,ORG_OTHER,1
+kop,ORG_OTHER,1
+phillip lynch,PLAYER,1
+66,DATE,1
+around 200000,MONEY,1
+322000,MONEY,1
+black cats,MISC,1
+luke booth,PLAYER,1
+philadelphian,PLAYER,1
+wayne jones,PLAYER,1
+1864,DATE,1
+wrexham,PLAYER,1
+most days,DATE,1
+hollywood boys,EVENT_OTHER,1
+mad 4 movies,ORG_OTHER,1
+ryan,PLAYER,1
+deadpool,PLAYER,1
+nathan salt,PLAYER,1
+bccm boarder collectables,ORG_OTHER,1
+nathan,ORG_OTHER,1
+rich fay,PLAYER,1
+jordan griffiths,PLAYER,1
+wetherspoons,ORG_OTHER,1
+wrexham general,ORG_OTHER,1
+a second year,DATE,1
+weekend of february 2-5,DATE,1
+150000,NUMERIC,1
+2050,DATE,1
+each year,DATE,1
+january 18 to february 5,DATE,1
+green football cup,LOCATION,1
+sarah jacobs,PLAYER,1
+green football weekend,MISC,1
+stream sky sports,MISC,1
+sky sports sky sports,MISC,1
+gary hughes,PLAYER,1
+dale vince,PLAYER,1
+green football,ORG_OTHER,1
+billions,NUMERIC,1
+over 30 million,NUMERIC,1
+february 2024,DATE,1
+more than 80,NUMERIC,1
+tnt sports,MEDIA,1
+football supporters association,ORG_OTHER,1
+2nd,DATE,1
+bob hunt,PLAYER,1
+swindon,LOCATION,1
+cheltenham,LOCATION,1
+bristol rovers,ORG_OTHER,1
+forest green rovers,MISC,1
+green britain group,ORG_OTHER,1
+february 2nd,DATE,1
+fox soccer,ORG_OTHER,1
+secondly,NUMERIC,1

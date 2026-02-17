@@ -419,14 +419,18 @@ def main():
                         help="Number of articles per gender (e.g. --subset 1000)")
     parser.add_argument("--output-dir", type=str, default="data/ner_outputs",
                         help="Output directory (e.g. data/test_outputs)")
+    parser.add_argument("--input-dir", type=str, default=None,
+                        help="Input directory containing men_articles.csv / women_articles.csv")
     parser.add_argument("--batch-size", type=int, default=100)
     args = parser.parse_args()
 
     output_base = Path(args.output_dir)
+    input_base = Path(args.input_dir) if args.input_dir else PROCESSED_DIR
 
     # Load data
-    men_df = pd.read_csv(PROCESSED_DIR / "men_articles.csv")
-    women_df = pd.read_csv(PROCESSED_DIR / "women_articles.csv")
+    logger.info(f"Loading data from: {input_base}")
+    men_df = pd.read_csv(input_base / "men_articles.csv")
+    women_df = pd.read_csv(input_base / "women_articles.csv")
 
     if args.test:
         men_df = men_df.head(50)

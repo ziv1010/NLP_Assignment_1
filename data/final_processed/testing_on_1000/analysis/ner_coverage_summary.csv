@@ -1,0 +1,3 @@
+gender,total_articles,articles_with_entities,articles_without_entities,coverage_pct,avg_entities_per_article_all,avg_entities_per_article_with_entities
+Men,1000,630,370,63.0,54.201,86.03333333333333
+Women,1000,618,382,61.8,50.279,81.35760517799353

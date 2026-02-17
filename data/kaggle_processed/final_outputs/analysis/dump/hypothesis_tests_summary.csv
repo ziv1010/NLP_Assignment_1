@@ -1,0 +1,24 @@
+hypothesis,test_name,statistic,p_value,effect_size,effect_type,note,q_value_bh,significant_0_05,significant_fdr_0_05
+H1,Mann-Whitney U (PLAYER mentions per article),6254965.0,1.1069506376327417e-15,-0.18233971097296728,Cohen's d,"95% CI mean diff Other-Women: [-3.044, -1.629]",1.958451128119466e-15,True,True
+H2,Mann-Whitney U (competition-purity of club pairs),18576819.0,2.7422141939861565e-177,0.4278662829929012,Cohen's d,"95% CI mean diff Other-Women: [0.084, 0.100]",1.57677316154204e-176,True,True
+H3,Spearman correlation manager-vs-negative (Other (Men's)),0.24502178603077773,2.41067803877213e-113,0.24502178603077773,Spearman rho,,9.24093248195983e-113,True,True
+H3,Spearman correlation manager-vs-negative (Women's),0.256629460611216,5.140554408211084e-29,0.256629460611216,Spearman rho,,1.182327513888549e-28,True,True
+H3,Proportion z-test (manager-negative rate Other vs Women),-0.380765112377613,0.7033775489083727,0.014939207983070357,Cohen's h,,0.7033775489083728,False,False
+H4,Mann-Whitney U PLAYER×CLUB cooc transfer vs non-transfer (Other (Men's)),11184185.5,1.9326597509293696e-130,0.303330139892755,Cohen's d,"95% CI mean diff transfer-non: [24.149, 32.272]",8.8902348542751e-130,True,True
+H4,Mann-Whitney U MONEY mentions transfer vs non-transfer (Other (Men's)),11070213.0,2.757532321620128e-207,0.4805554114005151,Cohen's d,"95% CI mean diff transfer-non: [0.758, 0.914]",2.114108113242098e-206,True,True
+H4,Mann-Whitney U PLAYER×CLUB cooc transfer vs non-transfer (Women's),516746.0,5.028780787252627e-17,0.3196987851437707,Cohen's d,"95% CI mean diff transfer-non: [23.498, 41.069]",9.638496508900869e-17,True,True
+H4,Mann-Whitney U MONEY mentions transfer vs non-transfer (Women's),511388.5,2.1948270391731906e-24,0.44588606525019847,Cohen's d,"95% CI mean diff transfer-non: [0.878, 1.341]",4.589183809180308e-24,True,True
+H5,Mann-Whitney U (injury-term hits per article),7066222.5,3.2667391779875695e-08,-0.15094280122985795,Cohen's d,"95% CI mean diff Other-Women: [-0.958, -0.424]",4.4197059466890646e-08,True,True
+H9,Mann-Whitney U (distinct PLAYERs per article),6774170.5,3.1650246681140644e-13,-0.16414830896214508,Cohen's d,"95% CI mean diff Other-Women: [-2.032, -1.038]",4.853037824441565e-13,True,True
+H9,Mann-Whitney U (distinct CLUBs per article),8030586.5,0.00011204401492336238,0.04783057965357781,Cohen's d,,0.00013563222859143867,True,True
+H9,Mann-Whitney U (player-to-club ratio per article),7088491.5,6.7725111375305366e-06,-0.17730580608709207,Cohen's d,,8.653764231289019e-06,True,True
+H10,Chi-square (name format distribution),474.8004585011698,7.913897734627902e-104,0.059899716599537536,Cramér's V,,2.600280684234882e-103,True,True
+H11,Chi-square (Youth/Age vs Experience descriptor distribution),64.01406019534905,1.235344249235483e-15,0.1048130063209534,Cramér's V,,2.029494123744008e-15,True,True
+H11,Mann-Whitney U (per-article youth-rate),6984324.0,0.04262355677319107,-0.02320992903257386,Cohen's d,"95% CI mean diff Other-Women: [-0.024, 0.008]",0.04456099117197248,True,True
+H12,Chi-square (mentality vs physicality descriptor distribution),11.739044418546698,0.0006120243944636128,0.04642774115188201,Cramér's V,,0.0007038280536331547,True,True
+H13,Proportion z-test (relational framing rate),14.179642237201547,0.0,0.09212939537259346,Cohen's h,,0.0,True,True
+H14,Proportion z-test (growth term rate near COMPETITION/CLUB),14.502866936258256,0.0,0.10846651625456322,Cohen's h,,0.0,True,True
+H15,Mann-Whitney U PLAYER share win-vs-nonwin (Other (Men's)),8129574.0,0.0017485492056163751,0.07284760385712696,Cohen's d,"95% CI mean diff win-nonwin: [-0.015, -0.004]",0.001915077701389363,True,True
+H15,Mann-Whitney U PLAYER share win-vs-nonwin (Women's),444540.5,2.802539492133014e-12,0.31808147702017686,Cohen's d,"95% CI mean diff win-nonwin: [0.024, 0.046]",4.0286505199412074e-12,True,True
+H15,Mann-Whitney U (overall PLAYER share Other vs Women),9510016.5,3.774405608698186e-64,0.44916381527252397,Cohen's d,,9.645703222228698e-64,True,True
+D1,Mann-Whitney U (entity entropy per article),5627822.0,7.588688923839671e-68,-0.43737094076480676,Cohen's d,"95% CI mean diff Other-Women: [-0.161, -0.130]",2.1817480656039053e-67,True,True
